@@ -1,3 +1,1 @@
 History
-| 2024-07-12 | ![Gangi, Sicily, Italy (© Andrea Caruso/Amazing Aerial Agency)](https://cn.bing.com/th?id=OHR.GangiSicily_EN-US5325083744_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [下载](https://cn.bing.com/th?id=OHR.GangiSicily_EN-US5325083744_UHD.jpg) |
-| 2024-07-12 | ![Gangi, Sicily, Italy (© Andrea Caruso/Amazing Aerial Agency)](https://cn.bing.com/th?id=OHR.GangiSicily_EN-US5325083744_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [下载](https://cn.bing.com/th?id=OHR.GangiSicily_EN-US5325083744_UHD.jpg) |
