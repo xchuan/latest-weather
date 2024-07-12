@@ -9,12 +9,15 @@
 name: Deno
 
 on:
+  workflow_dispatch:
+  repository_dispatch:
+    types: [schedule-run]
   push:
     branches: ["main"]
   pull_request:
     branches: ["main"]
   schedule:
-    - cron: '30 * * * *'
+    - cron: '30 4 * * 2'
   
 permissions:
   contents: write
