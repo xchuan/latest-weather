@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Sun Jul 14 2024 03:16:52 GMT+0000 (Coordinated Universal Time) -->
-  ![Fairy chimneys and cave dwellings in Cappadocia, Türkiye (© Storm Is Me/Shutterstock)](https://cn.bing.com/th?id=OHR.CappadociaRocks_EN-US8162611189_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Mon Jul 15 2024 03:12:14 GMT+0000 (Coordinated Universal Time) -->
+  ![Volcanic vineyard in the La Geria wine region of Lanzarote, Canary Islands, Spain (© Pol Albarrán/Getty Images)](https://cn.bing.com/th?id=OHR.LaGeriaLanzarote_EN-US4849523931_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2024-07-14
+  2024-07-15
 
-  [Fairy chimneys and cave dwellings in Cappadocia, Türkiye (© Storm Is Me/Shutterstock)](https://cn.bing.com/th?id=OHR.CappadociaRocks_EN-US8162611189_UHD.jpg)
+  [Volcanic vineyard in the La Geria wine region of Lanzarote, Canary Islands, Spain (© Pol Albarrán/Getty Images)](https://cn.bing.com/th?id=OHR.LaGeriaLanzarote_EN-US4849523931_UHD.jpg)
 <!-- END -->
 
 
