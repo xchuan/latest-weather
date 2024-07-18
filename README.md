@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Wed Jul 17 2024 06:13:26 GMT+0000 (Coordinated Universal Time) -->
-  ![The Neolithic settlement of Skara Brae, Orkney, Scotland (© Paul Williams - FunkyStock/Getty Images)](https://cn.bing.com/th?id=OHR.AncientOrkney_EN-US8469766447_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Thu Jul 18 2024 03:12:16 GMT+0000 (Coordinated Universal Time) -->
+  ![Medieval city of Rothenburg ob der Tauber, Germany (© kanuman/Getty Images)](https://cn.bing.com/th?id=OHR.MedievalRothenburg_EN-US8575765997_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2024-07-17
+  2024-07-18
 
-  [The Neolithic settlement of Skara Brae, Orkney, Scotland (© Paul Williams - FunkyStock/Getty Images)](https://cn.bing.com/th?id=OHR.AncientOrkney_EN-US8469766447_UHD.jpg)
+  [Medieval city of Rothenburg ob der Tauber, Germany (© kanuman/Getty Images)](https://cn.bing.com/th?id=OHR.MedievalRothenburg_EN-US8575765997_UHD.jpg)
 <!-- END -->
 
 
