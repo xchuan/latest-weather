@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Mon Jul 22 2024 03:16:52 GMT+0000 (Coordinated Universal Time) -->
-  ![Wooden fishing boats at Kendwa, Zanzibar, Tanzania (© Lubos Paukeje/Alamy)](https://cn.bing.com/th?id=OHR.ZanzibarBoats_EN-US9009404410_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Tue Jul 23 2024 03:12:17 GMT+0000 (Coordinated Universal Time) -->
+  ![Hammock camping on a lake in Central Florida (© Mac Stone/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.HammockCamping_EN-US9298465355_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2024-07-22
+  2024-07-23
 
-  [Wooden fishing boats at Kendwa, Zanzibar, Tanzania (© Lubos Paukeje/Alamy)](https://cn.bing.com/th?id=OHR.ZanzibarBoats_EN-US9009404410_UHD.jpg)
+  [Hammock camping on a lake in Central Florida (© Mac Stone/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.HammockCamping_EN-US9298465355_UHD.jpg)
 <!-- END -->
 
 
