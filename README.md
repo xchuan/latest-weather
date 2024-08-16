@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Thu Aug 15 2024 03:15:51 GMT+0000 (Coordinated Universal Time) -->
-  ![Thorny devil, Watarrka National Park, Australia (© Yva Momatiuk and John Eastcott/Minden Pictures)](https://cn.bing.com/th?id=OHR.WatarrkaLizard_EN-US2106702347_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Fri Aug 16 2024 03:12:18 GMT+0000 (Coordinated Universal Time) -->
+  ![Hang Sơn Đoòng cave, Phong Nha-Kẻ Bàng National Park, Vietnam (© Geng Xu/Getty Images)](https://cn.bing.com/th?id=OHR.HangCave_EN-US9374263509_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2024-08-15
+  2024-08-16
 
-  [Thorny devil, Watarrka National Park, Australia (© Yva Momatiuk and John Eastcott/Minden Pictures)](https://cn.bing.com/th?id=OHR.WatarrkaLizard_EN-US2106702347_UHD.jpg)
+  [Hang Sơn Đoòng cave, Phong Nha-Kẻ Bàng National Park, Vietnam (© Geng Xu/Getty Images)](https://cn.bing.com/th?id=OHR.HangCave_EN-US9374263509_UHD.jpg)
 <!-- END -->
 
 
