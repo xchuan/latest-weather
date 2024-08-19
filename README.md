@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Sun Aug 18 2024 03:15:12 GMT+0000 (Coordinated Universal Time) -->
-  ![Alfanzina Lighthouse, Algarve, Portugal (© Andreas Kunz/Getty Images)](https://cn.bing.com/th?id=OHR.AlfanzinaLighthouse_EN-US9545750672_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Mon Aug 19 2024 03:12:15 GMT+0000 (Coordinated Universal Time) -->
+  ![Huntington Beach Pier, California, at sunset (© Stan Moniz Photography/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.HuntingtonBeach_EN-US9892577517_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2024-08-18
+  2024-08-19
 
-  [Alfanzina Lighthouse, Algarve, Portugal (© Andreas Kunz/Getty Images)](https://cn.bing.com/th?id=OHR.AlfanzinaLighthouse_EN-US9545750672_UHD.jpg)
+  [Huntington Beach Pier, California, at sunset (© Stan Moniz Photography/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.HuntingtonBeach_EN-US9892577517_UHD.jpg)
 <!-- END -->
 
 
