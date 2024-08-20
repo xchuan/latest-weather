@@ -12,7 +12,7 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Tue Aug 20 2024 03:12:15 GMT+0000 (Coordinated Universal Time) -->
+<!--  Tue Aug 20 2024 03:17:01 GMT+0000 (Coordinated Universal Time) -->
   ![Museum of Flight, Seattle, Washington (© George Rose/Getty Images)](https://cn.bing.com/th?id=OHR.FlightMuseum_EN-US0151236175_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
   2024-08-20
