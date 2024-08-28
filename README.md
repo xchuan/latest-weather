@@ -12,7 +12,7 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Wed Aug 28 2024 03:12:16 GMT+0000 (Coordinated Universal Time) -->
+<!--  Wed Aug 28 2024 03:16:25 GMT+0000 (Coordinated Universal Time) -->
   ![Young black caiman, Tambopata National Reserve, Peru (© Maxime Aliaga/Minden Pictures)](https://cn.bing.com/th?id=OHR.YoungCaiman_EN-US8572688559_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
   2024-08-28
