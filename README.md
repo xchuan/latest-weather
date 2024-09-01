@@ -12,7 +12,7 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Sun Sep 01 2024 03:12:15 GMT+0000 (Coordinated Universal Time) -->
+<!--  Sun Sep 01 2024 03:21:10 GMT+0000 (Coordinated Universal Time) -->
   ![Rock formations and sand dunes in the Sahara, Tassili n’Ajjer, Algeria (© Airpano/Amazing Aerial Agency)](https://cn.bing.com/th?id=OHR.DjanetAlgeria_EN-US9175224323_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
   2024-09-01
