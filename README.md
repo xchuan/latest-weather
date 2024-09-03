@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Mon Sep 02 2024 03:16:32 GMT+0000 (Coordinated Universal Time) -->
-  ![River Thames, London, England (© Puthipong Worasaran/Getty Images)](https://cn.bing.com/th?id=OHR.ThamesLondon_EN-US9385705885_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Tue Sep 03 2024 03:12:16 GMT+0000 (Coordinated Universal Time) -->
+  !['Power of the Titans' mural by Andrei Krautsou, North Kansas City, Missouri (© Stephen Taylor/Alamy)](https://cn.bing.com/th?id=OHR.KansasMural_EN-US9504361321_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2024-09-02
+  2024-09-03
 
-  [River Thames, London, England (© Puthipong Worasaran/Getty Images)](https://cn.bing.com/th?id=OHR.ThamesLondon_EN-US9385705885_UHD.jpg)
+  ['Power of the Titans' mural by Andrei Krautsou, North Kansas City, Missouri (© Stephen Taylor/Alamy)](https://cn.bing.com/th?id=OHR.KansasMural_EN-US9504361321_UHD.jpg)
 <!-- END -->
 
 
