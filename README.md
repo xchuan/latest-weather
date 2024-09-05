@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Wed Sep 04 2024 03:15:54 GMT+0000 (Coordinated Universal Time) -->
-  ![Crystal Lake in the Enchantments, Alpine Lakes Wilderness, Washington (© Mitch Pittman/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.AlpineLakes_EN-US9676616320_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Thu Sep 05 2024 03:12:25 GMT+0000 (Coordinated Universal Time) -->
+  ![Dusky eagle-owls, Pakistan (© zahoor salmi/Getty Images)](https://cn.bing.com/th?id=OHR.DuskyOwls_EN-US9845705930_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2024-09-04
+  2024-09-05
 
-  [Crystal Lake in the Enchantments, Alpine Lakes Wilderness, Washington (© Mitch Pittman/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.AlpineLakes_EN-US9676616320_UHD.jpg)
+  [Dusky eagle-owls, Pakistan (© zahoor salmi/Getty Images)](https://cn.bing.com/th?id=OHR.DuskyOwls_EN-US9845705930_UHD.jpg)
 <!-- END -->
 
 
