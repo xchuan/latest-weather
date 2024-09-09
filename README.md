@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Sun Sep 08 2024 03:17:02 GMT+0000 (Coordinated Universal Time) -->
-  ![Anna's hummingbird, Santa Cruz, California (© yhelfman/Getty Images)](https://cn.bing.com/th?id=OHR.SantaCruzHummer_EN-US4047958707_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Mon Sep 09 2024 03:12:15 GMT+0000 (Coordinated Universal Time) -->
+  ![Interior of the Stockholm Public Library, Sweden (© Andrei Hrabun/Alamy)](https://cn.bing.com/th?id=OHR.StockholmLibrary_EN-US4140921886_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2024-09-08
+  2024-09-09
 
-  [Anna's hummingbird, Santa Cruz, California (© yhelfman/Getty Images)](https://cn.bing.com/th?id=OHR.SantaCruzHummer_EN-US4047958707_UHD.jpg)
+  [Interior of the Stockholm Public Library, Sweden (© Andrei Hrabun/Alamy)](https://cn.bing.com/th?id=OHR.StockholmLibrary_EN-US4140921886_UHD.jpg)
 <!-- END -->
 
 
