@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Wed Sep 18 2024 03:17:12 GMT+0000 (Coordinated Universal Time) -->
-  ![Mid-Autumn Festival in Gardens by the Bay, Singapore (© Victor Y. Zhuo/Alamy)](https://cn.bing.com/th?id=OHR.MidAutumnSingapore_EN-US5283310908_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Thu Sep 19 2024 03:18:00 GMT+0000 (Coordinated Universal Time) -->
+  ![Gujō Hachiman Castle, Gifu prefecture, Japan (© ta2funk ito/500px/Getty Images)](https://cn.bing.com/th?id=OHR.GujoHachiman_EN-US5502837623_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2024-09-18
+  2024-09-19
 
-  [Mid-Autumn Festival in Gardens by the Bay, Singapore (© Victor Y. Zhuo/Alamy)](https://cn.bing.com/th?id=OHR.MidAutumnSingapore_EN-US5283310908_UHD.jpg)
+  [Gujō Hachiman Castle, Gifu prefecture, Japan (© ta2funk ito/500px/Getty Images)](https://cn.bing.com/th?id=OHR.GujoHachiman_EN-US5502837623_UHD.jpg)
 <!-- END -->
 
 
