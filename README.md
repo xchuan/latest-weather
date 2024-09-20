@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Thu Sep 19 2024 03:18:00 GMT+0000 (Coordinated Universal Time) -->
-  ![Gujō Hachiman Castle, Gifu prefecture, Japan (© ta2funk ito/500px/Getty Images)](https://cn.bing.com/th?id=OHR.GujoHachiman_EN-US5502837623_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Fri Sep 20 2024 03:18:11 GMT+0000 (Coordinated Universal Time) -->
+  ![Playground at the Obereversand Lighthouse in Dorum-Neufeld, Germany (© INGO WAGNER/DPA/AFP via Getty Images)](https://cn.bing.com/th?id=OHR.PiratePlayground_EN-US3254868743_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2024-09-19
+  2024-09-20
 
-  [Gujō Hachiman Castle, Gifu prefecture, Japan (© ta2funk ito/500px/Getty Images)](https://cn.bing.com/th?id=OHR.GujoHachiman_EN-US5502837623_UHD.jpg)
+  [Playground at the Obereversand Lighthouse in Dorum-Neufeld, Germany (© INGO WAGNER/DPA/AFP via Getty Images)](https://cn.bing.com/th?id=OHR.PiratePlayground_EN-US3254868743_UHD.jpg)
 <!-- END -->
 
 
