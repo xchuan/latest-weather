@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Mon Sep 30 2024 03:25:56 GMT+0000 (Coordinated Universal Time) -->
-  ![West Cornwall Covered Bridge over the Housatonic River, Connecticut (© pabradyphoto/Getty Images)](https://cn.bing.com/th?id=OHR.ConnecticutBridge_EN-US4557226937_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Tue Oct 01 2024 03:28:46 GMT+0000 (Coordinated Universal Time) -->
+  ![Herd of walruses in northern Spitsbergen, Svalbard archipelago, Norway (© AWL Images/Danita Delimont)](https://cn.bing.com/th?id=OHR.WalrusNorway_EN-US4658961878_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2024-09-30
+  2024-10-01
 
-  [West Cornwall Covered Bridge over the Housatonic River, Connecticut (© pabradyphoto/Getty Images)](https://cn.bing.com/th?id=OHR.ConnecticutBridge_EN-US4557226937_UHD.jpg)
+  [Herd of walruses in northern Spitsbergen, Svalbard archipelago, Norway (© AWL Images/Danita Delimont)](https://cn.bing.com/th?id=OHR.WalrusNorway_EN-US4658961878_UHD.jpg)
 <!-- END -->
 
 
