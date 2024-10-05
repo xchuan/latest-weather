@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Fri Oct 04 2024 03:20:28 GMT+0000 (Coordinated Universal Time) -->
-  ![Taj Mahal in Agra, Uttar Pradesh, India (© Tanarch/Getty Images)](https://cn.bing.com/th?id=OHR.TajMahalReflection_EN-US5053333041_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Sat Oct 05 2024 03:19:14 GMT+0000 (Coordinated Universal Time) -->
+  ![Jupiter's icy moon Europa (© NASA/JPL-Caltech/SETI Institute)](https://cn.bing.com/th?id=OHR.EuropaMoon_EN-US8269574935_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2024-10-04
+  2024-10-05
 
-  [Taj Mahal in Agra, Uttar Pradesh, India (© Tanarch/Getty Images)](https://cn.bing.com/th?id=OHR.TajMahalReflection_EN-US5053333041_UHD.jpg)
+  [Jupiter's icy moon Europa (© NASA/JPL-Caltech/SETI Institute)](https://cn.bing.com/th?id=OHR.EuropaMoon_EN-US8269574935_UHD.jpg)
 <!-- END -->
 
 
