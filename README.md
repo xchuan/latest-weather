@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Sat Oct 05 2024 03:19:14 GMT+0000 (Coordinated Universal Time) -->
-  ![Jupiter's icy moon Europa (© NASA/JPL-Caltech/SETI Institute)](https://cn.bing.com/th?id=OHR.EuropaMoon_EN-US8269574935_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Sun Oct 06 2024 03:23:22 GMT+0000 (Coordinated Universal Time) -->
+  ![African elephants in Tsavo East National Park, Kenya (© Neil Bowman/Minden Pictures)](https://cn.bing.com/th?id=OHR.ElephantTeacher_EN-US8363933732_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2024-10-05
+  2024-10-06
 
-  [Jupiter's icy moon Europa (© NASA/JPL-Caltech/SETI Institute)](https://cn.bing.com/th?id=OHR.EuropaMoon_EN-US8269574935_UHD.jpg)
+  [African elephants in Tsavo East National Park, Kenya (© Neil Bowman/Minden Pictures)](https://cn.bing.com/th?id=OHR.ElephantTeacher_EN-US8363933732_UHD.jpg)
 <!-- END -->
 
 
