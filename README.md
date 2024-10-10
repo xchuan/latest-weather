@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Wed Oct 09 2024 03:20:57 GMT+0000 (Coordinated Universal Time) -->
-  ![Mototi octopus, Lembeh Strait, Indonesia (© Howard Chew/Alamy)](https://cn.bing.com/th?id=OHR.MototiOctopus_EN-US8820270832_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Thu Oct 10 2024 03:12:16 GMT+0000 (Coordinated Universal Time) -->
+  ![Aspens in the White River National Forest, Colorado (© Jason Hatfield/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.AspensColorado_EN-US9105602602_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2024-10-09
+  2024-10-10
 
-  [Mototi octopus, Lembeh Strait, Indonesia (© Howard Chew/Alamy)](https://cn.bing.com/th?id=OHR.MototiOctopus_EN-US8820270832_UHD.jpg)
+  [Aspens in the White River National Forest, Colorado (© Jason Hatfield/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.AspensColorado_EN-US9105602602_UHD.jpg)
 <!-- END -->
 
 
