@@ -5,6 +5,7 @@ import { createReadme, createArchive } from "./utils.ts";
 const BING_URL = "https://cn.bing.com";
 const BING_API = `${BING_URL}/HPImageArchive.aspx?format=js&idx=0&n=1&nc=1615820180559&pid=hp&uhd=1&uhdwidth=3840&uhdheight=2160`;
 
+//&rf=LaDigue_UHD.jpg&pid=hp&w=1280&h=768&rs=1&c=4
 const response = await fetch(BING_API);
 
 if (!response.ok) {
