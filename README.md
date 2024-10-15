@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Mon Oct 14 2024 03:24:16 GMT+0000 (Coordinated Universal Time) -->
-  ![Courtyard of the Maidens, Alcázar of Seville, Spain (© Danny Lehman/Getty Images)](https://cn.bing.com/th?id=OHR.AlcazarSeville_EN-US9523655289_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Tue Oct 15 2024 03:12:22 GMT+0000 (Coordinated Universal Time) -->
+  ![Ancestral Pueblo granaries at Nankoweap, Grand Canyon National Park, Arizona (© Andrew Peacock/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.PuebloNankoweap_EN-US9631367700_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2024-10-14
+  2024-10-15
 
-  [Courtyard of the Maidens, Alcázar of Seville, Spain (© Danny Lehman/Getty Images)](https://cn.bing.com/th?id=OHR.AlcazarSeville_EN-US9523655289_UHD.jpg)
+  [Ancestral Pueblo granaries at Nankoweap, Grand Canyon National Park, Arizona (© Andrew Peacock/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.PuebloNankoweap_EN-US9631367700_UHD.jpg)
 <!-- END -->
 
 
