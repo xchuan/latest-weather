@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Wed Oct 16 2024 03:23:22 GMT+0000 (Coordinated Universal Time) -->
-  ![Great wildebeest migration at Mara River, Kenya (© Ayzenstayn/Getty Images)](https://cn.bing.com/th?id=OHR.MaraMigration_EN-US9704012409_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Thu Oct 17 2024 03:12:17 GMT+0000 (Coordinated Universal Time) -->
+  ![Fossils of belemnites and ammonites, Jurassic Coast, Dorset, England (© Nature Picture Library/Alamy)](https://cn.bing.com/th?id=OHR.FossilsDorset_EN-US9782204825_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2024-10-16
+  2024-10-17
 
-  [Great wildebeest migration at Mara River, Kenya (© Ayzenstayn/Getty Images)](https://cn.bing.com/th?id=OHR.MaraMigration_EN-US9704012409_UHD.jpg)
+  [Fossils of belemnites and ammonites, Jurassic Coast, Dorset, England (© Nature Picture Library/Alamy)](https://cn.bing.com/th?id=OHR.FossilsDorset_EN-US9782204825_UHD.jpg)
 <!-- END -->
 
 
