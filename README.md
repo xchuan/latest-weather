@@ -12,7 +12,7 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Thu Oct 17 2024 03:12:17 GMT+0000 (Coordinated Universal Time) -->
+<!--  Thu Oct 17 2024 03:21:09 GMT+0000 (Coordinated Universal Time) -->
   ![Fossils of belemnites and ammonites, Jurassic Coast, Dorset, England (© Nature Picture Library/Alamy)](https://cn.bing.com/th?id=OHR.FossilsDorset_EN-US9782204825_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
   2024-10-17
