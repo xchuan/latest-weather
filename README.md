@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Tue Oct 29 2024 04:42:22 GMT+0000 (Coordinated Universal Time) -->
-  ![Pumpkin field, Victoria, British Columbia, Canada (© Shaun Cunningham/Alamy)](https://cn.bing.com/th?id=OHR.PumpkinMist_EN-US3686565863_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Wed Oct 30 2024 03:12:21 GMT+0000 (Coordinated Universal Time) -->
+  ![Great horned owl (© Mark Newman/Getty Images)](https://cn.bing.com/th?id=OHR.GreatOwl_EN-US3778222109_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2024-10-29
+  2024-10-30
 
-  [Pumpkin field, Victoria, British Columbia, Canada (© Shaun Cunningham/Alamy)](https://cn.bing.com/th?id=OHR.PumpkinMist_EN-US3686565863_UHD.jpg)
+  [Great horned owl (© Mark Newman/Getty Images)](https://cn.bing.com/th?id=OHR.GreatOwl_EN-US3778222109_UHD.jpg)
 <!-- END -->
 
 
