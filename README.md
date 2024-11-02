@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Fri Nov 01 2024 03:29:46 GMT+0000 (Coordinated Universal Time) -->
-  ![Chimera of Notre-Dame de Paris, France (© scaliger/Getty Images)](https://cn.bing.com/th?id=OHR.GargoyleParis_EN-US4049828558_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Sat Nov 02 2024 03:12:19 GMT+0000 (Coordinated Universal Time) -->
+  ![Pueblo ruins, Hovenweep National Monument, Utah (© Alan Majchrowicz/Getty Images)](https://cn.bing.com/th?id=OHR.HovenweepRuins_EN-US3883549583_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2024-11-01
+  2024-11-02
 
-  [Chimera of Notre-Dame de Paris, France (© scaliger/Getty Images)](https://cn.bing.com/th?id=OHR.GargoyleParis_EN-US4049828558_UHD.jpg)
+  [Pueblo ruins, Hovenweep National Monument, Utah (© Alan Majchrowicz/Getty Images)](https://cn.bing.com/th?id=OHR.HovenweepRuins_EN-US3883549583_UHD.jpg)
 <!-- END -->
 
 
