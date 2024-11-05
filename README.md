@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Mon Nov 04 2024 03:25:12 GMT+0000 (Coordinated Universal Time) -->
-  ![Caribbean flamingo nests, Ría Lagartos Biosphere Reserve, Yucatán, Mexico (© Claudio Contreras/Minden Pictures)](https://cn.bing.com/th?id=OHR.YucatanBiosphere_EN-US4019968428_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Tue Nov 05 2024 03:12:18 GMT+0000 (Coordinated Universal Time) -->
+  ![Grasmere, Lake District, Cumbria, England (© Thomas Molyneux/Getty Images)](https://cn.bing.com/th?id=OHR.CumbriaAutumn_EN-US4102686749_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2024-11-04
+  2024-11-05
 
-  [Caribbean flamingo nests, Ría Lagartos Biosphere Reserve, Yucatán, Mexico (© Claudio Contreras/Minden Pictures)](https://cn.bing.com/th?id=OHR.YucatanBiosphere_EN-US4019968428_UHD.jpg)
+  [Grasmere, Lake District, Cumbria, England (© Thomas Molyneux/Getty Images)](https://cn.bing.com/th?id=OHR.CumbriaAutumn_EN-US4102686749_UHD.jpg)
 <!-- END -->
 
 
