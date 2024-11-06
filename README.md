@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Tue Nov 05 2024 04:41:12 GMT+0000 (Coordinated Universal Time) -->
-  ![Grasmere, Lake District, Cumbria, England (© Thomas Molyneux/Getty Images)](https://cn.bing.com/th?id=OHR.CumbriaAutumn_EN-US4102686749_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Wed Nov 06 2024 03:12:16 GMT+0000 (Coordinated Universal Time) -->
+  ![Autumn sunrise over the National Mall, Washington, DC (© WLDavies/iStock/Getty Images Plus)](https://cn.bing.com/th?id=OHR.DCSunrise_EN-US2459275186_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2024-11-05
+  2024-11-06
 
-  [Grasmere, Lake District, Cumbria, England (© Thomas Molyneux/Getty Images)](https://cn.bing.com/th?id=OHR.CumbriaAutumn_EN-US4102686749_UHD.jpg)
+  [Autumn sunrise over the National Mall, Washington, DC (© WLDavies/iStock/Getty Images Plus)](https://cn.bing.com/th?id=OHR.DCSunrise_EN-US2459275186_UHD.jpg)
 <!-- END -->
 
 
