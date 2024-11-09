@@ -12,7 +12,7 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Sat Nov 09 2024 03:12:16 GMT+0000 (Coordinated Universal Time) -->
+<!--  Sat Nov 09 2024 03:18:30 GMT+0000 (Coordinated Universal Time) -->
   ![Aerial view of glacial rivers in Iceland (© rybarmarekk/Shutterstock)](https://cn.bing.com/th?id=OHR.GlacialRivers_EN-US4356459123_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
   2024-11-09
