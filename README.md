@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Fri Dec 06 2024 03:32:05 GMT+0000 (Coordinated Universal Time) -->
-  ![Tufa formations in Mono Lake, California (© Susanna Patras/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.MonoTufa_EN-US7607210506_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Sat Dec 07 2024 03:13:05 GMT+0000 (Coordinated Universal Time) -->
+  ![Old Town in Helsinki, Finland (© Oleksiy Mark/Shutterstock)](https://cn.bing.com/th?id=OHR.HelsinkiDusk_EN-US7738977648_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2024-12-06
+  2024-12-07
 
-  [Tufa formations in Mono Lake, California (© Susanna Patras/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.MonoTufa_EN-US7607210506_UHD.jpg)
+  [Old Town in Helsinki, Finland (© Oleksiy Mark/Shutterstock)](https://cn.bing.com/th?id=OHR.HelsinkiDusk_EN-US7738977648_UHD.jpg)
 <!-- END -->
 
 
