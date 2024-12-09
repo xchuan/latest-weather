@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Sun Dec 08 2024 03:35:30 GMT+0000 (Coordinated Universal Time) -->
-  ![Pearl Harbor Memorial Bridge, New Haven, Connecticut (© Enzo Figueres/Getty Images)](https://cn.bing.com/th?id=OHR.NewHavenBridge_EN-US7922266620_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Mon Dec 09 2024 03:12:19 GMT+0000 (Coordinated Universal Time) -->
+  ![Notre-Dame Cathedral, Paris, France (© Julien Fromentin/Getty Images)](https://cn.bing.com/th?id=OHR.ReopeningNotreDame_EN-US8084146311_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2024-12-08
+  2024-12-09
 
-  [Pearl Harbor Memorial Bridge, New Haven, Connecticut (© Enzo Figueres/Getty Images)](https://cn.bing.com/th?id=OHR.NewHavenBridge_EN-US7922266620_UHD.jpg)
+  [Notre-Dame Cathedral, Paris, France (© Julien Fromentin/Getty Images)](https://cn.bing.com/th?id=OHR.ReopeningNotreDame_EN-US8084146311_UHD.jpg)
 <!-- END -->
 
 
