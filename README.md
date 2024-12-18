@@ -12,7 +12,7 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Wed Dec 18 2024 03:12:17 GMT+0000 (Coordinated Universal Time) -->
+<!--  Wed Dec 18 2024 03:27:14 GMT+0000 (Coordinated Universal Time) -->
   ![Traditional red fishermen's cabins on the shore of Reinefjorden, Norway (© Pilat666/Getty Images)](https://cn.bing.com/th?id=OHR.ReinefjordenNorway_EN-US8636083241_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
   2024-12-18
