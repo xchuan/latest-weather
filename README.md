@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Fri Dec 20 2024 03:20:40 GMT+0000 (Coordinated Universal Time) -->
-  ![Christmas market in Sibiu, Romania (© Calin Stan/Alamy)](https://cn.bing.com/th?id=OHR.SibiuRomania_EN-US9223739756_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Sat Dec 21 2024 03:12:18 GMT+0000 (Coordinated Universal Time) -->
+  ![Santa Claus Village in Rovaniemi, Lapland, Finland (© Smelov/Shutterstock)](https://cn.bing.com/th?id=OHR.SantaClausVillage_EN-US9527661842_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2024-12-20
+  2024-12-21
 
-  [Christmas market in Sibiu, Romania (© Calin Stan/Alamy)](https://cn.bing.com/th?id=OHR.SibiuRomania_EN-US9223739756_UHD.jpg)
+  [Santa Claus Village in Rovaniemi, Lapland, Finland (© Smelov/Shutterstock)](https://cn.bing.com/th?id=OHR.SantaClausVillage_EN-US9527661842_UHD.jpg)
 <!-- END -->
 
 
