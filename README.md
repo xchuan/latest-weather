@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Sat Dec 21 2024 03:18:02 GMT+0000 (Coordinated Universal Time) -->
-  ![Santa Claus Village in Rovaniemi, Lapland, Finland (© Smelov/Shutterstock)](https://cn.bing.com/th?id=OHR.SantaClausVillage_EN-US9527661842_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Sun Dec 22 2024 03:12:17 GMT+0000 (Coordinated Universal Time) -->
+  ![Loisach River at Lake Kochelsee, Bavaria, Germany (© Christian Back/eStock Photo)](https://cn.bing.com/th?id=OHR.BavarianWinter_EN-US9813996975_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2024-12-21
+  2024-12-22
 
-  [Santa Claus Village in Rovaniemi, Lapland, Finland (© Smelov/Shutterstock)](https://cn.bing.com/th?id=OHR.SantaClausVillage_EN-US9527661842_UHD.jpg)
+  [Loisach River at Lake Kochelsee, Bavaria, Germany (© Christian Back/eStock Photo)](https://cn.bing.com/th?id=OHR.BavarianWinter_EN-US9813996975_UHD.jpg)
 <!-- END -->
 
 
