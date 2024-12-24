@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Mon Dec 23 2024 03:21:38 GMT+0000 (Coordinated Universal Time) -->
-  ![Christmas tree at Crystal Pier, Pacific Beach, San Diego, California (© SamAntonioPhotography/Getty Images)](https://cn.bing.com/th?id=OHR.CrystalPier_EN-US0086755810_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Tue Dec 24 2024 03:12:18 GMT+0000 (Coordinated Universal Time) -->
+  ![Red-crowned cranes in Kushiro, Hokkaido, Japan (© Wirestock, Inc./Alamy)](https://cn.bing.com/th?id=OHR.FestivusCranes_EN-US0396321898_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2024-12-23
+  2024-12-24
 
-  [Christmas tree at Crystal Pier, Pacific Beach, San Diego, California (© SamAntonioPhotography/Getty Images)](https://cn.bing.com/th?id=OHR.CrystalPier_EN-US0086755810_UHD.jpg)
+  [Red-crowned cranes in Kushiro, Hokkaido, Japan (© Wirestock, Inc./Alamy)](https://cn.bing.com/th?id=OHR.FestivusCranes_EN-US0396321898_UHD.jpg)
 <!-- END -->
 
 
