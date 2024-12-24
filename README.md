@@ -12,7 +12,7 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Tue Dec 24 2024 03:12:18 GMT+0000 (Coordinated Universal Time) -->
+<!--  Tue Dec 24 2024 03:20:16 GMT+0000 (Coordinated Universal Time) -->
   ![Red-crowned cranes in Kushiro, Hokkaido, Japan (© Wirestock, Inc./Alamy)](https://cn.bing.com/th?id=OHR.FestivusCranes_EN-US0396321898_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
   2024-12-24
