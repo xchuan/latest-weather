@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Mon Dec 30 2024 03:22:07 GMT+0000 (Coordinated Universal Time) -->
-  ![Borobudur Temple, Java, Indonesia (© Robertharding/Shutterstock)](https://cn.bing.com/th?id=OHR.BorobudurBells_EN-US6354350828_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Tue Dec 31 2024 03:12:19 GMT+0000 (Coordinated Universal Time) -->
+  ![Tasmanian snow gum and pandani plants near Lake Dobson, Mount Field National Park, Tasmania, Australia (© Whitworth Images/Getty Images)](https://cn.bing.com/th?id=OHR.MountFieldNP_EN-US6905459745_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2024-12-30
+  2024-12-31
 
-  [Borobudur Temple, Java, Indonesia (© Robertharding/Shutterstock)](https://cn.bing.com/th?id=OHR.BorobudurBells_EN-US6354350828_UHD.jpg)
+  [Tasmanian snow gum and pandani plants near Lake Dobson, Mount Field National Park, Tasmania, Australia (© Whitworth Images/Getty Images)](https://cn.bing.com/th?id=OHR.MountFieldNP_EN-US6905459745_UHD.jpg)
 <!-- END -->
 
 
