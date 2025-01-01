@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Tue Dec 31 2024 04:40:57 GMT+0000 (Coordinated Universal Time) -->
-  ![Tasmanian snow gum and pandani plants near Lake Dobson, Mount Field National Park, Tasmania, Australia (© Whitworth Images/Getty Images)](https://cn.bing.com/th?id=OHR.MountFieldNP_EN-US6905459745_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Wed Jan 01 2025 03:12:19 GMT+0000 (Coordinated Universal Time) -->
+  ![New Year's Eve fireworks over Copacabana Beach, Rio de Janeiro, Brazil (© Wagner Meier/Getty Images)](https://cn.bing.com/th?id=OHR.RioNewYear_EN-US7216341802_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2024-12-31
+  2025-01-01
 
-  [Tasmanian snow gum and pandani plants near Lake Dobson, Mount Field National Park, Tasmania, Australia (© Whitworth Images/Getty Images)](https://cn.bing.com/th?id=OHR.MountFieldNP_EN-US6905459745_UHD.jpg)
+  [New Year's Eve fireworks over Copacabana Beach, Rio de Janeiro, Brazil (© Wagner Meier/Getty Images)](https://cn.bing.com/th?id=OHR.RioNewYear_EN-US7216341802_UHD.jpg)
 <!-- END -->
 
 
