@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Wed Jan 01 2025 03:26:56 GMT+0000 (Coordinated Universal Time) -->
-  ![New Year's Eve fireworks over Copacabana Beach, Rio de Janeiro, Brazil (© Wagner Meier/Getty Images)](https://cn.bing.com/th?id=OHR.RioNewYear_EN-US7216341802_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Thu Jan 02 2025 03:12:18 GMT+0000 (Coordinated Universal Time) -->
+  ![Polar bears at play in the Arctic (© Ondrej Prosicky/Shutterstock)](https://cn.bing.com/th?id=OHR.PolarBearSwim_EN-US7610036047_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2025-01-01
+  2025-01-02
 
-  [New Year's Eve fireworks over Copacabana Beach, Rio de Janeiro, Brazil (© Wagner Meier/Getty Images)](https://cn.bing.com/th?id=OHR.RioNewYear_EN-US7216341802_UHD.jpg)
+  [Polar bears at play in the Arctic (© Ondrej Prosicky/Shutterstock)](https://cn.bing.com/th?id=OHR.PolarBearSwim_EN-US7610036047_UHD.jpg)
 <!-- END -->
 
 
