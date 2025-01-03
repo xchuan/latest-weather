@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Thu Jan 02 2025 03:19:11 GMT+0000 (Coordinated Universal Time) -->
-  ![Polar bears at play in the Arctic (© Ondrej Prosicky/Shutterstock)](https://cn.bing.com/th?id=OHR.PolarBearSwim_EN-US7610036047_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Fri Jan 03 2025 03:12:20 GMT+0000 (Coordinated Universal Time) -->
+  ![Star trails over Ardez, Graubunden, Switzerland (© Roberto Moiola/Getty Images)](https://cn.bing.com/th?id=OHR.ArdezSwitzerland_EN-US8405268165_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2025-01-02
+  2025-01-03
 
-  [Polar bears at play in the Arctic (© Ondrej Prosicky/Shutterstock)](https://cn.bing.com/th?id=OHR.PolarBearSwim_EN-US7610036047_UHD.jpg)
+  [Star trails over Ardez, Graubunden, Switzerland (© Roberto Moiola/Getty Images)](https://cn.bing.com/th?id=OHR.ArdezSwitzerland_EN-US8405268165_UHD.jpg)
 <!-- END -->
 
 
