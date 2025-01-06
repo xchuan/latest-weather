@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Sun Jan 05 2025 03:23:10 GMT+0000 (Coordinated Universal Time) -->
-  ![Bản Giốc–Detian Falls on the Quây Sơn River, Vietnam (© Shane P. White/Minden Pictures)](https://cn.bing.com/th?id=OHR.VietnamFalls_EN-US9133406245_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Mon Jan 06 2025 03:12:18 GMT+0000 (Coordinated Universal Time) -->
+  ![Plum-headed parakeet at Shimoga, Karnataka, India (© Hira Punjabi/Alamy)](https://cn.bing.com/th?id=OHR.PlumParakeet_EN-US9359235355_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2025-01-05
+  2025-01-06
 
-  [Bản Giốc–Detian Falls on the Quây Sơn River, Vietnam (© Shane P. White/Minden Pictures)](https://cn.bing.com/th?id=OHR.VietnamFalls_EN-US9133406245_UHD.jpg)
+  [Plum-headed parakeet at Shimoga, Karnataka, India (© Hira Punjabi/Alamy)](https://cn.bing.com/th?id=OHR.PlumParakeet_EN-US9359235355_UHD.jpg)
 <!-- END -->
 
 
