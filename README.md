@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Fri Jan 10 2025 03:22:47 GMT+0000 (Coordinated Universal Time) -->
-  ![The US Capitol dome with flags flying at half-staff in honor of former President Jimmy Carter, Washington, DC (© J. David Ake/Getty Images)](https://cn.bing.com/th?id=OHR.CarterMemorial_EN-US9400973867_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Sat Jan 11 2025 03:20:12 GMT+0000 (Coordinated Universal Time) -->
+  ![Abraham Lake, Alberta, Canada (© Basic Elements Photography/Getty Images)](https://cn.bing.com/th?id=OHR.BubbleLake_EN-US6558545411_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2025-01-10
+  2025-01-11
 
-  [The US Capitol dome with flags flying at half-staff in honor of former President Jimmy Carter, Washington, DC (© J. David Ake/Getty Images)](https://cn.bing.com/th?id=OHR.CarterMemorial_EN-US9400973867_UHD.jpg)
+  [Abraham Lake, Alberta, Canada (© Basic Elements Photography/Getty Images)](https://cn.bing.com/th?id=OHR.BubbleLake_EN-US6558545411_UHD.jpg)
 <!-- END -->
 
 
