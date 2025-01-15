@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Tue Jan 14 2025 04:39:43 GMT+0000 (Coordinated Universal Time) -->
-  ![Cottage with Tŵr Mawr Lighthouse in the background, Ynys Llanddwyn, Wales (© Westend61 on Offset/Shutterstock)](https://cn.bing.com/th?id=OHR.CoastalWales_EN-US9397534673_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Wed Jan 15 2025 03:16:41 GMT+0000 (Coordinated Universal Time) -->
+  ![Village of Zahara de la Sierra overlooking Zahara-El Gastor Reservoir, Cádiz province, Spain (© SEN LI/Getty Images)](https://cn.bing.com/th?id=OHR.CadizSpain_EN-US9699586606_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2025-01-14
+  2025-01-15
 
-  [Cottage with Tŵr Mawr Lighthouse in the background, Ynys Llanddwyn, Wales (© Westend61 on Offset/Shutterstock)](https://cn.bing.com/th?id=OHR.CoastalWales_EN-US9397534673_UHD.jpg)
+  [Village of Zahara de la Sierra overlooking Zahara-El Gastor Reservoir, Cádiz province, Spain (© SEN LI/Getty Images)](https://cn.bing.com/th?id=OHR.CadizSpain_EN-US9699586606_UHD.jpg)
 <!-- END -->
 
 
