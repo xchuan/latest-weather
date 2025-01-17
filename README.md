@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Thu Jan 16 2025 03:16:56 GMT+0000 (Coordinated Universal Time) -->
-  ![The Great Court of the British Museum, London, England (© Cavan Images/Offset/Shutterstock)](https://cn.bing.com/th?id=OHR.MuseumCourt_EN-US0003531841_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Fri Jan 17 2025 03:17:17 GMT+0000 (Coordinated Universal Time) -->
+  ![High Peaks Trail in Pinnacles National Park, San Benito County, California (© yhelfman/Getty Images)](https://cn.bing.com/th?id=OHR.PinnaclesPeaks_EN-US6350520288_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2025-01-16
+  2025-01-17
 
-  [The Great Court of the British Museum, London, England (© Cavan Images/Offset/Shutterstock)](https://cn.bing.com/th?id=OHR.MuseumCourt_EN-US0003531841_UHD.jpg)
+  [High Peaks Trail in Pinnacles National Park, San Benito County, California (© yhelfman/Getty Images)](https://cn.bing.com/th?id=OHR.PinnaclesPeaks_EN-US6350520288_UHD.jpg)
 <!-- END -->
 
 
