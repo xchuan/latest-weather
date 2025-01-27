@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Sun Jan 26 2025 03:17:22 GMT+0000 (Coordinated Universal Time) -->
-  ![Porto, Portugal (© Starcevic/Getty Images)](https://cn.bing.com/th?id=OHR.PortoSunset_EN-US7987153816_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Mon Jan 27 2025 03:18:01 GMT+0000 (Coordinated Universal Time) -->
+  ![European beech forest in Belgium (© Philippe Moes/Minden Pictures)](https://cn.bing.com/th?id=OHR.FrostedBeech_EN-US8264026523_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2025-01-26
+  2025-01-27
 
-  [Porto, Portugal (© Starcevic/Getty Images)](https://cn.bing.com/th?id=OHR.PortoSunset_EN-US7987153816_UHD.jpg)
+  [European beech forest in Belgium (© Philippe Moes/Minden Pictures)](https://cn.bing.com/th?id=OHR.FrostedBeech_EN-US8264026523_UHD.jpg)
 <!-- END -->
 
 
