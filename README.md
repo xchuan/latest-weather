@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Mon Jan 27 2025 03:18:01 GMT+0000 (Coordinated Universal Time) -->
-  ![European beech forest in Belgium (© Philippe Moes/Minden Pictures)](https://cn.bing.com/th?id=OHR.FrostedBeech_EN-US8264026523_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Tue Jan 28 2025 03:16:56 GMT+0000 (Coordinated Universal Time) -->
+  ![Zoroaster Temple, Grand Canyon National Park, Arizona (© Nick Lake/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.CanyonSnow_EN-US8514636141_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2025-01-27
+  2025-01-28
 
-  [European beech forest in Belgium (© Philippe Moes/Minden Pictures)](https://cn.bing.com/th?id=OHR.FrostedBeech_EN-US8264026523_UHD.jpg)
+  [Zoroaster Temple, Grand Canyon National Park, Arizona (© Nick Lake/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.CanyonSnow_EN-US8514636141_UHD.jpg)
 <!-- END -->
 
 
