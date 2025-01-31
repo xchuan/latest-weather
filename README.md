@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Thu Jan 30 2025 03:17:37 GMT+0000 (Coordinated Universal Time) -->
-  ![Dragon dance, Wuhan, China (© Miao Jian/Wuhan Morning Post/Visual China Group via Getty Images)](https://cn.bing.com/th?id=OHR.LunarDragon_EN-US9011723385_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Fri Jan 31 2025 03:16:18 GMT+0000 (Coordinated Universal Time) -->
+  ![La Brecha de Rolando, Ordesa y Monte Perdido National Park, Spain (© Inaki Relanzon/Nature Picture Library/Alamy)](https://cn.bing.com/th?id=OHR.OrdesaSpain_EN-US9252424531_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2025-01-30
+  2025-01-31
 
-  [Dragon dance, Wuhan, China (© Miao Jian/Wuhan Morning Post/Visual China Group via Getty Images)](https://cn.bing.com/th?id=OHR.LunarDragon_EN-US9011723385_UHD.jpg)
+  [La Brecha de Rolando, Ordesa y Monte Perdido National Park, Spain (© Inaki Relanzon/Nature Picture Library/Alamy)](https://cn.bing.com/th?id=OHR.OrdesaSpain_EN-US9252424531_UHD.jpg)
 <!-- END -->
 
 
