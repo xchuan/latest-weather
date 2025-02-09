@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Sat Feb 08 2025 03:17:00 GMT+0000 (Coordinated Universal Time) -->
-  ![Blue hour in Trondheim, Norway (© Jeanny Mueller/Getty Images)](https://cn.bing.com/th?id=OHR.BlueNorway_EN-US6457602567_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Sun Feb 09 2025 03:19:28 GMT+0000 (Coordinated Universal Time) -->
+  ![Medieval towers in Mestia, Upper Svaneti, Georgia (© photoaliona/Getty Images)](https://cn.bing.com/th?id=OHR.SnowySvaneti_EN-US6546788330_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2025-02-08
+  2025-02-09
 
-  [Blue hour in Trondheim, Norway (© Jeanny Mueller/Getty Images)](https://cn.bing.com/th?id=OHR.BlueNorway_EN-US6457602567_UHD.jpg)
+  [Medieval towers in Mestia, Upper Svaneti, Georgia (© photoaliona/Getty Images)](https://cn.bing.com/th?id=OHR.SnowySvaneti_EN-US6546788330_UHD.jpg)
 <!-- END -->
 
 
