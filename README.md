@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Wed Feb 12 2025 03:18:44 GMT+0000 (Coordinated Universal Time) -->
-  ![Yungang Grottoes, Datong, Shanxi province, China (© Eric Yang/Getty Images)](https://cn.bing.com/th?id=OHR.YungangGrottoes_EN-US6896904893_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Thu Feb 13 2025 03:19:13 GMT+0000 (Coordinated Universal Time) -->
+  ![Marine iguanas, Galápagos Islands, Ecuador (© helovi/Getty Images)](https://cn.bing.com/th?id=OHR.GalapagosIguana_EN-US6976814194_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2025-02-12
+  2025-02-13
 
-  [Yungang Grottoes, Datong, Shanxi province, China (© Eric Yang/Getty Images)](https://cn.bing.com/th?id=OHR.YungangGrottoes_EN-US6896904893_UHD.jpg)
+  [Marine iguanas, Galápagos Islands, Ecuador (© helovi/Getty Images)](https://cn.bing.com/th?id=OHR.GalapagosIguana_EN-US6976814194_UHD.jpg)
 <!-- END -->
 
 
