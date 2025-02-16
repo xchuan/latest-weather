@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Sat Feb 15 2025 03:18:45 GMT+0000 (Coordinated Universal Time) -->
-  ![Magellanic penguins in the Falkland Islands (© Vicki Jauron, Babylon and Beyond Photography/Getty Images)](https://cn.bing.com/th?id=OHR.PenguinLove_EN-US7515315710_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Sun Feb 16 2025 03:21:41 GMT+0000 (Coordinated Universal Time) -->
+  ![Icicles of Misotsuchi, Chichibu, Japan (© watayu0821/Shutterstock)](https://cn.bing.com/th?id=OHR.Misotsuchi2025_EN-US8130053956_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2025-02-15
+  2025-02-16
 
-  [Magellanic penguins in the Falkland Islands (© Vicki Jauron, Babylon and Beyond Photography/Getty Images)](https://cn.bing.com/th?id=OHR.PenguinLove_EN-US7515315710_UHD.jpg)
+  [Icicles of Misotsuchi, Chichibu, Japan (© watayu0821/Shutterstock)](https://cn.bing.com/th?id=OHR.Misotsuchi2025_EN-US8130053956_UHD.jpg)
 <!-- END -->
 
 
