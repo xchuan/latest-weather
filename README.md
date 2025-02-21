@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Thu Feb 20 2025 03:20:05 GMT+0000 (Coordinated Universal Time) -->
-  ![European river otter, Lelystad, Netherlands (© Ernst Dirksen/Minden Pictures)](https://cn.bing.com/th?id=OHR.IceHoleOtter_EN-US7859051687_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Fri Feb 21 2025 03:20:53 GMT+0000 (Coordinated Universal Time) -->
+  ![Alpenglow on Half Dome, Yosemite National Park, California (© Matthew Kuhns/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.AdamsYosemite_EN-US7924059397_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2025-02-20
+  2025-02-21
 
-  [European river otter, Lelystad, Netherlands (© Ernst Dirksen/Minden Pictures)](https://cn.bing.com/th?id=OHR.IceHoleOtter_EN-US7859051687_UHD.jpg)
+  [Alpenglow on Half Dome, Yosemite National Park, California (© Matthew Kuhns/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.AdamsYosemite_EN-US7924059397_UHD.jpg)
 <!-- END -->
 
 
