@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Fri Feb 21 2025 03:20:53 GMT+0000 (Coordinated Universal Time) -->
-  ![Alpenglow on Half Dome, Yosemite National Park, California (© Matthew Kuhns/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.AdamsYosemite_EN-US7924059397_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Sat Feb 22 2025 03:17:50 GMT+0000 (Coordinated Universal Time) -->
+  ![Champaka Sarasi pond near Shivamogga, Karnataka, India (© Amith Nag Photography/Getty Images)](https://cn.bing.com/th?id=OHR.ChampakaSarasi_EN-US0671131929_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2025-02-21
+  2025-02-22
 
-  [Alpenglow on Half Dome, Yosemite National Park, California (© Matthew Kuhns/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.AdamsYosemite_EN-US7924059397_UHD.jpg)
+  [Champaka Sarasi pond near Shivamogga, Karnataka, India (© Amith Nag Photography/Getty Images)](https://cn.bing.com/th?id=OHR.ChampakaSarasi_EN-US0671131929_UHD.jpg)
 <!-- END -->
 
 
