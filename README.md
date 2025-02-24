@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Sun Feb 23 2025 03:21:55 GMT+0000 (Coordinated Universal Time) -->
-  ![The Gateway Arch in St. Louis, Missouri (© f11photo/Getty Images)](https://cn.bing.com/th?id=OHR.StLouisArch_EN-US1920417205_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Mon Feb 24 2025 03:23:38 GMT+0000 (Coordinated Universal Time) -->
+  ![Mount Fuji at sunrise, Lake Kawaguchi, Japan (© Twenty47studio/Getty Images)](https://cn.bing.com/th?id=OHR.MtFujiSunrise_EN-US2218385739_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2025-02-23
+  2025-02-24
 
-  [The Gateway Arch in St. Louis, Missouri (© f11photo/Getty Images)](https://cn.bing.com/th?id=OHR.StLouisArch_EN-US1920417205_UHD.jpg)
+  [Mount Fuji at sunrise, Lake Kawaguchi, Japan (© Twenty47studio/Getty Images)](https://cn.bing.com/th?id=OHR.MtFujiSunrise_EN-US2218385739_UHD.jpg)
 <!-- END -->
 
 
