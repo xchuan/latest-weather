@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Wed Feb 26 2025 03:22:33 GMT+0000 (Coordinated Universal Time) -->
-  ![Sandstone hoodoos, Bryce Canyon National Park, Utah (© Stephen Matera/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.BryceHoodoos_EN-US2334649046_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Thu Feb 27 2025 03:23:27 GMT+0000 (Coordinated Universal Time) -->
+  ![Castle Stalker on Loch Laich, Argyll, Scotland (© WLDavies/Getty Images)](https://cn.bing.com/th?id=OHR.ArgyllStalker_EN-US2452683665_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2025-02-26
+  2025-02-27
 
-  [Sandstone hoodoos, Bryce Canyon National Park, Utah (© Stephen Matera/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.BryceHoodoos_EN-US2334649046_UHD.jpg)
+  [Castle Stalker on Loch Laich, Argyll, Scotland (© WLDavies/Getty Images)](https://cn.bing.com/th?id=OHR.ArgyllStalker_EN-US2452683665_UHD.jpg)
 <!-- END -->
 
 
