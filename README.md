@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Thu Feb 27 2025 03:23:27 GMT+0000 (Coordinated Universal Time) -->
-  ![Castle Stalker on Loch Laich, Argyll, Scotland (© WLDavies/Getty Images)](https://cn.bing.com/th?id=OHR.ArgyllStalker_EN-US2452683665_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Fri Feb 28 2025 03:23:36 GMT+0000 (Coordinated Universal Time) -->
+  ![Polar bear cub, Churchill, Manitoba, Canada (© Eric Baccega/NPL/Minden Pictures)](https://cn.bing.com/th?id=OHR.PolarCub_EN-US2740470421_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2025-02-27
+  2025-02-28
 
-  [Castle Stalker on Loch Laich, Argyll, Scotland (© WLDavies/Getty Images)](https://cn.bing.com/th?id=OHR.ArgyllStalker_EN-US2452683665_UHD.jpg)
+  [Polar bear cub, Churchill, Manitoba, Canada (© Eric Baccega/NPL/Minden Pictures)](https://cn.bing.com/th?id=OHR.PolarCub_EN-US2740470421_UHD.jpg)
 <!-- END -->
 
 
