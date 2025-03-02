@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Sat Mar 01 2025 03:28:31 GMT+0000 (Coordinated Universal Time) -->
-  ![Paro Taktsang, a Buddhist monastery in Bhutan (© Baron Reznik/Getty Images)](https://cn.bing.com/th?id=OHR.BhutanMonastery_EN-US2804780711_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Sun Mar 02 2025 03:25:16 GMT+0000 (Coordinated Universal Time) -->
+  ![Dr. Anna Howard Shaw leading a suffrage parade in 1910s New York City (© Bettmann/Getty Images)](https://cn.bing.com/th?id=OHR.SuffragetteCity_EN-US2883743791_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2025-03-01
+  2025-03-02
 
-  [Paro Taktsang, a Buddhist monastery in Bhutan (© Baron Reznik/Getty Images)](https://cn.bing.com/th?id=OHR.BhutanMonastery_EN-US2804780711_UHD.jpg)
+  [Dr. Anna Howard Shaw leading a suffrage parade in 1910s New York City (© Bettmann/Getty Images)](https://cn.bing.com/th?id=OHR.SuffragetteCity_EN-US2883743791_UHD.jpg)
 <!-- END -->
 
 
