@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Sun Mar 02 2025 03:25:16 GMT+0000 (Coordinated Universal Time) -->
-  ![Dr. Anna Howard Shaw leading a suffrage parade in 1910s New York City (© Bettmann/Getty Images)](https://cn.bing.com/th?id=OHR.SuffragetteCity_EN-US2883743791_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Mon Mar 03 2025 03:25:56 GMT+0000 (Coordinated Universal Time) -->
+  ![Eucalyptus trees, Megalong Valley, Blue Mountains National Park, NSW, Australia (© Andrew Peacock/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.EucalyptusForest_EN-US3015819767_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2025-03-02
+  2025-03-03
 
-  [Dr. Anna Howard Shaw leading a suffrage parade in 1910s New York City (© Bettmann/Getty Images)](https://cn.bing.com/th?id=OHR.SuffragetteCity_EN-US2883743791_UHD.jpg)
+  [Eucalyptus trees, Megalong Valley, Blue Mountains National Park, NSW, Australia (© Andrew Peacock/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.EucalyptusForest_EN-US3015819767_UHD.jpg)
 <!-- END -->
 
 
