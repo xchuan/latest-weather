@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Wed Mar 05 2025 03:24:24 GMT+0000 (Coordinated Universal Time) -->
-  ![Jackson Square, New Orleans, Louisiana (© SeanPavonePhoto/Getty Images)](https://cn.bing.com/th?id=OHR.MardiGrasJackson_EN-US3277683692_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Thu Mar 06 2025 03:25:12 GMT+0000 (Coordinated Universal Time) -->
+  ![Aerial view of Khao Sok National Park, Surat Thani, Thailand (© Peetatham Kongkapech/Getty Images)](https://cn.bing.com/th?id=OHR.SuratThani_EN-US3326265231_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2025-03-05
+  2025-03-06
 
-  [Jackson Square, New Orleans, Louisiana (© SeanPavonePhoto/Getty Images)](https://cn.bing.com/th?id=OHR.MardiGrasJackson_EN-US3277683692_UHD.jpg)
+  [Aerial view of Khao Sok National Park, Surat Thani, Thailand (© Peetatham Kongkapech/Getty Images)](https://cn.bing.com/th?id=OHR.SuratThani_EN-US3326265231_UHD.jpg)
 <!-- END -->
 
 
