@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Fri Mar 14 2025 03:26:29 GMT+0000 (Coordinated Universal Time) -->
-  ![Holi celebration in Jaipur, India (© powerofforever/Getty Images)](https://cn.bing.com/th?id=OHR.HoliColors_EN-US9033637774_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Sat Mar 15 2025 03:23:06 GMT+0000 (Coordinated Universal Time) -->
+  ![Dolmen of Sorginetxe, Basque Country, Álava, Spain (© David Herraez Calzada/plainpicture)](https://cn.bing.com/th?id=OHR.BasqueDolmen_EN-US9089569057_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2025-03-14
+  2025-03-15
 
-  [Holi celebration in Jaipur, India (© powerofforever/Getty Images)](https://cn.bing.com/th?id=OHR.HoliColors_EN-US9033637774_UHD.jpg)
+  [Dolmen of Sorginetxe, Basque Country, Álava, Spain (© David Herraez Calzada/plainpicture)](https://cn.bing.com/th?id=OHR.BasqueDolmen_EN-US9089569057_UHD.jpg)
 <!-- END -->
 
 
