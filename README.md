@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Thu Mar 20 2025 03:27:00 GMT+0000 (Coordinated Universal Time) -->
-  ![A black heron canopy feeding, Chobe National Park, Botswana (© Paul Souders/Minden Pictures)](https://cn.bing.com/th?id=OHR.BlackHeron_EN-US9662351796_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Fri Mar 21 2025 03:28:28 GMT+0000 (Coordinated Universal Time) -->
+  ![Spring daffodils glowing in morning light (© LedyX/Shutterstock)](https://cn.bing.com/th?id=OHR.SpringDaffodils_EN-US9726346116_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2025-03-20
+  2025-03-21
 
-  [A black heron canopy feeding, Chobe National Park, Botswana (© Paul Souders/Minden Pictures)](https://cn.bing.com/th?id=OHR.BlackHeron_EN-US9662351796_UHD.jpg)
+  [Spring daffodils glowing in morning light (© LedyX/Shutterstock)](https://cn.bing.com/th?id=OHR.SpringDaffodils_EN-US9726346116_UHD.jpg)
 <!-- END -->
 
 
