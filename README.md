@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Sun Mar 30 2025 03:35:33 GMT+0000 (Coordinated Universal Time) -->
-  ![Superbloom in Carrizo Plain National Monument, California (© Robb Hirsch/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.CarrizoBloom_EN-US2504669059_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Mon Mar 31 2025 03:35:11 GMT+0000 (Coordinated Universal Time) -->
+  ![Aerial view of Sydney Harbour, New South Wales, Australia (© jamenpercy/Getty Images)](https://cn.bing.com/th?id=OHR.SydneyHarbour_EN-US2885246621_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2025-03-30
+  2025-03-31
 
-  [Superbloom in Carrizo Plain National Monument, California (© Robb Hirsch/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.CarrizoBloom_EN-US2504669059_UHD.jpg)
+  [Aerial view of Sydney Harbour, New South Wales, Australia (© jamenpercy/Getty Images)](https://cn.bing.com/th?id=OHR.SydneyHarbour_EN-US2885246621_UHD.jpg)
 <!-- END -->
 
 
