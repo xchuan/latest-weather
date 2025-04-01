@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Mon Mar 31 2025 03:35:11 GMT+0000 (Coordinated Universal Time) -->
-  ![Aerial view of Sydney Harbour, New South Wales, Australia (© jamenpercy/Getty Images)](https://cn.bing.com/th?id=OHR.SydneyHarbour_EN-US2885246621_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Tue Apr 01 2025 03:40:57 GMT+0000 (Coordinated Universal Time) -->
+  ![Ostuni at dusk, Apulia, Italy (© Feng Wei Photography/Getty Images)](https://cn.bing.com/th?id=OHR.ItalyOstuni_EN-US2964422003_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2025-03-31
+  2025-04-01
 
-  [Aerial view of Sydney Harbour, New South Wales, Australia (© jamenpercy/Getty Images)](https://cn.bing.com/th?id=OHR.SydneyHarbour_EN-US2885246621_UHD.jpg)
+  [Ostuni at dusk, Apulia, Italy (© Feng Wei Photography/Getty Images)](https://cn.bing.com/th?id=OHR.ItalyOstuni_EN-US2964422003_UHD.jpg)
 <!-- END -->
 
 
