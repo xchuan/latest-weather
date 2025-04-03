@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Wed Apr 02 2025 03:31:52 GMT+0000 (Coordinated Universal Time) -->
-  ![Tree frog, Costa Rica (© Ondrej Prosicky/Shutterstock)](https://cn.bing.com/th?id=OHR.TicanFrog_EN-US3006346741_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Thu Apr 03 2025 03:31:38 GMT+0000 (Coordinated Universal Time) -->
+  ![Sandstone formations in the badlands near Caineville, Utah (© Chris Moore/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.UtahBadlands_EN-US3082813561_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2025-04-02
+  2025-04-03
 
-  [Tree frog, Costa Rica (© Ondrej Prosicky/Shutterstock)](https://cn.bing.com/th?id=OHR.TicanFrog_EN-US3006346741_UHD.jpg)
+  [Sandstone formations in the badlands near Caineville, Utah (© Chris Moore/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.UtahBadlands_EN-US3082813561_UHD.jpg)
 <!-- END -->
 
 
