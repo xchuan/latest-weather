@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Fri Apr 04 2025 03:30:15 GMT+0000 (Coordinated Universal Time) -->
-  ![Rainbow over Wasson Peak, Saguaro National Park, Arizona (© Frank Staub/Getty Images)](https://cn.bing.com/th?id=OHR.SaguaroRainbow_EN-US3149462337_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Sat Apr 05 2025 03:28:49 GMT+0000 (Coordinated Universal Time) -->
+  ![The National Cherry Blossom Festival in Washington, DC (© f11photo/Getty Images)](https://cn.bing.com/th?id=OHR.CherryBlossomDC_EN-US9897772834_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2025-04-04
+  2025-04-05
 
-  [Rainbow over Wasson Peak, Saguaro National Park, Arizona (© Frank Staub/Getty Images)](https://cn.bing.com/th?id=OHR.SaguaroRainbow_EN-US3149462337_UHD.jpg)
+  [The National Cherry Blossom Festival in Washington, DC (© f11photo/Getty Images)](https://cn.bing.com/th?id=OHR.CherryBlossomDC_EN-US9897772834_UHD.jpg)
 <!-- END -->
 
 
