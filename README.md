@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Sun Apr 06 2025 03:32:23 GMT+0000 (Coordinated Universal Time) -->
-  ![Gaztelugatxe at sunset, Basque Country, Spain (© Eloi_Omella/Getty Images)](https://cn.bing.com/th?id=OHR.GaztelugatxeSunset_EN-US9970203395_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Mon Apr 07 2025 03:33:51 GMT+0000 (Coordinated Universal Time) -->
+  ![George Peabody Library, Baltimore, Maryland (© Wim Wiskerke/Alamy)](https://cn.bing.com/th?id=OHR.PeabodyBaltimore_EN-US0036943577_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2025-04-06
+  2025-04-07
 
-  [Gaztelugatxe at sunset, Basque Country, Spain (© Eloi_Omella/Getty Images)](https://cn.bing.com/th?id=OHR.GaztelugatxeSunset_EN-US9970203395_UHD.jpg)
+  [George Peabody Library, Baltimore, Maryland (© Wim Wiskerke/Alamy)](https://cn.bing.com/th?id=OHR.PeabodyBaltimore_EN-US0036943577_UHD.jpg)
 <!-- END -->
 
 
