@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Thu Apr 10 2025 03:32:00 GMT+0000 (Coordinated Universal Time) -->
-  ![Blue hour in Naxos, Cyclades, Greece (© Sizun Eye/Getty Images)](https://cn.bing.com/th?id=OHR.BlueNaxos_EN-US8006377229_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Fri Apr 11 2025 03:31:49 GMT+0000 (Coordinated Universal Time) -->
+  ![Red fox cubs near their den (© WildMedia/Shutterstock)](https://cn.bing.com/th?id=OHR.LittleFoxes_EN-US8078019606_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2025-04-10
+  2025-04-11
 
-  [Blue hour in Naxos, Cyclades, Greece (© Sizun Eye/Getty Images)](https://cn.bing.com/th?id=OHR.BlueNaxos_EN-US8006377229_UHD.jpg)
+  [Red fox cubs near their den (© WildMedia/Shutterstock)](https://cn.bing.com/th?id=OHR.LittleFoxes_EN-US8078019606_UHD.jpg)
 <!-- END -->
 
 
