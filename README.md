@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Sun Apr 13 2025 04:24:23 GMT+0000 (Coordinated Universal Time) -->
-  ![View from the cupola of the International Space Station above the South Pacific Ocean (© NASA)](https://cn.bing.com/th?id=OHR.SpaceFlight_EN-US8143075629_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Mon Apr 14 2025 03:36:32 GMT+0000 (Coordinated Universal Time) -->
+  ![Wat Tang Sai Temple in Ban Krut, Thailand (© Ratnakorn Piyasirisorost/Getty Images)](https://cn.bing.com/th?id=OHR.ThailandPagodas_EN-US8039751329_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2025-04-13
+  2025-04-14
 
-  [View from the cupola of the International Space Station above the South Pacific Ocean (© NASA)](https://cn.bing.com/th?id=OHR.SpaceFlight_EN-US8143075629_UHD.jpg)
+  [Wat Tang Sai Temple in Ban Krut, Thailand (© Ratnakorn Piyasirisorost/Getty Images)](https://cn.bing.com/th?id=OHR.ThailandPagodas_EN-US8039751329_UHD.jpg)
 <!-- END -->
 
 
