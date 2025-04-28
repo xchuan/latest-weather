@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Sun Apr 27 2025 03:36:17 GMT+0000 (Coordinated Universal Time) -->
-  ![Grove of redwoods in Redwood National and State Parks, California (© Bob Pool/Getty Images)](https://cn.bing.com/th?id=OHR.RedwoodGrove_EN-US3412092024_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Mon Apr 28 2025 03:39:38 GMT+0000 (Coordinated Universal Time) -->
+  ![Halema'uma'u Crater's lava lake, Kīlauea Caldera, Hawai'i Volcanoes National Park, Hawaii (© Stephen Matera/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.KilaueaCaldera_EN-US7764962675_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2025-04-27
+  2025-04-28
 
-  [Grove of redwoods in Redwood National and State Parks, California (© Bob Pool/Getty Images)](https://cn.bing.com/th?id=OHR.RedwoodGrove_EN-US3412092024_UHD.jpg)
+  [Halema'uma'u Crater's lava lake, Kīlauea Caldera, Hawai'i Volcanoes National Park, Hawaii (© Stephen Matera/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.KilaueaCaldera_EN-US7764962675_UHD.jpg)
 <!-- END -->
 
 
