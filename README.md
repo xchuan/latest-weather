@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Wed May 07 2025 03:39:37 GMT+0000 (Coordinated Universal Time) -->
-  ![An ultralight aircraft flying over the sands of Namibia (© Burt Johnson/Alamy)](https://cn.bing.com/th?id=OHR.FlyoverNamibia_EN-US6033011196_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Thu May 08 2025 03:40:27 GMT+0000 (Coordinated Universal Time) -->
+  ![Dunluce Castle, County Antrim, Northern Ireland (© DieterMeyrl/Getty Images)](https://cn.bing.com/th?id=OHR.DunluceIreland_EN-US6236791025_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2025-05-07
+  2025-05-08
 
-  [An ultralight aircraft flying over the sands of Namibia (© Burt Johnson/Alamy)](https://cn.bing.com/th?id=OHR.FlyoverNamibia_EN-US6033011196_UHD.jpg)
+  [Dunluce Castle, County Antrim, Northern Ireland (© DieterMeyrl/Getty Images)](https://cn.bing.com/th?id=OHR.DunluceIreland_EN-US6236791025_UHD.jpg)
 <!-- END -->
 
 
