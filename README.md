@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Fri May 09 2025 03:39:20 GMT+0000 (Coordinated Universal Time) -->
-  ![Donkeys in a valley near Rhyolite, Nevada (© Moelyn Photos/Getty Images)](https://cn.bing.com/th?id=OHR.RhyoliteDonkeys_EN-US6439068828_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Sat May 10 2025 03:35:06 GMT+0000 (Coordinated Universal Time) -->
+  ![Common chameleon (© Photostock-Israel/SPL/Getty Images)](https://cn.bing.com/th?id=OHR.CuteChameleon_EN-US6483346105_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2025-05-09
+  2025-05-10
 
-  [Donkeys in a valley near Rhyolite, Nevada (© Moelyn Photos/Getty Images)](https://cn.bing.com/th?id=OHR.RhyoliteDonkeys_EN-US6439068828_UHD.jpg)
+  [Common chameleon (© Photostock-Israel/SPL/Getty Images)](https://cn.bing.com/th?id=OHR.CuteChameleon_EN-US6483346105_UHD.jpg)
 <!-- END -->
 
 
