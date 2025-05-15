@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Wed May 14 2025 03:39:39 GMT+0000 (Coordinated Universal Time) -->
-  ![Torres del Paine National Park, Patagonia, Chile (© Marco Bottigelli/Getty Images)](https://cn.bing.com/th?id=OHR.TorresChile_EN-US6814348961_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Thu May 15 2025 03:40:20 GMT+0000 (Coordinated Universal Time) -->
+  ![Porto Flavia, Sardinia, Italy (© Francesco Riccardo Iacomino/Getty Images)](https://cn.bing.com/th?id=OHR.SardiniaFlavia_EN-US6889153804_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2025-05-14
+  2025-05-15
 
-  [Torres del Paine National Park, Patagonia, Chile (© Marco Bottigelli/Getty Images)](https://cn.bing.com/th?id=OHR.TorresChile_EN-US6814348961_UHD.jpg)
+  [Porto Flavia, Sardinia, Italy (© Francesco Riccardo Iacomino/Getty Images)](https://cn.bing.com/th?id=OHR.SardiniaFlavia_EN-US6889153804_UHD.jpg)
 <!-- END -->
 
 
