@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Fri May 16 2025 03:41:19 GMT+0000 (Coordinated Universal Time) -->
-  ![Big Ben and the Palace of Westminster, London, England (© Puthipong Worasaran/Getty Images)](https://cn.bing.com/th?id=OHR.LondonParliament_EN-US7213846564_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Sat May 17 2025 03:36:56 GMT+0000 (Coordinated Universal Time) -->
+  ![Great green macaw, Mexico (© Ondrej Prosicky/Shutterstock)](https://cn.bing.com/th?id=OHR.GreenMacaw_EN-US1646325635_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2025-05-16
+  2025-05-17
 
-  [Big Ben and the Palace of Westminster, London, England (© Puthipong Worasaran/Getty Images)](https://cn.bing.com/th?id=OHR.LondonParliament_EN-US7213846564_UHD.jpg)
+  [Great green macaw, Mexico (© Ondrej Prosicky/Shutterstock)](https://cn.bing.com/th?id=OHR.GreenMacaw_EN-US1646325635_UHD.jpg)
 <!-- END -->
 
 
