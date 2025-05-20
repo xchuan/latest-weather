@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Mon May 19 2025 03:46:07 GMT+0000 (Coordinated Universal Time) -->
-  !['The Spirit of Electricity' by Raoul Dufy, Museum of Modern Art, Paris, France (© BERTRAND GUAY/AFP via Getty Images)](https://cn.bing.com/th?id=OHR.DufyRoom_EN-US3759763345_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Tue May 20 2025 03:41:03 GMT+0000 (Coordinated Universal Time) -->
+  ![Mount Hamilton, near San Jose, California (© Jeffrey Lewis/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.MountHamilton_EN-US3808058743_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2025-05-19
+  2025-05-20
 
-  ['The Spirit of Electricity' by Raoul Dufy, Museum of Modern Art, Paris, France (© BERTRAND GUAY/AFP via Getty Images)](https://cn.bing.com/th?id=OHR.DufyRoom_EN-US3759763345_UHD.jpg)
+  [Mount Hamilton, near San Jose, California (© Jeffrey Lewis/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.MountHamilton_EN-US3808058743_UHD.jpg)
 <!-- END -->
 
 
