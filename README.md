@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Wed May 21 2025 03:40:29 GMT+0000 (Coordinated Universal Time) -->
-  ![Honey bee on lavender flowers (© Anthony Brown/Alamy)](https://cn.bing.com/th?id=OHR.HoneyBeeLavender_EN-US3860322899_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Thu May 22 2025 03:40:48 GMT+0000 (Coordinated Universal Time) -->
+  ![Tea garden at Yangjiatang Village, Songyang County, China (© feng xu/Getty Images)](https://cn.bing.com/th?id=OHR.SongyangTeaGarden_EN-US3919106941_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2025-05-21
+  2025-05-22
 
-  [Honey bee on lavender flowers (© Anthony Brown/Alamy)](https://cn.bing.com/th?id=OHR.HoneyBeeLavender_EN-US3860322899_UHD.jpg)
+  [Tea garden at Yangjiatang Village, Songyang County, China (© feng xu/Getty Images)](https://cn.bing.com/th?id=OHR.SongyangTeaGarden_EN-US3919106941_UHD.jpg)
 <!-- END -->
 
 
