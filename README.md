@@ -12,7 +12,7 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Tue May 27 2025 03:41:05 GMT+0000 (Coordinated Universal Time) -->
+<!--  Tue May 27 2025 04:47:38 GMT+0000 (Coordinated Universal Time) -->
   ![Arlington National Cemetery in Virginia (© Dennis Govoni/Getty Images)](https://cn.bing.com/th?id=OHR.ArlingtonSunrise_EN-US4503302075_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
   2025-05-27
