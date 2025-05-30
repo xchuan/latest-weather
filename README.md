@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Thu May 29 2025 03:43:14 GMT+0000 (Coordinated Universal Time) -->
-  ![Sea otter floating in a kelp bed in Alaska Maritime National Wildlife Refuge (© Gerry Ellis/Minden Pictures)](https://cn.bing.com/th?id=OHR.KelpOtter_EN-US4867923884_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Fri May 30 2025 03:41:22 GMT+0000 (Coordinated Universal Time) -->
+  ![Miravet on the Ebro River, Tarragona, Catalonia, Spain (© Eloi_Omella/Getty Images)](https://cn.bing.com/th?id=OHR.MiravetSpain_EN-US4967052818_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2025-05-29
+  2025-05-30
 
-  [Sea otter floating in a kelp bed in Alaska Maritime National Wildlife Refuge (© Gerry Ellis/Minden Pictures)](https://cn.bing.com/th?id=OHR.KelpOtter_EN-US4867923884_UHD.jpg)
+  [Miravet on the Ebro River, Tarragona, Catalonia, Spain (© Eloi_Omella/Getty Images)](https://cn.bing.com/th?id=OHR.MiravetSpain_EN-US4967052818_UHD.jpg)
 <!-- END -->
 
 
