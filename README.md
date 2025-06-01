@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Sat May 31 2025 03:39:56 GMT+0000 (Coordinated Universal Time) -->
-  ![Little Pigeon River, Great Smoky Mountains National Park, Tennessee (© GreenStock/Getty Images)](https://cn.bing.com/th?id=OHR.LittlePigeonRiver_EN-US1765916005_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Sun Jun 01 2025 03:57:10 GMT+0000 (Coordinated Universal Time) -->
+  ![Knuthöjdsmossen, a nature reserve in Sweden (© Sven Halling/DEEPOL/plainpicture)](https://cn.bing.com/th?id=OHR.SwedenReserve_EN-US8234763267_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2025-05-31
+  2025-06-01
 
-  [Little Pigeon River, Great Smoky Mountains National Park, Tennessee (© GreenStock/Getty Images)](https://cn.bing.com/th?id=OHR.LittlePigeonRiver_EN-US1765916005_UHD.jpg)
+  [Knuthöjdsmossen, a nature reserve in Sweden (© Sven Halling/DEEPOL/plainpicture)](https://cn.bing.com/th?id=OHR.SwedenReserve_EN-US8234763267_UHD.jpg)
 <!-- END -->
 
 
