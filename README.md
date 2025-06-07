@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Fri Jun 06 2025 03:44:52 GMT+0000 (Coordinated Universal Time) -->
-  ![Bottle-cap mural made by Oscar Olivares in Guatire, Venezuela (© FEDERICO PARRA/AFP via Getty Images)](https://cn.bing.com/th?id=OHR.OlivaresMural_EN-US8824492734_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Sat Jun 07 2025 03:42:17 GMT+0000 (Coordinated Universal Time) -->
+  ![Arromanches-les-Bains in Normandy, France (© Horia Merla/Getty Images)](https://cn.bing.com/th?id=OHR.NormandyBeach_EN-US8863709180_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2025-06-06
+  2025-06-07
 
-  [Bottle-cap mural made by Oscar Olivares in Guatire, Venezuela (© FEDERICO PARRA/AFP via Getty Images)](https://cn.bing.com/th?id=OHR.OlivaresMural_EN-US8824492734_UHD.jpg)
+  [Arromanches-les-Bains in Normandy, France (© Horia Merla/Getty Images)](https://cn.bing.com/th?id=OHR.NormandyBeach_EN-US8863709180_UHD.jpg)
 <!-- END -->
 
 
