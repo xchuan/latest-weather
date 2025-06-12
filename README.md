@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Wed Jun 11 2025 03:46:43 GMT+0000 (Coordinated Universal Time) -->
-  ![Aerial view of Everglades National Park, Florida (© Robert DelVecchio - OcuDrone/Getty Images)](https://cn.bing.com/th?id=OHR.AerialEverglades_EN-US9045585896_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Thu Jun 12 2025 03:45:54 GMT+0000 (Coordinated Universal Time) -->
+  ![Greater flamingos, Lüderitz, Namibia (© Karine Aigner/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.FlamingosNamibia_EN-US9397449472_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2025-06-11
+  2025-06-12
 
-  [Aerial view of Everglades National Park, Florida (© Robert DelVecchio - OcuDrone/Getty Images)](https://cn.bing.com/th?id=OHR.AerialEverglades_EN-US9045585896_UHD.jpg)
+  [Greater flamingos, Lüderitz, Namibia (© Karine Aigner/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.FlamingosNamibia_EN-US9397449472_UHD.jpg)
 <!-- END -->
 
 
