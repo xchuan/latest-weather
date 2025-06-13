@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Thu Jun 12 2025 03:45:54 GMT+0000 (Coordinated Universal Time) -->
-  ![Greater flamingos, Lüderitz, Namibia (© Karine Aigner/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.FlamingosNamibia_EN-US9397449472_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Fri Jun 13 2025 03:46:33 GMT+0000 (Coordinated Universal Time) -->
+  ![Chisos Mountains, Big Bend National Park, Texas (© Dean Fikar/Getty Images)](https://cn.bing.com/th?id=OHR.BigBendChisos_EN-US9433220487_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2025-06-12
+  2025-06-13
 
-  [Greater flamingos, Lüderitz, Namibia (© Karine Aigner/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.FlamingosNamibia_EN-US9397449472_UHD.jpg)
+  [Chisos Mountains, Big Bend National Park, Texas (© Dean Fikar/Getty Images)](https://cn.bing.com/th?id=OHR.BigBendChisos_EN-US9433220487_UHD.jpg)
 <!-- END -->
 
 
