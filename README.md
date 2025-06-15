@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Sat Jun 14 2025 03:42:06 GMT+0000 (Coordinated Universal Time) -->
-  ![Vila Franca Islet, São Miguel Island, Azores, Portugal (© ARoxo/Getty Images)](https://cn.bing.com/th?id=OHR.SanMiguelAzores_EN-US2785372768_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Sun Jun 15 2025 03:50:14 GMT+0000 (Coordinated Universal Time) -->
+  ![Flag display at the US Capitol, Washington, DC (© kmiragaya/Adobe Stock)](https://cn.bing.com/th?id=OHR.FlagCapitolDC_EN-US1553861171_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2025-06-14
+  2025-06-15
 
-  [Vila Franca Islet, São Miguel Island, Azores, Portugal (© ARoxo/Getty Images)](https://cn.bing.com/th?id=OHR.SanMiguelAzores_EN-US2785372768_UHD.jpg)
+  [Flag display at the US Capitol, Washington, DC (© kmiragaya/Adobe Stock)](https://cn.bing.com/th?id=OHR.FlagCapitolDC_EN-US1553861171_UHD.jpg)
 <!-- END -->
 
 
