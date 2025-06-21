@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Fri Jun 20 2025 03:45:46 GMT+0000 (Coordinated Universal Time) -->
-  ![Masai giraffe mother grooming her calf in the Serengeti, Tanzania (© Alberto Cassani/Getty Images)](https://cn.bing.com/th?id=OHR.SerengetiGiraffe_EN-GB8989082610_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Sat Jun 21 2025 03:43:38 GMT+0000 (Coordinated Universal Time) -->
+  ![Seljalandsfoss waterfall at sunset, Iceland (© Tom Mackie/AWL/plainpicture)](https://cn.bing.com/th?id=OHR.IcelandSolstice_EN-US2057542769_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2025-06-20
+  2025-06-21
 
-  [Masai giraffe mother grooming her calf in the Serengeti, Tanzania (© Alberto Cassani/Getty Images)](https://cn.bing.com/th?id=OHR.SerengetiGiraffe_EN-GB8989082610_UHD.jpg)
+  [Seljalandsfoss waterfall at sunset, Iceland (© Tom Mackie/AWL/plainpicture)](https://cn.bing.com/th?id=OHR.IcelandSolstice_EN-US2057542769_UHD.jpg)
 <!-- END -->
 
 
