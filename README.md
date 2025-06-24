@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Mon Jun 23 2025 03:53:57 GMT+0000 (Coordinated Universal Time) -->
-  ![Amazon rainforest, Ecuador (© Mark Fox/Getty Images)](https://cn.bing.com/th?id=OHR.AmazonEcuador_EN-US2195278379_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Tue Jun 24 2025 03:47:49 GMT+0000 (Coordinated Universal Time) -->
+  ![The Elbe in Dresden, Germany (© Sean Pavone/Getty Images)](https://cn.bing.com/th?id=OHR.DresdenElbe_EN-US2259441179_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2025-06-23
+  2025-06-24
 
-  [Amazon rainforest, Ecuador (© Mark Fox/Getty Images)](https://cn.bing.com/th?id=OHR.AmazonEcuador_EN-US2195278379_UHD.jpg)
+  [The Elbe in Dresden, Germany (© Sean Pavone/Getty Images)](https://cn.bing.com/th?id=OHR.DresdenElbe_EN-US2259441179_UHD.jpg)
 <!-- END -->
 
 
