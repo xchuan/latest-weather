@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Tue Jun 24 2025 04:51:33 GMT+0000 (Coordinated Universal Time) -->
-  ![The Elbe in Dresden, Germany (© Sean Pavone/Getty Images)](https://cn.bing.com/th?id=OHR.DresdenElbe_EN-US2259441179_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Wed Jun 25 2025 03:49:37 GMT+0000 (Coordinated Universal Time) -->
+  ![Delicate Arch, Arches National Park, Utah (© mmac72/Getty Images)](https://cn.bing.com/th?id=OHR.DelicateArch_EN-US2369284902_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2025-06-24
+  2025-06-25
 
-  [The Elbe in Dresden, Germany (© Sean Pavone/Getty Images)](https://cn.bing.com/th?id=OHR.DresdenElbe_EN-US2259441179_UHD.jpg)
+  [Delicate Arch, Arches National Park, Utah (© mmac72/Getty Images)](https://cn.bing.com/th?id=OHR.DelicateArch_EN-US2369284902_UHD.jpg)
 <!-- END -->
 
 
