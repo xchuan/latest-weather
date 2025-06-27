@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Thu Jun 26 2025 03:47:59 GMT+0000 (Coordinated Universal Time) -->
-  ![St. Michael's Church Tower on Glastonbury Tor, Glastonbury, Somerset, England (© Gavin Hellier/Getty Images)](https://cn.bing.com/th?id=OHR.GlastonburyScenic_EN-US2433998806_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Fri Jun 27 2025 03:48:27 GMT+0000 (Coordinated Universal Time) -->
+  ![The Milky Way over Horse Head Rock, New South Wales, Australia (© Philip Thurston/Getty Images)](https://cn.bing.com/th?id=OHR.HorseheadRock_EN-US2494437641_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2025-06-26
+  2025-06-27
 
-  [St. Michael's Church Tower on Glastonbury Tor, Glastonbury, Somerset, England (© Gavin Hellier/Getty Images)](https://cn.bing.com/th?id=OHR.GlastonburyScenic_EN-US2433998806_UHD.jpg)
+  [The Milky Way over Horse Head Rock, New South Wales, Australia (© Philip Thurston/Getty Images)](https://cn.bing.com/th?id=OHR.HorseheadRock_EN-US2494437641_UHD.jpg)
 <!-- END -->
 
 
