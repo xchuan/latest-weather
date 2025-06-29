@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Sat Jun 28 2025 03:43:13 GMT+0000 (Coordinated Universal Time) -->
-  ![Splendid leaf frog (© Jan Stria/Shutterstock)](https://cn.bing.com/th?id=OHR.SplendidFrog_EN-US9346105347_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Sun Jun 29 2025 03:55:10 GMT+0000 (Coordinated Universal Time) -->
+  ![Rainbow flags at New York Pride (© Alan Schein/Getty Images)](https://cn.bing.com/th?id=OHR.PrideParade_EN-US9405333794_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2025-06-28
+  2025-06-29
 
-  [Splendid leaf frog (© Jan Stria/Shutterstock)](https://cn.bing.com/th?id=OHR.SplendidFrog_EN-US9346105347_UHD.jpg)
+  [Rainbow flags at New York Pride (© Alan Schein/Getty Images)](https://cn.bing.com/th?id=OHR.PrideParade_EN-US9405333794_UHD.jpg)
 <!-- END -->
 
 
