@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Mon Jun 30 2025 03:53:25 GMT+0000 (Coordinated Universal Time) -->
-  ![Blue lagoon at Pulau Ay, Banda Islands, Indonesia (© fabio lamanna/Alamy)](https://cn.bing.com/th?id=OHR.BandaIsland_EN-US9494080788_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Tue Jul 01 2025 03:58:09 GMT+0000 (Coordinated Universal Time) -->
+  ![Wolfe Creek Crater, Australia (© Abstract Aerial Art/Getty Images)](https://cn.bing.com/th?id=OHR.WolfeCrater_EN-US2390330059_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2025-06-30
+  2025-07-01
 
-  [Blue lagoon at Pulau Ay, Banda Islands, Indonesia (© fabio lamanna/Alamy)](https://cn.bing.com/th?id=OHR.BandaIsland_EN-US9494080788_UHD.jpg)
+  [Wolfe Creek Crater, Australia (© Abstract Aerial Art/Getty Images)](https://cn.bing.com/th?id=OHR.WolfeCrater_EN-US2390330059_UHD.jpg)
 <!-- END -->
 
 
