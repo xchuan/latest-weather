@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Tue Jul 01 2025 04:56:30 GMT+0000 (Coordinated Universal Time) -->
-  ![Wolfe Creek Crater, Australia (© Abstract Aerial Art/Getty Images)](https://cn.bing.com/th?id=OHR.WolfeCrater_EN-US2390330059_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Wed Jul 02 2025 03:49:41 GMT+0000 (Coordinated Universal Time) -->
+  ![Fishing village of Tilting, Fogo Island, Newfoundland and Labrador, Canada (© FedevPhoto/Getty Images)](https://cn.bing.com/th?id=OHR.CanadaDayFogo_EN-US0231478181_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2025-07-01
+  2025-07-02
 
-  [Wolfe Creek Crater, Australia (© Abstract Aerial Art/Getty Images)](https://cn.bing.com/th?id=OHR.WolfeCrater_EN-US2390330059_UHD.jpg)
+  [Fishing village of Tilting, Fogo Island, Newfoundland and Labrador, Canada (© FedevPhoto/Getty Images)](https://cn.bing.com/th?id=OHR.CanadaDayFogo_EN-US0231478181_UHD.jpg)
 <!-- END -->
 
 
