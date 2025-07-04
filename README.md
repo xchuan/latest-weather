@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Thu Jul 03 2025 03:52:11 GMT+0000 (Coordinated Universal Time) -->
-  ![Spine-cheeked anemonefish surrounded by bubble-tip anemone, Milne Bay, Papua New Guinea (© Fred Bavendam/Nature Picture Library)](https://cn.bing.com/th?id=OHR.MaroonClownfish_EN-US0391262783_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Fri Jul 04 2025 03:48:33 GMT+0000 (Coordinated Universal Time) -->
+  ![Rainbow River in Rainbow Springs State Park, Florida (© Michel Roggo/Minden Pictures)](https://cn.bing.com/th?id=OHR.RainbowRiver_EN-US0442967532_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2025-07-03
+  2025-07-04
 
-  [Spine-cheeked anemonefish surrounded by bubble-tip anemone, Milne Bay, Papua New Guinea (© Fred Bavendam/Nature Picture Library)](https://cn.bing.com/th?id=OHR.MaroonClownfish_EN-US0391262783_UHD.jpg)
+  [Rainbow River in Rainbow Springs State Park, Florida (© Michel Roggo/Minden Pictures)](https://cn.bing.com/th?id=OHR.RainbowRiver_EN-US0442967532_UHD.jpg)
 <!-- END -->
 
 
