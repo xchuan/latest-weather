@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Fri Jul 04 2025 03:48:33 GMT+0000 (Coordinated Universal Time) -->
-  ![Rainbow River in Rainbow Springs State Park, Florida (© Michel Roggo/Minden Pictures)](https://cn.bing.com/th?id=OHR.RainbowRiver_EN-US0442967532_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Sat Jul 05 2025 03:44:31 GMT+0000 (Coordinated Universal Time) -->
+  ![Fourth of July fireworks over Lake Union in Seattle (© Dixin Yan)](https://cn.bing.com/th?id=OHR.SeattleFireworks_EN-US0523563675_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2025-07-04
+  2025-07-05
 
-  [Rainbow River in Rainbow Springs State Park, Florida (© Michel Roggo/Minden Pictures)](https://cn.bing.com/th?id=OHR.RainbowRiver_EN-US0442967532_UHD.jpg)
+  [Fourth of July fireworks over Lake Union in Seattle (© Dixin Yan)](https://cn.bing.com/th?id=OHR.SeattleFireworks_EN-US0523563675_UHD.jpg)
 <!-- END -->
 
 
