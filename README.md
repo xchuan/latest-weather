@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Sat Jul 05 2025 03:44:31 GMT+0000 (Coordinated Universal Time) -->
-  ![Fourth of July fireworks over Lake Union in Seattle (© Dixin Yan)](https://cn.bing.com/th?id=OHR.SeattleFireworks_EN-US0523563675_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Sun Jul 06 2025 03:53:43 GMT+0000 (Coordinated Universal Time) -->
+  ![Descending the Col du Tourmalet in the French Pyrenees during the 2021 Tour de France (© THOMAS SAMSON/AFP via Getty Images)](https://cn.bing.com/th?id=OHR.TourCyclists_EN-US0589835009_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2025-07-05
+  2025-07-06
 
-  [Fourth of July fireworks over Lake Union in Seattle (© Dixin Yan)](https://cn.bing.com/th?id=OHR.SeattleFireworks_EN-US0523563675_UHD.jpg)
+  [Descending the Col du Tourmalet in the French Pyrenees during the 2021 Tour de France (© THOMAS SAMSON/AFP via Getty Images)](https://cn.bing.com/th?id=OHR.TourCyclists_EN-US0589835009_UHD.jpg)
 <!-- END -->
 
 
