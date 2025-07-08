@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Mon Jul 07 2025 03:53:40 GMT+0000 (Coordinated Universal Time) -->
-  ![Mesquite Flat Sand Dunes in Death Valley National Park, California (© Bryan Jolley/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.MesquiteFlats_EN-US0638943216_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Tue Jul 08 2025 03:49:39 GMT+0000 (Coordinated Universal Time) -->
+  ![Northern gannets diving for fish, Shetland Islands, Scotland (© Richard Shucksmith/Minden Pictures)](https://cn.bing.com/th?id=OHR.ShetlandGannets_EN-US0812287314_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2025-07-07
+  2025-07-08
 
-  [Mesquite Flat Sand Dunes in Death Valley National Park, California (© Bryan Jolley/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.MesquiteFlats_EN-US0638943216_UHD.jpg)
+  [Northern gannets diving for fish, Shetland Islands, Scotland (© Richard Shucksmith/Minden Pictures)](https://cn.bing.com/th?id=OHR.ShetlandGannets_EN-US0812287314_UHD.jpg)
 <!-- END -->
 
 
