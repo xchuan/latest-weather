@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Fri Jul 11 2025 03:57:11 GMT+0000 (Coordinated Universal Time) -->
-  ![Turquoise waters of the Bahamas (© BlueOrange Studio/Adobe Stock)](https://cn.bing.com/th?id=OHR.BahamaBlues_EN-US1367794856_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Sat Jul 12 2025 03:52:33 GMT+0000 (Coordinated Universal Time) -->
+  ![Tokyo at sunrise (© pongnathee kluaythong/Getty Images)](https://cn.bing.com/th?id=OHR.TokyoSunrise_EN-US4269783992_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2025-07-11
+  2025-07-12
 
-  [Turquoise waters of the Bahamas (© BlueOrange Studio/Adobe Stock)](https://cn.bing.com/th?id=OHR.BahamaBlues_EN-US1367794856_UHD.jpg)
+  [Tokyo at sunrise (© pongnathee kluaythong/Getty Images)](https://cn.bing.com/th?id=OHR.TokyoSunrise_EN-US4269783992_UHD.jpg)
 <!-- END -->
 
 
