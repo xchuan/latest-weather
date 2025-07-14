@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Sun Jul 13 2025 03:58:46 GMT+0000 (Coordinated Universal Time) -->
-  ![Thomson's gazelle mother and fawn, Maasai Mara, Kenya (© Gallo Images/DanitaDelimont.com)](https://cn.bing.com/th?id=OHR.ThomsonGazelle_EN-US4354285846_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Mon Jul 14 2025 04:01:29 GMT+0000 (Coordinated Universal Time) -->
+  ![Basalt columns at Kálfshamarsvík, Skagi Peninsula, Iceland (© Arterra Picture Library/Alamy)](https://cn.bing.com/th?id=OHR.BasaltColumns_EN-US4476950150_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2025-07-13
+  2025-07-14
 
-  [Thomson's gazelle mother and fawn, Maasai Mara, Kenya (© Gallo Images/DanitaDelimont.com)](https://cn.bing.com/th?id=OHR.ThomsonGazelle_EN-US4354285846_UHD.jpg)
+  [Basalt columns at Kálfshamarsvík, Skagi Peninsula, Iceland (© Arterra Picture Library/Alamy)](https://cn.bing.com/th?id=OHR.BasaltColumns_EN-US4476950150_UHD.jpg)
 <!-- END -->
 
 
