@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Mon Jul 14 2025 04:01:29 GMT+0000 (Coordinated Universal Time) -->
-  ![Basalt columns at Kálfshamarsvík, Skagi Peninsula, Iceland (© Arterra Picture Library/Alamy)](https://cn.bing.com/th?id=OHR.BasaltColumns_EN-US4476950150_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Tue Jul 15 2025 03:58:18 GMT+0000 (Coordinated Universal Time) -->
+  ![Young blue shark swimming off the coast of Galicia, Spain (© Damocean/Getty Images)](https://cn.bing.com/th?id=OHR.YoungShark_EN-US4689572794_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2025-07-14
+  2025-07-15
 
-  [Basalt columns at Kálfshamarsvík, Skagi Peninsula, Iceland (© Arterra Picture Library/Alamy)](https://cn.bing.com/th?id=OHR.BasaltColumns_EN-US4476950150_UHD.jpg)
+  [Young blue shark swimming off the coast of Galicia, Spain (© Damocean/Getty Images)](https://cn.bing.com/th?id=OHR.YoungShark_EN-US4689572794_UHD.jpg)
 <!-- END -->
 
 
