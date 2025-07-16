@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Tue Jul 15 2025 04:57:56 GMT+0000 (Coordinated Universal Time) -->
-  ![Young blue shark swimming off the coast of Galicia, Spain (© Damocean/Getty Images)](https://cn.bing.com/th?id=OHR.YoungShark_EN-US4689572794_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Wed Jul 16 2025 03:57:00 GMT+0000 (Coordinated Universal Time) -->
+  ![Perseid meteor shower and an ancient bristlecone pine, Great Basin National Park, Nevada (© Wirestock Creators/Shutterstock)](https://cn.bing.com/th?id=OHR.PerseidsPine_EN-US4826682211_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2025-07-15
+  2025-07-16
 
-  [Young blue shark swimming off the coast of Galicia, Spain (© Damocean/Getty Images)](https://cn.bing.com/th?id=OHR.YoungShark_EN-US4689572794_UHD.jpg)
+  [Perseid meteor shower and an ancient bristlecone pine, Great Basin National Park, Nevada (© Wirestock Creators/Shutterstock)](https://cn.bing.com/th?id=OHR.PerseidsPine_EN-US4826682211_UHD.jpg)
 <!-- END -->
 
 
