@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Fri Jul 18 2025 03:58:45 GMT+0000 (Coordinated Universal Time) -->
-  ![Lavender fields in Plateau de Valensole, France (© zpagistock/Getty Images)](https://cn.bing.com/th?id=OHR.FranceLavender_EN-US5224253118_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Sat Jul 19 2025 03:51:35 GMT+0000 (Coordinated Universal Time) -->
+  ![Beach at sunrise, Gulf Islands National Seashore, Florida (© Tim Fitzharris/Minden Pictures)](https://cn.bing.com/th?id=OHR.FloridaSeashore_EN-US9038929616_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2025-07-18
+  2025-07-19
 
-  [Lavender fields in Plateau de Valensole, France (© zpagistock/Getty Images)](https://cn.bing.com/th?id=OHR.FranceLavender_EN-US5224253118_UHD.jpg)
+  [Beach at sunrise, Gulf Islands National Seashore, Florida (© Tim Fitzharris/Minden Pictures)](https://cn.bing.com/th?id=OHR.FloridaSeashore_EN-US9038929616_UHD.jpg)
 <!-- END -->
 
 
