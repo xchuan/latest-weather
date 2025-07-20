@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Sat Jul 19 2025 03:51:35 GMT+0000 (Coordinated Universal Time) -->
-  ![Beach at sunrise, Gulf Islands National Seashore, Florida (© Tim Fitzharris/Minden Pictures)](https://cn.bing.com/th?id=OHR.FloridaSeashore_EN-US9038929616_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Sun Jul 20 2025 04:03:45 GMT+0000 (Coordinated Universal Time) -->
+  ![Luna moth resting on cedar elm, New Braunfels, Texas, USA (© Rolf Nussbaumer/Nature Picture Library)](https://cn.bing.com/th?id=OHR.MothWeek_EN-US5360572836_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2025-07-19
+  2025-07-20
 
-  [Beach at sunrise, Gulf Islands National Seashore, Florida (© Tim Fitzharris/Minden Pictures)](https://cn.bing.com/th?id=OHR.FloridaSeashore_EN-US9038929616_UHD.jpg)
+  [Luna moth resting on cedar elm, New Braunfels, Texas, USA (© Rolf Nussbaumer/Nature Picture Library)](https://cn.bing.com/th?id=OHR.MothWeek_EN-US5360572836_UHD.jpg)
 <!-- END -->
 
 
