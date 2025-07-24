@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Wed Jul 23 2025 04:00:08 GMT+0000 (Coordinated Universal Time) -->
-  ![Sunset over Badlands National Park, South Dakota (© Petr Bednarik/Danita Delimont/Alamy)](https://cn.bing.com/th?id=OHR.BadlandsSunset_EN-US5821746223_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Thu Jul 24 2025 03:58:55 GMT+0000 (Coordinated Universal Time) -->
+  ![Vatican City with St. Peter's Basilica (© RudyBalasko/Getty Images)](https://cn.bing.com/th?id=OHR.VaticanCity_EN-US5915643866_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2025-07-23
+  2025-07-24
 
-  [Sunset over Badlands National Park, South Dakota (© Petr Bednarik/Danita Delimont/Alamy)](https://cn.bing.com/th?id=OHR.BadlandsSunset_EN-US5821746223_UHD.jpg)
+  [Vatican City with St. Peter's Basilica (© RudyBalasko/Getty Images)](https://cn.bing.com/th?id=OHR.VaticanCity_EN-US5915643866_UHD.jpg)
 <!-- END -->
 
 
