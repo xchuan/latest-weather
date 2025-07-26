@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Fri Jul 25 2025 03:58:36 GMT+0000 (Coordinated Universal Time) -->
-  ![Family of ashy woodswallows perched on a branch in Thailand (© Captain Skyhigh/Getty Images)](https://cn.bing.com/th?id=OHR.AshyWoodswallow_EN-US7005770998_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Sat Jul 26 2025 03:56:56 GMT+0000 (Coordinated Universal Time) -->
+  ![Aerial view of colorful houses, Las Palmas de Gran Canaria, Spain (© Marco Bottigelli/Getty Images)](https://cn.bing.com/th?id=OHR.LasPalmas_EN-US0568727017_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2025-07-25
+  2025-07-26
 
-  [Family of ashy woodswallows perched on a branch in Thailand (© Captain Skyhigh/Getty Images)](https://cn.bing.com/th?id=OHR.AshyWoodswallow_EN-US7005770998_UHD.jpg)
+  [Aerial view of colorful houses, Las Palmas de Gran Canaria, Spain (© Marco Bottigelli/Getty Images)](https://cn.bing.com/th?id=OHR.LasPalmas_EN-US0568727017_UHD.jpg)
 <!-- END -->
 
 
