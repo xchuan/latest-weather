@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Tue Jul 29 2025 05:03:33 GMT+0000 (Coordinated Universal Time) -->
-  ![Yurts in the grasslands of Mongolia (© Michel Arnault/Shutterstock)](https://cn.bing.com/th?id=OHR.MongoliaYurts_EN-US1803457525_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Wed Jul 30 2025 04:03:21 GMT+0000 (Coordinated Universal Time) -->
+  ![Female Bengal tiger, Kanha National Park, India (© Axel Gomille/Nature Picture Library)](https://cn.bing.com/th?id=OHR.TigerDay_EN-US5038876410_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2025-07-29
+  2025-07-30
 
-  [Yurts in the grasslands of Mongolia (© Michel Arnault/Shutterstock)](https://cn.bing.com/th?id=OHR.MongoliaYurts_EN-US1803457525_UHD.jpg)
+  [Female Bengal tiger, Kanha National Park, India (© Axel Gomille/Nature Picture Library)](https://cn.bing.com/th?id=OHR.TigerDay_EN-US5038876410_UHD.jpg)
 <!-- END -->
 
 
