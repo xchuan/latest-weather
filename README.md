@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Mon Aug 04 2025 04:13:57 GMT+0000 (Coordinated Universal Time) -->
-  ![Sunflowers in a field in summer (© Arsgera/Shutterstock)](https://cn.bing.com/th?id=OHR.HappySunflower_EN-US8791544241_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Tue Aug 05 2025 04:06:56 GMT+0000 (Coordinated Universal Time) -->
+  ![Great gray owls in their nest, Finland (© imageBROKER.com/Alamy)](https://cn.bing.com/th?id=OHR.LaplandOwl_EN-US8965493818_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2025-08-04
+  2025-08-05
 
-  [Sunflowers in a field in summer (© Arsgera/Shutterstock)](https://cn.bing.com/th?id=OHR.HappySunflower_EN-US8791544241_UHD.jpg)
+  [Great gray owls in their nest, Finland (© imageBROKER.com/Alamy)](https://cn.bing.com/th?id=OHR.LaplandOwl_EN-US8965493818_UHD.jpg)
 <!-- END -->
 
 
