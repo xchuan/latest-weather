@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Thu Aug 07 2025 04:04:22 GMT+0000 (Coordinated Universal Time) -->
-  ![Kalalau Beach on the Nā Pali Coast, Kauai, Hawaii (© Russ Bishop/DanitaDelimont.com)](https://cn.bing.com/th?id=OHR.NaPaliKauai_EN-US7451684312_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Fri Aug 08 2025 04:04:03 GMT+0000 (Coordinated Universal Time) -->
+  ![Gasparilla Island Rear Range Light, Boca Grande, Florida (© Wiltser/Getty Images)](https://cn.bing.com/th?id=OHR.GasparillaLight_EN-US0554204214_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2025-08-07
+  2025-08-08
 
-  [Kalalau Beach on the Nā Pali Coast, Kauai, Hawaii (© Russ Bishop/DanitaDelimont.com)](https://cn.bing.com/th?id=OHR.NaPaliKauai_EN-US7451684312_UHD.jpg)
+  [Gasparilla Island Rear Range Light, Boca Grande, Florida (© Wiltser/Getty Images)](https://cn.bing.com/th?id=OHR.GasparillaLight_EN-US0554204214_UHD.jpg)
 <!-- END -->
 
 
