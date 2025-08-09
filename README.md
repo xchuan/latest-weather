@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Fri Aug 08 2025 04:04:03 GMT+0000 (Coordinated Universal Time) -->
-  ![Gasparilla Island Rear Range Light, Boca Grande, Florida (© Wiltser/Getty Images)](https://cn.bing.com/th?id=OHR.GasparillaLight_EN-US0554204214_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Sat Aug 09 2025 03:49:34 GMT+0000 (Coordinated Universal Time) -->
+  ![Three Musketeers Falls at Iguazú Falls, Argentina (© Mark Meredith/Getty Images)](https://cn.bing.com/th?id=OHR.IguazuArgentina_EN-US5953375078_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2025-08-08
+  2025-08-09
 
-  [Gasparilla Island Rear Range Light, Boca Grande, Florida (© Wiltser/Getty Images)](https://cn.bing.com/th?id=OHR.GasparillaLight_EN-US0554204214_UHD.jpg)
+  [Three Musketeers Falls at Iguazú Falls, Argentina (© Mark Meredith/Getty Images)](https://cn.bing.com/th?id=OHR.IguazuArgentina_EN-US5953375078_UHD.jpg)
 <!-- END -->
 
 
