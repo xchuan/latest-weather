@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Sat Aug 09 2025 03:49:34 GMT+0000 (Coordinated Universal Time) -->
-  ![Three Musketeers Falls at Iguazú Falls, Argentina (© Mark Meredith/Getty Images)](https://cn.bing.com/th?id=OHR.IguazuArgentina_EN-US5953375078_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Sun Aug 10 2025 04:02:29 GMT+0000 (Coordinated Universal Time) -->
+  ![Ngātoroirangi Mine Bay Māori Rock Carvings on Lake Taupō, New Zealand (© Joppi/Getty Images)](https://cn.bing.com/th?id=OHR.MaoriRock_EN-US6499689741_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2025-08-09
+  2025-08-10
 
-  [Three Musketeers Falls at Iguazú Falls, Argentina (© Mark Meredith/Getty Images)](https://cn.bing.com/th?id=OHR.IguazuArgentina_EN-US5953375078_UHD.jpg)
+  [Ngātoroirangi Mine Bay Māori Rock Carvings on Lake Taupō, New Zealand (© Joppi/Getty Images)](https://cn.bing.com/th?id=OHR.MaoriRock_EN-US6499689741_UHD.jpg)
 <!-- END -->
 
 
