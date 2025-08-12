@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Mon Aug 11 2025 04:03:39 GMT+0000 (Coordinated Universal Time) -->
-  ![Lioness in Maasai Mara National Reserve, Kenya (© Tandem Stock/Adobe Stock)](https://cn.bing.com/th?id=OHR.LionessKenya_EN-US8440386444_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Tue Aug 12 2025 03:47:49 GMT+0000 (Coordinated Universal Time) -->
+  ![Village of Santa Maddalena, Dolomites, Italy (© Sakrapee Nopparat/Getty Images)](https://cn.bing.com/th?id=OHR.SantaMaddalena_EN-US8546897995_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2025-08-11
+  2025-08-12
 
-  [Lioness in Maasai Mara National Reserve, Kenya (© Tandem Stock/Adobe Stock)](https://cn.bing.com/th?id=OHR.LionessKenya_EN-US8440386444_UHD.jpg)
+  [Village of Santa Maddalena, Dolomites, Italy (© Sakrapee Nopparat/Getty Images)](https://cn.bing.com/th?id=OHR.SantaMaddalena_EN-US8546897995_UHD.jpg)
 <!-- END -->
 
 
