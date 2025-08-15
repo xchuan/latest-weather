@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Thu Aug 14 2025 03:53:59 GMT+0000 (Coordinated Universal Time) -->
-  ![A man rappels off Corona Arch near Moab, Utah (© Grant Ordelheide/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.CoronaArch_EN-US8928406175_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Fri Aug 15 2025 03:50:59 GMT+0000 (Coordinated Universal Time) -->
+  ![Cable car station on Piz Nair mountain, Graubünden, Switzerland (© Roberto Moiola/Alamy)](https://cn.bing.com/th?id=OHR.PizNairPeak_EN-US9097547756_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2025-08-14
+  2025-08-15
 
-  [A man rappels off Corona Arch near Moab, Utah (© Grant Ordelheide/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.CoronaArch_EN-US8928406175_UHD.jpg)
+  [Cable car station on Piz Nair mountain, Graubünden, Switzerland (© Roberto Moiola/Alamy)](https://cn.bing.com/th?id=OHR.PizNairPeak_EN-US9097547756_UHD.jpg)
 <!-- END -->
 
 
