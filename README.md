@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Sat Aug 16 2025 03:44:21 GMT+0000 (Coordinated Universal Time) -->
-  ![Spotted eagle rays, San Cristóbal Island, Galápagos Islands, Ecuador (© Tui De Roy/Minden Pictures)](https://cn.bing.com/th?id=OHR.SpottedEagleRay_EN-US9227600044_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Sun Aug 17 2025 03:53:35 GMT+0000 (Coordinated Universal Time) -->
+  ![Colorful beehives in Italy (© Roberto Caucino/Shutterstock)](https://cn.bing.com/th?id=OHR.ColorfulBeehives_EN-US1476944743_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2025-08-16
+  2025-08-17
 
-  [Spotted eagle rays, San Cristóbal Island, Galápagos Islands, Ecuador (© Tui De Roy/Minden Pictures)](https://cn.bing.com/th?id=OHR.SpottedEagleRay_EN-US9227600044_UHD.jpg)
+  [Colorful beehives in Italy (© Roberto Caucino/Shutterstock)](https://cn.bing.com/th?id=OHR.ColorfulBeehives_EN-US1476944743_UHD.jpg)
 <!-- END -->
 
 
