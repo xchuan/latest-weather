@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Mon Aug 18 2025 03:59:39 GMT+0000 (Coordinated Universal Time) -->
-  ![Lyngvig Lighthouse, Hvide Sande, Denmark (© Caroline Brundle Bugge/Getty Images)](https://cn.bing.com/th?id=OHR.LyngvigLighthouse_EN-US1600601632_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Tue Aug 19 2025 03:40:45 GMT+0000 (Coordinated Universal Time) -->
+  ![Avalanche Lake Trail at Adirondack High Peaks, New York (© Posnov/Getty Images)](https://cn.bing.com/th?id=OHR.AvalancheLake_EN-US1814683119_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2025-08-18
+  2025-08-19
 
-  [Lyngvig Lighthouse, Hvide Sande, Denmark (© Caroline Brundle Bugge/Getty Images)](https://cn.bing.com/th?id=OHR.LyngvigLighthouse_EN-US1600601632_UHD.jpg)
+  [Avalanche Lake Trail at Adirondack High Peaks, New York (© Posnov/Getty Images)](https://cn.bing.com/th?id=OHR.AvalancheLake_EN-US1814683119_UHD.jpg)
 <!-- END -->
 
 
