@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Tue Aug 19 2025 04:44:45 GMT+0000 (Coordinated Universal Time) -->
-  ![Avalanche Lake Trail at Adirondack High Peaks, New York (© Posnov/Getty Images)](https://cn.bing.com/th?id=OHR.AvalancheLake_EN-US1814683119_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Wed Aug 20 2025 03:39:16 GMT+0000 (Coordinated Universal Time) -->
+  ![Solar Impulse 2 at Kalaeloa Airport, Honolulu, Hawaii (© Solar Impulse/Revillard/Sipa/Shutterstock)](https://cn.bing.com/th?id=OHR.SolarAviation_EN-US1940905760_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2025-08-19
+  2025-08-20
 
-  [Avalanche Lake Trail at Adirondack High Peaks, New York (© Posnov/Getty Images)](https://cn.bing.com/th?id=OHR.AvalancheLake_EN-US1814683119_UHD.jpg)
+  [Solar Impulse 2 at Kalaeloa Airport, Honolulu, Hawaii (© Solar Impulse/Revillard/Sipa/Shutterstock)](https://cn.bing.com/th?id=OHR.SolarAviation_EN-US1940905760_UHD.jpg)
 <!-- END -->
 
 
