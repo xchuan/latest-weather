@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Wed Aug 20 2025 03:39:16 GMT+0000 (Coordinated Universal Time) -->
-  ![Solar Impulse 2 at Kalaeloa Airport, Honolulu, Hawaii (© Solar Impulse/Revillard/Sipa/Shutterstock)](https://cn.bing.com/th?id=OHR.SolarAviation_EN-US1940905760_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Thu Aug 21 2025 03:38:51 GMT+0000 (Coordinated Universal Time) -->
+  ![The citadel in Bonifacio, Southern Corsica, France (© Marc Dozier/Getty Images)](https://cn.bing.com/th?id=OHR.CitadelBonifacio_EN-US2046177235_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2025-08-20
+  2025-08-21
 
-  [Solar Impulse 2 at Kalaeloa Airport, Honolulu, Hawaii (© Solar Impulse/Revillard/Sipa/Shutterstock)](https://cn.bing.com/th?id=OHR.SolarAviation_EN-US1940905760_UHD.jpg)
+  [The citadel in Bonifacio, Southern Corsica, France (© Marc Dozier/Getty Images)](https://cn.bing.com/th?id=OHR.CitadelBonifacio_EN-US2046177235_UHD.jpg)
 <!-- END -->
 
 
