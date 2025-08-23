@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Fri Aug 22 2025 03:39:03 GMT+0000 (Coordinated Universal Time) -->
-  ![Wheatear and flowering heather, Peak District National Park, England (© Ben Hall/Nature Picture Library)](https://cn.bing.com/th?id=OHR.WheatearBird_EN-US2132045619_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Sat Aug 23 2025 03:33:38 GMT+0000 (Coordinated Universal Time) -->
+  ![Rolling hills of the Palouse, Washington (© svetlana57/Getty Images)](https://cn.bing.com/th?id=OHR.PalouseWA_EN-US2419102005_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2025-08-22
+  2025-08-23
 
-  [Wheatear and flowering heather, Peak District National Park, England (© Ben Hall/Nature Picture Library)](https://cn.bing.com/th?id=OHR.WheatearBird_EN-US2132045619_UHD.jpg)
+  [Rolling hills of the Palouse, Washington (© svetlana57/Getty Images)](https://cn.bing.com/th?id=OHR.PalouseWA_EN-US2419102005_UHD.jpg)
 <!-- END -->
 
 
