@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Wed Aug 27 2025 03:33:21 GMT+0000 (Coordinated Universal Time) -->
-  ![Trullo buildings in Alberobello, Apulia, Italy (© Feng Wei Photography/Getty Images)](https://cn.bing.com/th?id=OHR.TrulliHouses_EN-US3489439665_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Thu Aug 28 2025 03:33:24 GMT+0000 (Coordinated Universal Time) -->
+  ![Sørvágsvatn lake, island of Vágar, Faroe Islands, Denmark (© Anton Petrus/Getty Images)](https://cn.bing.com/th?id=OHR.FaroeLake_EN-US3557234950_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2025-08-27
+  2025-08-28
 
-  [Trullo buildings in Alberobello, Apulia, Italy (© Feng Wei Photography/Getty Images)](https://cn.bing.com/th?id=OHR.TrulliHouses_EN-US3489439665_UHD.jpg)
+  [Sørvágsvatn lake, island of Vágar, Faroe Islands, Denmark (© Anton Petrus/Getty Images)](https://cn.bing.com/th?id=OHR.FaroeLake_EN-US3557234950_UHD.jpg)
 <!-- END -->
 
 
