@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Sun Aug 31 2025 03:35:30 GMT+0000 (Coordinated Universal Time) -->
-  ![Whale shark off the coast of Alifu Dhaalu Atoll, Maldives (© Bachir Moukarzel/Amazing Aerial Agency)](https://cn.bing.com/th?id=OHR.MaldivesWhaleShark_EN-US3819740955_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Mon Sep 01 2025 03:49:55 GMT+0000 (Coordinated Universal Time) -->
+  ![Scotts Bluff National Monument in Gering, Nebraska (© Hawk Buckman/Getty Images)](https://cn.bing.com/th?id=OHR.ScottsBluff_EN-US3893566724_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2025-08-31
+  2025-09-01
 
-  [Whale shark off the coast of Alifu Dhaalu Atoll, Maldives (© Bachir Moukarzel/Amazing Aerial Agency)](https://cn.bing.com/th?id=OHR.MaldivesWhaleShark_EN-US3819740955_UHD.jpg)
+  [Scotts Bluff National Monument in Gering, Nebraska (© Hawk Buckman/Getty Images)](https://cn.bing.com/th?id=OHR.ScottsBluff_EN-US3893566724_UHD.jpg)
 <!-- END -->
 
 
