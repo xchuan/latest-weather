@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Tue Sep 02 2025 04:44:16 GMT+0000 (Coordinated Universal Time) -->
-  ![Amalgamated Clothing Workers of America in a Labor Day parade, May 1915, Chicago (© Chicago Sun-Times/Chicago Daily News collection/Chicago History Museum/Getty Images)](https://cn.bing.com/th?id=OHR.LaborDayChicago_EN-US3947410593_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Wed Sep 03 2025 03:25:34 GMT+0000 (Coordinated Universal Time) -->
+  ![Camel thorn trees, Deadvlei, Namib-Naukluft Park, Namibia (© Inge Johnsson/Alamy)](https://cn.bing.com/th?id=OHR.DeadvleiTrees_EN-US4233800313_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2025-09-02
+  2025-09-03
 
-  [Amalgamated Clothing Workers of America in a Labor Day parade, May 1915, Chicago (© Chicago Sun-Times/Chicago Daily News collection/Chicago History Museum/Getty Images)](https://cn.bing.com/th?id=OHR.LaborDayChicago_EN-US3947410593_UHD.jpg)
+  [Camel thorn trees, Deadvlei, Namib-Naukluft Park, Namibia (© Inge Johnsson/Alamy)](https://cn.bing.com/th?id=OHR.DeadvleiTrees_EN-US4233800313_UHD.jpg)
 <!-- END -->
 
 
