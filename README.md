@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Sun Sep 07 2025 03:32:06 GMT+0000 (Coordinated Universal Time) -->
-  ![Rufous hummingbird, Golden Gate Park, San Francisco, California (© jeremyborkat/Getty Images)](https://cn.bing.com/th?id=OHR.RufousHummer_EN-US7346003108_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Mon Sep 08 2025 03:37:24 GMT+0000 (Coordinated Universal Time) -->
+  ![Gdańsk on the banks of the Motława, Poland (© Oscar Dominguez/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.BlueGdansk_EN-US8032283831_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2025-09-07
+  2025-09-08
 
-  [Rufous hummingbird, Golden Gate Park, San Francisco, California (© jeremyborkat/Getty Images)](https://cn.bing.com/th?id=OHR.RufousHummer_EN-US7346003108_UHD.jpg)
+  [Gdańsk on the banks of the Motława, Poland (© Oscar Dominguez/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.BlueGdansk_EN-US8032283831_UHD.jpg)
 <!-- END -->
 
 
