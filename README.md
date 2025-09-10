@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Tue Sep 09 2025 04:43:06 GMT+0000 (Coordinated Universal Time) -->
-  ![Library@orchard, Singapore (© Darwin Fan/Getty Images)](https://cn.bing.com/th?id=OHR.OrchardLibrary_EN-US8095609746_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Wed Sep 10 2025 03:25:34 GMT+0000 (Coordinated Universal Time) -->
+  ![A female Eurasian red squirrel carrying moss, Switzerland (© Jean-Luc and Francoise Ziegler/Minden Pictures)](https://cn.bing.com/th?id=OHR.SwissSquirrel_EN-US8185093853_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2025-09-09
+  2025-09-10
 
-  [Library@orchard, Singapore (© Darwin Fan/Getty Images)](https://cn.bing.com/th?id=OHR.OrchardLibrary_EN-US8095609746_UHD.jpg)
+  [A female Eurasian red squirrel carrying moss, Switzerland (© Jean-Luc and Francoise Ziegler/Minden Pictures)](https://cn.bing.com/th?id=OHR.SwissSquirrel_EN-US8185093853_UHD.jpg)
 <!-- END -->
 
 
