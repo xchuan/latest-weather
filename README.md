@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Fri Sep 12 2025 03:25:45 GMT+0000 (Coordinated Universal Time) -->
-  ![Statue of Liberty and Lower Manhattan, New York City (© Tetra Images/Getty Images)](https://cn.bing.com/th?id=OHR.LibertyManhattan_EN-US8781721086_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Sat Sep 13 2025 03:19:16 GMT+0000 (Coordinated Universal Time) -->
+  ![Spinner dolphin pod in the Red Sea, Marsa Alam, Egypt (© Franco Banfi/Nature Picture Library)](https://cn.bing.com/th?id=OHR.SpinnerDolphins_EN-US8860882818_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2025-09-12
+  2025-09-13
 
-  [Statue of Liberty and Lower Manhattan, New York City (© Tetra Images/Getty Images)](https://cn.bing.com/th?id=OHR.LibertyManhattan_EN-US8781721086_UHD.jpg)
+  [Spinner dolphin pod in the Red Sea, Marsa Alam, Egypt (© Franco Banfi/Nature Picture Library)](https://cn.bing.com/th?id=OHR.SpinnerDolphins_EN-US8860882818_UHD.jpg)
 <!-- END -->
 
 
