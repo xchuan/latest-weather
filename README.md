@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Sat Sep 20 2025 03:25:51 GMT+0000 (Coordinated Universal Time) -->
-  ![Thousand Islands region, St. Lawrence River, US-Canada border (© benedek/Getty Images)](https://cn.bing.com/th?id=OHR.ThousandIslands_EN-US7884567746_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Sun Sep 21 2025 03:36:15 GMT+0000 (Coordinated Universal Time) -->
+  ![Swing carousel at Oktoberfest, Munich, Germany (© LOOK-foto/Alamy)](https://cn.bing.com/th?id=OHR.OktoberfestSwing_EN-US7916182497_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2025-09-20
+  2025-09-21
 
-  [Thousand Islands region, St. Lawrence River, US-Canada border (© benedek/Getty Images)](https://cn.bing.com/th?id=OHR.ThousandIslands_EN-US7884567746_UHD.jpg)
+  [Swing carousel at Oktoberfest, Munich, Germany (© LOOK-foto/Alamy)](https://cn.bing.com/th?id=OHR.OktoberfestSwing_EN-US7916182497_UHD.jpg)
 <!-- END -->
 
 
