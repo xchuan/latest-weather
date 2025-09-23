@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Mon Sep 22 2025 03:37:14 GMT+0000 (Coordinated Universal Time) -->
-  ![Sea otters, Prince William Sound, Alaska (© Gerald Corsi/Getty Images)](https://cn.bing.com/th?id=OHR.IceOtters_EN-US7982442590_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Tue Sep 23 2025 03:29:01 GMT+0000 (Coordinated Universal Time) -->
+  ![Aspen trees during fall, Fishlake National Forest, Utah (© Danita Delimont/Getty Images)](https://cn.bing.com/th?id=OHR.AspenEquinox_EN-US8237887036_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2025-09-22
+  2025-09-23
 
-  [Sea otters, Prince William Sound, Alaska (© Gerald Corsi/Getty Images)](https://cn.bing.com/th?id=OHR.IceOtters_EN-US7982442590_UHD.jpg)
+  [Aspen trees during fall, Fishlake National Forest, Utah (© Danita Delimont/Getty Images)](https://cn.bing.com/th?id=OHR.AspenEquinox_EN-US8237887036_UHD.jpg)
 <!-- END -->
 
 
