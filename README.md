@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Tue Sep 23 2025 04:42:28 GMT+0000 (Coordinated Universal Time) -->
-  ![Aspen trees during fall, Fishlake National Forest, Utah (© Danita Delimont/Getty Images)](https://cn.bing.com/th?id=OHR.AspenEquinox_EN-US8237887036_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Wed Sep 24 2025 03:30:05 GMT+0000 (Coordinated Universal Time) -->
+  ![Keel-billed toucan in Costa Rica (© Juan Carlos Vindas/Getty Images)](https://cn.bing.com/th?id=OHR.ToucanForest_EN-US8319635845_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2025-09-23
+  2025-09-24
 
-  [Aspen trees during fall, Fishlake National Forest, Utah (© Danita Delimont/Getty Images)](https://cn.bing.com/th?id=OHR.AspenEquinox_EN-US8237887036_UHD.jpg)
+  [Keel-billed toucan in Costa Rica (© Juan Carlos Vindas/Getty Images)](https://cn.bing.com/th?id=OHR.ToucanForest_EN-US8319635845_UHD.jpg)
 <!-- END -->
 
 
