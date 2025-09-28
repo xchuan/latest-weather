@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Sat Sep 27 2025 03:25:45 GMT+0000 (Coordinated Universal Time) -->
-  ![Least chipmunk, Kootenai National Forest, Montana (© Donald M. Jones/Minden Pictures)](https://cn.bing.com/th?id=OHR.AutumnChipmunk_EN-US9248365602_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Sun Sep 28 2025 03:36:23 GMT+0000 (Coordinated Universal Time) -->
+  ![Tank Lakes, Alpine Lakes Wilderness, Washington (© Austin Trigg/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.TankLakes_EN-US9278332978_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2025-09-27
+  2025-09-28
 
-  [Least chipmunk, Kootenai National Forest, Montana (© Donald M. Jones/Minden Pictures)](https://cn.bing.com/th?id=OHR.AutumnChipmunk_EN-US9248365602_UHD.jpg)
+  [Tank Lakes, Alpine Lakes Wilderness, Washington (© Austin Trigg/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.TankLakes_EN-US9278332978_UHD.jpg)
 <!-- END -->
 
 
