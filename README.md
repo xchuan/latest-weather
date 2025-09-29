@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Sun Sep 28 2025 03:36:23 GMT+0000 (Coordinated Universal Time) -->
-  ![Tank Lakes, Alpine Lakes Wilderness, Washington (© Austin Trigg/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.TankLakes_EN-US9278332978_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Mon Sep 29 2025 03:35:32 GMT+0000 (Coordinated Universal Time) -->
+  ![Town of Pienza in Tuscany, Italy (© zpagistock/Getty Images)](https://cn.bing.com/th?id=OHR.PienzaItaly_EN-US8831227247_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2025-09-28
+  2025-09-29
 
-  [Tank Lakes, Alpine Lakes Wilderness, Washington (© Austin Trigg/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.TankLakes_EN-US9278332978_UHD.jpg)
+  [Town of Pienza in Tuscany, Italy (© zpagistock/Getty Images)](https://cn.bing.com/th?id=OHR.PienzaItaly_EN-US8831227247_UHD.jpg)
 <!-- END -->
 
 
