@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Mon Sep 29 2025 03:35:32 GMT+0000 (Coordinated Universal Time) -->
-  ![Town of Pienza in Tuscany, Italy (© zpagistock/Getty Images)](https://cn.bing.com/th?id=OHR.PienzaItaly_EN-US8831227247_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Tue Sep 30 2025 03:29:50 GMT+0000 (Coordinated Universal Time) -->
+  ![The Rainbow Houses of Houten, Netherlands (© George Pachantouris/Getty Images)](https://cn.bing.com/th?id=OHR.HoutenHouses_EN-US8966537355_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2025-09-29
+  2025-09-30
 
-  [Town of Pienza in Tuscany, Italy (© zpagistock/Getty Images)](https://cn.bing.com/th?id=OHR.PienzaItaly_EN-US8831227247_UHD.jpg)
+  [The Rainbow Houses of Houten, Netherlands (© George Pachantouris/Getty Images)](https://cn.bing.com/th?id=OHR.HoutenHouses_EN-US8966537355_UHD.jpg)
 <!-- END -->
 
 
