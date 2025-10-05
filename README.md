@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Sat Oct 04 2025 03:22:27 GMT+0000 (Coordinated Universal Time) -->
-  ![Heather growing in Glen Brittle, Isle of Skye, Scotland (© Adam Mowery/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.SkyeHeather_EN-US9221942108_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Sun Oct 05 2025 03:34:09 GMT+0000 (Coordinated Universal Time) -->
+  ![ISS main solar arrays seen from SpaceX Crew Dragon Endeavour (© NASA)](https://cn.bing.com/th?id=OHR.DragonEndeavour_EN-US9321246369_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2025-10-04
+  2025-10-05
 
-  [Heather growing in Glen Brittle, Isle of Skye, Scotland (© Adam Mowery/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.SkyeHeather_EN-US9221942108_UHD.jpg)
+  [ISS main solar arrays seen from SpaceX Crew Dragon Endeavour (© NASA)](https://cn.bing.com/th?id=OHR.DragonEndeavour_EN-US9321246369_UHD.jpg)
 <!-- END -->
 
 
