@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Fri Oct 10 2025 03:30:46 GMT+0000 (Coordinated Universal Time) -->
-  ![The Pillars of Creation viewed by the James Webb Space Telescope (© NASA)](https://cn.bing.com/th?id=OHR.WebbPillars_EN-US0251661895_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Sat Oct 11 2025 03:24:46 GMT+0000 (Coordinated Universal Time) -->
+  ![Coral reef surrounding the island of Monuriki, Mamanuca Islands, Fiji (© David Wall/SuperStock)](https://cn.bing.com/th?id=OHR.MonurikiFiji_EN-US0326449622_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2025-10-10
+  2025-10-11
 
-  [The Pillars of Creation viewed by the James Webb Space Telescope (© NASA)](https://cn.bing.com/th?id=OHR.WebbPillars_EN-US0251661895_UHD.jpg)
+  [Coral reef surrounding the island of Monuriki, Mamanuca Islands, Fiji (© David Wall/SuperStock)](https://cn.bing.com/th?id=OHR.MonurikiFiji_EN-US0326449622_UHD.jpg)
 <!-- END -->
 
 
