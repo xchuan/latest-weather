@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Sun Oct 19 2025 03:43:31 GMT+0000 (Coordinated Universal Time) -->
-  ![Neolithic site of Silbury Hill, Tilshead, Wiltshire, England (© dbstockphoto/Getty Images)](https://cn.bing.com/th?id=OHR.SilburyHill_EN-US2485144120_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Mon Oct 20 2025 03:46:27 GMT+0000 (Coordinated Universal Time) -->
+  ![Apples ready for harvest, Minnesota (© Tammi Mild/Getty Images)](https://cn.bing.com/th?id=OHR.AppleHarvest_EN-US2977882687_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2025-10-19
+  2025-10-20
 
-  [Neolithic site of Silbury Hill, Tilshead, Wiltshire, England (© dbstockphoto/Getty Images)](https://cn.bing.com/th?id=OHR.SilburyHill_EN-US2485144120_UHD.jpg)
+  [Apples ready for harvest, Minnesota (© Tammi Mild/Getty Images)](https://cn.bing.com/th?id=OHR.AppleHarvest_EN-US2977882687_UHD.jpg)
 <!-- END -->
 
 
