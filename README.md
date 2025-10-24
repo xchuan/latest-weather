@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Wed Oct 22 2025 03:42:35 GMT+0000 (Coordinated Universal Time) -->
-  ![A diya at the Golden Temple during Diwali, Amritsar, India (© EyeEm Mobile GmbH/Getty Images)](https://cn.bing.com/th?id=OHR.DiyaDiwali_EN-US3108369974_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Fri Oct 24 2025 03:32:02 GMT+0000 (Coordinated Universal Time) -->
+  ![Snow leopard with her cubs, Spiti Valley, Cold Desert Biosphere Reserve, India (© Oriol Alamany/naturepl.com)](https://cn.bing.com/th?id=OHR.SnowLeopard_EN-US3294064537_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2025-10-22
+  2025-10-24
 
-  [A diya at the Golden Temple during Diwali, Amritsar, India (© EyeEm Mobile GmbH/Getty Images)](https://cn.bing.com/th?id=OHR.DiyaDiwali_EN-US3108369974_UHD.jpg)
+  [Snow leopard with her cubs, Spiti Valley, Cold Desert Biosphere Reserve, India (© Oriol Alamany/naturepl.com)](https://cn.bing.com/th?id=OHR.SnowLeopard_EN-US3294064537_UHD.jpg)
 <!-- END -->
 
 
