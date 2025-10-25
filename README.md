@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Fri Oct 24 2025 03:32:02 GMT+0000 (Coordinated Universal Time) -->
-  ![Snow leopard with her cubs, Spiti Valley, Cold Desert Biosphere Reserve, India (© Oriol Alamany/naturepl.com)](https://cn.bing.com/th?id=OHR.SnowLeopard_EN-US3294064537_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Sat Oct 25 2025 03:33:26 GMT+0000 (Coordinated Universal Time) -->
+  ![Night view of the RMS Queen Mary, Long Beach, California (© Kit Leong/Shutterstock)](https://cn.bing.com/th?id=OHR.QueenMary_EN-US3331250680_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2025-10-24
+  2025-10-25
 
-  [Snow leopard with her cubs, Spiti Valley, Cold Desert Biosphere Reserve, India (© Oriol Alamany/naturepl.com)](https://cn.bing.com/th?id=OHR.SnowLeopard_EN-US3294064537_UHD.jpg)
+  [Night view of the RMS Queen Mary, Long Beach, California (© Kit Leong/Shutterstock)](https://cn.bing.com/th?id=OHR.QueenMary_EN-US3331250680_UHD.jpg)
 <!-- END -->
 
 
