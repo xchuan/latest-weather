@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Wed Oct 29 2025 03:46:32 GMT+0000 (Coordinated Universal Time) -->
-  ![The Gothic Gate in the Adršpach-Teplice Rocks, Czechia (© Kseniya_Milner/Getty Images)](https://cn.bing.com/th?id=OHR.TepliceRocks_EN-US4098225022_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Thu Oct 30 2025 03:41:47 GMT+0000 (Coordinated Universal Time) -->
+  ![Ancient til trees in Fanal Forest, island of Madeira, Portugal (© Lukas Jonaitis/Shutterstock)](https://cn.bing.com/th?id=OHR.FanalForest_EN-US4405104404_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2025-10-29
+  2025-10-30
 
-  [The Gothic Gate in the Adršpach-Teplice Rocks, Czechia (© Kseniya_Milner/Getty Images)](https://cn.bing.com/th?id=OHR.TepliceRocks_EN-US4098225022_UHD.jpg)
+  [Ancient til trees in Fanal Forest, island of Madeira, Portugal (© Lukas Jonaitis/Shutterstock)](https://cn.bing.com/th?id=OHR.FanalForest_EN-US4405104404_UHD.jpg)
 <!-- END -->
 
 
