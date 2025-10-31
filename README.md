@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Thu Oct 30 2025 03:41:47 GMT+0000 (Coordinated Universal Time) -->
-  ![Ancient til trees in Fanal Forest, island of Madeira, Portugal (© Lukas Jonaitis/Shutterstock)](https://cn.bing.com/th?id=OHR.FanalForest_EN-US4405104404_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Fri Oct 31 2025 03:42:47 GMT+0000 (Coordinated Universal Time) -->
+  ![Camels at Jaisalmer, Rajasthan, India (© f9photos/Getty Images)](https://cn.bing.com/th?id=OHR.PushkarFair_EN-US4430814252_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2025-10-30
+  2025-10-31
 
-  [Ancient til trees in Fanal Forest, island of Madeira, Portugal (© Lukas Jonaitis/Shutterstock)](https://cn.bing.com/th?id=OHR.FanalForest_EN-US4405104404_UHD.jpg)
+  [Camels at Jaisalmer, Rajasthan, India (© f9photos/Getty Images)](https://cn.bing.com/th?id=OHR.PushkarFair_EN-US4430814252_UHD.jpg)
 <!-- END -->
 
 
