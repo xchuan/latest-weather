@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Sun Nov 02 2025 03:43:49 GMT+0000 (Coordinated Universal Time) -->
-  ![Bison grazing at thermal hot springs, Yellowstone National Park, Wyoming (© Cheryl Ramalho/Getty Images)](https://cn.bing.com/th?id=OHR.BisonSprings_EN-US6080228013_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Mon Nov 03 2025 03:49:03 GMT+0000 (Coordinated Universal Time) -->
+  ![Colorful maple leaves and bamboo forest in Arashiyama, Kyoto, Japan (© DoctorEgg/Getty Images)](https://cn.bing.com/th?id=OHR.KyotoMaple_EN-US6732403492_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2025-11-02
+  2025-11-03
 
-  [Bison grazing at thermal hot springs, Yellowstone National Park, Wyoming (© Cheryl Ramalho/Getty Images)](https://cn.bing.com/th?id=OHR.BisonSprings_EN-US6080228013_UHD.jpg)
+  [Colorful maple leaves and bamboo forest in Arashiyama, Kyoto, Japan (© DoctorEgg/Getty Images)](https://cn.bing.com/th?id=OHR.KyotoMaple_EN-US6732403492_UHD.jpg)
 <!-- END -->
 
 
