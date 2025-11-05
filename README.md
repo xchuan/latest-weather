@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Tue Nov 04 2025 04:43:59 GMT+0000 (Coordinated Universal Time) -->
-  ![Jellyfish swimming in the Pacific, Guerrero, Mexico (© Christian Vizl/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.MexicoJelly_EN-US6803524310_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Wed Nov 05 2025 03:42:59 GMT+0000 (Coordinated Universal Time) -->
+  ![Tower Bridge, London, England (© Nick Brundle Photography/Getty Images)](https://cn.bing.com/th?id=OHR.TowerBridgeUK_EN-US6871236865_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2025-11-04
+  2025-11-05
 
-  [Jellyfish swimming in the Pacific, Guerrero, Mexico (© Christian Vizl/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.MexicoJelly_EN-US6803524310_UHD.jpg)
+  [Tower Bridge, London, England (© Nick Brundle Photography/Getty Images)](https://cn.bing.com/th?id=OHR.TowerBridgeUK_EN-US6871236865_UHD.jpg)
 <!-- END -->
 
 
