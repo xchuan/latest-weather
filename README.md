@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Wed Nov 05 2025 03:42:59 GMT+0000 (Coordinated Universal Time) -->
-  ![Tower Bridge, London, England (© Nick Brundle Photography/Getty Images)](https://cn.bing.com/th?id=OHR.TowerBridgeUK_EN-US6871236865_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Thu Nov 06 2025 03:46:18 GMT+0000 (Coordinated Universal Time) -->
+  ![Peña Roya beech forest, Moncayo Natural Park, Zaragoza, Aragon, Spain (© David Santiago Garcia/DEEPOL by plainpicture)](https://cn.bing.com/th?id=OHR.MoncayoAutumn_EN-US1753631441_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2025-11-05
+  2025-11-06
 
-  [Tower Bridge, London, England (© Nick Brundle Photography/Getty Images)](https://cn.bing.com/th?id=OHR.TowerBridgeUK_EN-US6871236865_UHD.jpg)
+  [Peña Roya beech forest, Moncayo Natural Park, Zaragoza, Aragon, Spain (© David Santiago Garcia/DEEPOL by plainpicture)](https://cn.bing.com/th?id=OHR.MoncayoAutumn_EN-US1753631441_UHD.jpg)
 <!-- END -->
 
 
