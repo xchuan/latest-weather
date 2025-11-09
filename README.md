@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Sat Nov 08 2025 03:34:09 GMT+0000 (Coordinated Universal Time) -->
-  ![Polar bear in Churchill, Manitoba, Canada (© karen crewe/Getty Images)](https://cn.bing.com/th?id=OHR.WillowBear_EN-US6995170630_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Sun Nov 09 2025 03:42:11 GMT+0000 (Coordinated Universal Time) -->
+  ![Sea stacks of Bandon Beach in Bandon, Oregon (© Grant Ordelheide/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.BandonBeach_EN-US7099626478_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2025-11-08
+  2025-11-09
 
-  [Polar bear in Churchill, Manitoba, Canada (© karen crewe/Getty Images)](https://cn.bing.com/th?id=OHR.WillowBear_EN-US6995170630_UHD.jpg)
+  [Sea stacks of Bandon Beach in Bandon, Oregon (© Grant Ordelheide/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.BandonBeach_EN-US7099626478_UHD.jpg)
 <!-- END -->
 
 
