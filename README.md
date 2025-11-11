@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Mon Nov 10 2025 03:49:16 GMT+0000 (Coordinated Universal Time) -->
-  ![Interstellar clouds in the Lagoon Nebula, captured by the Hubble Space Telescope (© ESA/NASA)](https://cn.bing.com/th?id=OHR.LagoonNebula_EN-US7186308623_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Tue Nov 11 2025 03:44:13 GMT+0000 (Coordinated Universal Time) -->
+  ![Black-tailed prairie dogs at Roberts Prairie Dog Town, Badlands National Park, South Dakota (© Greg Vaughn/Getty Images)](https://cn.bing.com/th?id=OHR.PrairieDogTown_EN-US6854295076_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2025-11-10
+  2025-11-11
 
-  [Interstellar clouds in the Lagoon Nebula, captured by the Hubble Space Telescope (© ESA/NASA)](https://cn.bing.com/th?id=OHR.LagoonNebula_EN-US7186308623_UHD.jpg)
+  [Black-tailed prairie dogs at Roberts Prairie Dog Town, Badlands National Park, South Dakota (© Greg Vaughn/Getty Images)](https://cn.bing.com/th?id=OHR.PrairieDogTown_EN-US6854295076_UHD.jpg)
 <!-- END -->
 
 
