@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Fri Nov 14 2025 03:43:51 GMT+0000 (Coordinated Universal Time) -->
-  ![Quiver trees under the Milky Way, Keetmanshoop, Namibia (© Wim van den Heever/naturepl.com)](https://cn.bing.com/th?id=OHR.AloeDichotoma_EN-US6966316373_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Sat Nov 15 2025 03:38:40 GMT+0000 (Coordinated Universal Time) -->
+  ![Mother manatee and calf, Crystal River, Florida (© Gregory Sweeney/Getty Images)](https://cn.bing.com/th?id=OHR.ManateeBaby_EN-US5594953777_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2025-11-14
+  2025-11-15
 
-  [Quiver trees under the Milky Way, Keetmanshoop, Namibia (© Wim van den Heever/naturepl.com)](https://cn.bing.com/th?id=OHR.AloeDichotoma_EN-US6966316373_UHD.jpg)
+  [Mother manatee and calf, Crystal River, Florida (© Gregory Sweeney/Getty Images)](https://cn.bing.com/th?id=OHR.ManateeBaby_EN-US5594953777_UHD.jpg)
 <!-- END -->
 
 
