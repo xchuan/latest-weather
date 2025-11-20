@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Wed Nov 19 2025 03:43:12 GMT+0000 (Coordinated Universal Time) -->
-  ![Male hooded merganser, Oregon (© Eric Vogt/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.AutumnMerganser_EN-US5860535351_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Thu Nov 20 2025 03:42:04 GMT+0000 (Coordinated Universal Time) -->
+  ![Hungarian Parliament Building, Budapest, Hungary (© Alexander Spatari/Getty Images)](https://cn.bing.com/th?id=OHR.BudapestParliament_EN-US5929195878_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2025-11-19
+  2025-11-20
 
-  [Male hooded merganser, Oregon (© Eric Vogt/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.AutumnMerganser_EN-US5860535351_UHD.jpg)
+  [Hungarian Parliament Building, Budapest, Hungary (© Alexander Spatari/Getty Images)](https://cn.bing.com/th?id=OHR.BudapestParliament_EN-US5929195878_UHD.jpg)
 <!-- END -->
 
 
