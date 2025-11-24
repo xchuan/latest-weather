@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Sun Nov 23 2025 03:55:27 GMT+0000 (Coordinated Universal Time) -->
-  ![Leshan Giant Buddha, Sichuan, China (© www.anotherdayattheoffice.org/Getty Images)](https://cn.bing.com/th?id=OHR.LeshanBuddha_EN-US6412307232_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Mon Nov 24 2025 03:55:09 GMT+0000 (Coordinated Universal Time) -->
+  ![Ammonite fossil from Madagascar (© ThomasLENNE/Shutterstock)](https://cn.bing.com/th?id=OHR.MadgascarAmmonite_EN-US6525238032_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2025-11-23
+  2025-11-24
 
-  [Leshan Giant Buddha, Sichuan, China (© www.anotherdayattheoffice.org/Getty Images)](https://cn.bing.com/th?id=OHR.LeshanBuddha_EN-US6412307232_UHD.jpg)
+  [Ammonite fossil from Madagascar (© ThomasLENNE/Shutterstock)](https://cn.bing.com/th?id=OHR.MadgascarAmmonite_EN-US6525238032_UHD.jpg)
 <!-- END -->
 
 
