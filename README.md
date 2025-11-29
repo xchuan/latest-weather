@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Fri Nov 28 2025 03:43:24 GMT+0000 (Coordinated Universal Time) -->
-  ![Male wild turkey plumage, Aransas Natural Wildlife Refuge, Texas (© George McCarthy/Minden Pictures)](https://cn.bing.com/th?id=OHR.TurkeyDetail_EN-US7401521602_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Sat Nov 29 2025 03:43:17 GMT+0000 (Coordinated Universal Time) -->
+  ![Collection of silver Native American concho belts, Santa Fe, New Mexico (© julien mcroberts/Shutterstock)](https://cn.bing.com/th?id=OHR.ConchaBelt_EN-US6625864424_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2025-11-28
+  2025-11-29
 
-  [Male wild turkey plumage, Aransas Natural Wildlife Refuge, Texas (© George McCarthy/Minden Pictures)](https://cn.bing.com/th?id=OHR.TurkeyDetail_EN-US7401521602_UHD.jpg)
+  [Collection of silver Native American concho belts, Santa Fe, New Mexico (© julien mcroberts/Shutterstock)](https://cn.bing.com/th?id=OHR.ConchaBelt_EN-US6625864424_UHD.jpg)
 <!-- END -->
 
 
