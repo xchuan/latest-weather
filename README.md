@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Sat Nov 29 2025 03:43:17 GMT+0000 (Coordinated Universal Time) -->
-  ![Collection of silver Native American concho belts, Santa Fe, New Mexico (© julien mcroberts/Shutterstock)](https://cn.bing.com/th?id=OHR.ConchaBelt_EN-US6625864424_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Sun Nov 30 2025 03:55:41 GMT+0000 (Coordinated Universal Time) -->
+  ![Red deer stag in De Hoge Veluwe National Park, Netherlands (© CreativeNature_nl/Getty Images)](https://cn.bing.com/th?id=OHR.DeerVeluwe_EN-US6795108723_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2025-11-29
+  2025-11-30
 
-  [Collection of silver Native American concho belts, Santa Fe, New Mexico (© julien mcroberts/Shutterstock)](https://cn.bing.com/th?id=OHR.ConchaBelt_EN-US6625864424_UHD.jpg)
+  [Red deer stag in De Hoge Veluwe National Park, Netherlands (© CreativeNature_nl/Getty Images)](https://cn.bing.com/th?id=OHR.DeerVeluwe_EN-US6795108723_UHD.jpg)
 <!-- END -->
 
 
