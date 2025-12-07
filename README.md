@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Sat Dec 06 2025 03:41:03 GMT+0000 (Coordinated Universal Time) -->
-  ![Maya site of Copán, Honduras (© diegograndi/Getty Images)](https://cn.bing.com/th?id=OHR.CopanRuins_EN-US5517813382_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Sun Dec 07 2025 03:55:51 GMT+0000 (Coordinated Universal Time) -->
+  ![Spider webs in Everglades National Park, Florida (© Troy Harrison/Getty Images)](https://cn.bing.com/th?id=OHR.EvergladesSunrise_EN-US5606230133_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2025-12-06
+  2025-12-07
 
-  [Maya site of Copán, Honduras (© diegograndi/Getty Images)](https://cn.bing.com/th?id=OHR.CopanRuins_EN-US5517813382_UHD.jpg)
+  [Spider webs in Everglades National Park, Florida (© Troy Harrison/Getty Images)](https://cn.bing.com/th?id=OHR.EvergladesSunrise_EN-US5606230133_UHD.jpg)
 <!-- END -->
 
 
