@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Wed Dec 10 2025 03:54:26 GMT+0000 (Coordinated Universal Time) -->
-  ![Guanaco in Punta Norte, Argentina (© Sylvain Cordier/naturepl.com)](https://cn.bing.com/th?id=OHR.LlamaDay_EN-US5971354659_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Thu Dec 11 2025 03:55:48 GMT+0000 (Coordinated Universal Time) -->
+  ![Interior of the Mosque-Cathedral of Córdoba, Andalusia, Spain (© Elena Zolotova/Getty Images)](https://cn.bing.com/th?id=OHR.CordobaCathedral_EN-US6045311068_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2025-12-10
+  2025-12-11
 
-  [Guanaco in Punta Norte, Argentina (© Sylvain Cordier/naturepl.com)](https://cn.bing.com/th?id=OHR.LlamaDay_EN-US5971354659_UHD.jpg)
+  [Interior of the Mosque-Cathedral of Córdoba, Andalusia, Spain (© Elena Zolotova/Getty Images)](https://cn.bing.com/th?id=OHR.CordobaCathedral_EN-US6045311068_UHD.jpg)
 <!-- END -->
 
 
