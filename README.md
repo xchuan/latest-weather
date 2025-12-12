@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Thu Dec 11 2025 03:55:48 GMT+0000 (Coordinated Universal Time) -->
-  ![Interior of the Mosque-Cathedral of Córdoba, Andalusia, Spain (© Elena Zolotova/Getty Images)](https://cn.bing.com/th?id=OHR.CordobaCathedral_EN-US6045311068_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Fri Dec 12 2025 03:55:32 GMT+0000 (Coordinated Universal Time) -->
+  ![Summit of Mount Everest at sunset, seen from Renjo La, Nepal (© shoults/Alamy)](https://cn.bing.com/th?id=OHR.EverestGlow_EN-US6131667612_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2025-12-11
+  2025-12-12
 
-  [Interior of the Mosque-Cathedral of Córdoba, Andalusia, Spain (© Elena Zolotova/Getty Images)](https://cn.bing.com/th?id=OHR.CordobaCathedral_EN-US6045311068_UHD.jpg)
+  [Summit of Mount Everest at sunset, seen from Renjo La, Nepal (© shoults/Alamy)](https://cn.bing.com/th?id=OHR.EverestGlow_EN-US6131667612_UHD.jpg)
 <!-- END -->
 
 
