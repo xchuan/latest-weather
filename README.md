@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Fri Dec 12 2025 03:55:32 GMT+0000 (Coordinated Universal Time) -->
-  ![Summit of Mount Everest at sunset, seen from Renjo La, Nepal (© shoults/Alamy)](https://cn.bing.com/th?id=OHR.EverestGlow_EN-US6131667612_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Sat Dec 13 2025 03:47:20 GMT+0000 (Coordinated Universal Time) -->
+  ![Spotted poinsettia (© DigiPub/Getty Images)](https://cn.bing.com/th?id=OHR.SpeckledPoinsettia_EN-US4098165068_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2025-12-12
+  2025-12-13
 
-  [Summit of Mount Everest at sunset, seen from Renjo La, Nepal (© shoults/Alamy)](https://cn.bing.com/th?id=OHR.EverestGlow_EN-US6131667612_UHD.jpg)
+  [Spotted poinsettia (© DigiPub/Getty Images)](https://cn.bing.com/th?id=OHR.SpeckledPoinsettia_EN-US4098165068_UHD.jpg)
 <!-- END -->
 
 
