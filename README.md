@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Mon Dec 15 2025 04:02:44 GMT+0000 (Coordinated Universal Time) -->
-  ![Tufted titmouse perched on pine boughs, Massachusetts (© Tim Laman/NPL/Minden Pictures)](https://cn.bing.com/th?id=OHR.TuftedTitmouse_EN-US4835376471_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Tue Dec 16 2025 03:56:04 GMT+0000 (Coordinated Universal Time) -->
+  ![Lights on Spiegelgracht canal, Amsterdam, Netherlands (© Amith Nag Photography/Getty Images)](https://cn.bing.com/th?id=OHR.AmsterdamLights_EN-US4980559514_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2025-12-15
+  2025-12-16
 
-  [Tufted titmouse perched on pine boughs, Massachusetts (© Tim Laman/NPL/Minden Pictures)](https://cn.bing.com/th?id=OHR.TuftedTitmouse_EN-US4835376471_UHD.jpg)
+  [Lights on Spiegelgracht canal, Amsterdam, Netherlands (© Amith Nag Photography/Getty Images)](https://cn.bing.com/th?id=OHR.AmsterdamLights_EN-US4980559514_UHD.jpg)
 <!-- END -->
 
 
