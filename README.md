@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Tue Dec 16 2025 04:55:05 GMT+0000 (Coordinated Universal Time) -->
-  ![Lights on Spiegelgracht canal, Amsterdam, Netherlands (© Amith Nag Photography/Getty Images)](https://cn.bing.com/th?id=OHR.AmsterdamLights_EN-US4980559514_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Wed Dec 17 2025 03:53:23 GMT+0000 (Coordinated Universal Time) -->
+  ![Handmade gnomes at a Christmas market (© Veronika Seppanen/Shutterstock)](https://cn.bing.com/th?id=OHR.ChristmasGnomes_EN-US5094302697_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2025-12-16
+  2025-12-17
 
-  [Lights on Spiegelgracht canal, Amsterdam, Netherlands (© Amith Nag Photography/Getty Images)](https://cn.bing.com/th?id=OHR.AmsterdamLights_EN-US4980559514_UHD.jpg)
+  [Handmade gnomes at a Christmas market (© Veronika Seppanen/Shutterstock)](https://cn.bing.com/th?id=OHR.ChristmasGnomes_EN-US5094302697_UHD.jpg)
 <!-- END -->
 
 
