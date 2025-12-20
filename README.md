@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Fri Dec 19 2025 03:55:38 GMT+0000 (Coordinated Universal Time) -->
-  ![Temple of the Sun, Capitol Reef National Park, Utah (© Austin Cronnelly/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.CathedralValley_EN-US5270905846_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Sat Dec 20 2025 03:47:35 GMT+0000 (Coordinated Universal Time) -->
+  ![Snow-covered landscape at Bormio, Lombardy, Italy (© Roberto Moiola/Getty Images)](https://cn.bing.com/th?id=OHR.BormioItaly_EN-US5324526286_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2025-12-19
+  2025-12-20
 
-  [Temple of the Sun, Capitol Reef National Park, Utah (© Austin Cronnelly/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.CathedralValley_EN-US5270905846_UHD.jpg)
+  [Snow-covered landscape at Bormio, Lombardy, Italy (© Roberto Moiola/Getty Images)](https://cn.bing.com/th?id=OHR.BormioItaly_EN-US5324526286_UHD.jpg)
 <!-- END -->
 
 
