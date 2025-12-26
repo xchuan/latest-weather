@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Thu Dec 25 2025 03:58:23 GMT+0000 (Coordinated Universal Time) -->
-  ![Snowy chapel with Christmas tree in the Bavarian Alps, Germany (© mauritius images GmbH/Alamy)](https://cn.bing.com/th?id=OHR.ElmauChapel_EN-US5704228113_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Fri Dec 26 2025 03:56:11 GMT+0000 (Coordinated Universal Time) -->
+  ![Snow globes at a Christmas market in Heidelberg, Germany (© George Pachantouris/Getty Images)](https://cn.bing.com/th?id=OHR.SantaGlobe_EN-US5819361091_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2025-12-25
+  2025-12-26
 
-  [Snowy chapel with Christmas tree in the Bavarian Alps, Germany (© mauritius images GmbH/Alamy)](https://cn.bing.com/th?id=OHR.ElmauChapel_EN-US5704228113_UHD.jpg)
+  [Snow globes at a Christmas market in Heidelberg, Germany (© George Pachantouris/Getty Images)](https://cn.bing.com/th?id=OHR.SantaGlobe_EN-US5819361091_UHD.jpg)
 <!-- END -->
 
 
