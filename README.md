@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Sun Dec 28 2025 04:06:17 GMT+0000 (Coordinated Universal Time) -->
-  ![Plate ice along Lake Superior, Grand Marais, Minnesota (© wanderluster/Getty Images)](https://cn.bing.com/th?id=OHR.SuperiorIceMN_EN-US5952266924_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Mon Dec 29 2025 04:08:33 GMT+0000 (Coordinated Universal Time) -->
+  ![Black-and-white ruffed lemur in Madagascar (© Cyrielle Beaubois/Getty Images)](https://cn.bing.com/th?id=OHR.RuffedLemur_EN-US6014028083_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2025-12-28
+  2025-12-29
 
-  [Plate ice along Lake Superior, Grand Marais, Minnesota (© wanderluster/Getty Images)](https://cn.bing.com/th?id=OHR.SuperiorIceMN_EN-US5952266924_UHD.jpg)
+  [Black-and-white ruffed lemur in Madagascar (© Cyrielle Beaubois/Getty Images)](https://cn.bing.com/th?id=OHR.RuffedLemur_EN-US6014028083_UHD.jpg)
 <!-- END -->
 
 
