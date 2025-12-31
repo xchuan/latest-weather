@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Tue Dec 30 2025 04:57:23 GMT+0000 (Coordinated Universal Time) -->
-  ![St. Gregory Church in Ani Ruins, Kars, Türkiye (© Kenan Talas/Getty Images)](https://cn.bing.com/th?id=OHR.AniTurkey_EN-US6168768263_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Wed Dec 31 2025 03:59:04 GMT+0000 (Coordinated Universal Time) -->
+  ![Whooper swans, Kotoku Pond, Japan (© Martin Bailey/Shutterstock)](https://cn.bing.com/th?id=OHR.JapanSwans_EN-US6228421340_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2025-12-30
+  2025-12-31
 
-  [St. Gregory Church in Ani Ruins, Kars, Türkiye (© Kenan Talas/Getty Images)](https://cn.bing.com/th?id=OHR.AniTurkey_EN-US6168768263_UHD.jpg)
+  [Whooper swans, Kotoku Pond, Japan (© Martin Bailey/Shutterstock)](https://cn.bing.com/th?id=OHR.JapanSwans_EN-US6228421340_UHD.jpg)
 <!-- END -->
 
 
