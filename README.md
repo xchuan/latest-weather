@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Wed Dec 31 2025 03:59:04 GMT+0000 (Coordinated Universal Time) -->
-  ![Whooper swans, Kotoku Pond, Japan (© Martin Bailey/Shutterstock)](https://cn.bing.com/th?id=OHR.JapanSwans_EN-US6228421340_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Thu Jan 01 2026 04:08:07 GMT+0000 (Coordinated Universal Time) -->
+  ![New Year's Eve, Oberbaum Bridge, Berlin, Germany (© spreephoto.de/Getty Images)](https://cn.bing.com/th?id=OHR.GermanyNewYear_EN-US6344260060_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2025-12-31
+  2026-01-01
 
-  [Whooper swans, Kotoku Pond, Japan (© Martin Bailey/Shutterstock)](https://cn.bing.com/th?id=OHR.JapanSwans_EN-US6228421340_UHD.jpg)
+  [New Year's Eve, Oberbaum Bridge, Berlin, Germany (© spreephoto.de/Getty Images)](https://cn.bing.com/th?id=OHR.GermanyNewYear_EN-US6344260060_UHD.jpg)
 <!-- END -->
 
 
