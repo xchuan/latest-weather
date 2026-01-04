@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Sat Jan 03 2026 03:54:06 GMT+0000 (Coordinated Universal Time) -->
-  ![Aerial view of Venice, Italy (© Clement Leonard/Getty Images)](https://cn.bing.com/th?id=OHR.VeniceView_EN-US3244163136_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Sun Jan 04 2026 04:09:19 GMT+0000 (Coordinated Universal Time) -->
+  ![Staubbach Falls at Lauterbrunnen, Canton of Bern, Switzerland (© pongnathee kluaythong/Getty Images)](https://cn.bing.com/th?id=OHR.LauterbrunnenValley_EN-US6594933852_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2026-01-03
+  2026-01-04
 
-  [Aerial view of Venice, Italy (© Clement Leonard/Getty Images)](https://cn.bing.com/th?id=OHR.VeniceView_EN-US3244163136_UHD.jpg)
+  [Staubbach Falls at Lauterbrunnen, Canton of Bern, Switzerland (© pongnathee kluaythong/Getty Images)](https://cn.bing.com/th?id=OHR.LauterbrunnenValley_EN-US6594933852_UHD.jpg)
 <!-- END -->
 
 
