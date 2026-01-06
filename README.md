@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Mon Jan 05 2026 04:14:38 GMT+0000 (Coordinated Universal Time) -->
-  ![Kings Mountain, Chugach Mountains, Alaska (© Chris Moore - Exploring Light Photography/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.KingMountain_EN-US6730743729_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Tue Jan 06 2026 04:00:46 GMT+0000 (Coordinated Universal Time) -->
+  ![A herd of impalas, Londolozi Game Reserve, South Africa (© Mint Images/Getty Images)](https://cn.bing.com/th?id=OHR.ImpalaRooibok_EN-US6797453661_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2026-01-05
+  2026-01-06
 
-  [Kings Mountain, Chugach Mountains, Alaska (© Chris Moore - Exploring Light Photography/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.KingMountain_EN-US6730743729_UHD.jpg)
+  [A herd of impalas, Londolozi Game Reserve, South Africa (© Mint Images/Getty Images)](https://cn.bing.com/th?id=OHR.ImpalaRooibok_EN-US6797453661_UHD.jpg)
 <!-- END -->
 
 
