@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Tue Jan 06 2026 04:57:25 GMT+0000 (Coordinated Universal Time) -->
-  ![A herd of impalas, Londolozi Game Reserve, South Africa (© Mint Images/Getty Images)](https://cn.bing.com/th?id=OHR.ImpalaRooibok_EN-US6797453661_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Wed Jan 07 2026 04:01:01 GMT+0000 (Coordinated Universal Time) -->
+  ![Nuuk, Greenland (© nevereverro/Getty Images)](https://cn.bing.com/th?id=OHR.NuukGreenland_EN-US6879869782_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2026-01-06
+  2026-01-07
 
-  [A herd of impalas, Londolozi Game Reserve, South Africa (© Mint Images/Getty Images)](https://cn.bing.com/th?id=OHR.ImpalaRooibok_EN-US6797453661_UHD.jpg)
+  [Nuuk, Greenland (© nevereverro/Getty Images)](https://cn.bing.com/th?id=OHR.NuukGreenland_EN-US6879869782_UHD.jpg)
 <!-- END -->
 
 
