@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Wed Jan 07 2026 04:01:01 GMT+0000 (Coordinated Universal Time) -->
-  ![Nuuk, Greenland (© nevereverro/Getty Images)](https://cn.bing.com/th?id=OHR.NuukGreenland_EN-US6879869782_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Thu Jan 08 2026 04:00:56 GMT+0000 (Coordinated Universal Time) -->
+  ![Turret Arch framed by North Window in Arches National Park, Utah (© Jim Patterson/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.OldRockArch_EN-US2422589534_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2026-01-07
+  2026-01-08
 
-  [Nuuk, Greenland (© nevereverro/Getty Images)](https://cn.bing.com/th?id=OHR.NuukGreenland_EN-US6879869782_UHD.jpg)
+  [Turret Arch framed by North Window in Arches National Park, Utah (© Jim Patterson/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.OldRockArch_EN-US2422589534_UHD.jpg)
 <!-- END -->
 
 
