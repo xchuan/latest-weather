@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Fri Jan 09 2026 04:01:10 GMT+0000 (Coordinated Universal Time) -->
-  ![Starling murmuration over the ruins of Brighton's West Pier, England (© Philip Reeve/Photodisc/Getty Images)](https://cn.bing.com/th?id=OHR.StarlingBrighton2025_EN-US6998438769_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Sat Jan 10 2026 03:55:28 GMT+0000 (Coordinated Universal Time) -->
+  ![Giant redwood trees in Muir Woods National Monument, California (© photo by canderson/Getty Images)](https://cn.bing.com/th?id=OHR.MuirWoodsMonument_EN-US9831416144_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2026-01-09
+  2026-01-10
 
-  [Starling murmuration over the ruins of Brighton's West Pier, England (© Philip Reeve/Photodisc/Getty Images)](https://cn.bing.com/th?id=OHR.StarlingBrighton2025_EN-US6998438769_UHD.jpg)
+  [Giant redwood trees in Muir Woods National Monument, California (© photo by canderson/Getty Images)](https://cn.bing.com/th?id=OHR.MuirWoodsMonument_EN-US9831416144_UHD.jpg)
 <!-- END -->
 
 
