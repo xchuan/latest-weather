@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Sat Jan 10 2026 03:55:28 GMT+0000 (Coordinated Universal Time) -->
-  ![Giant redwood trees in Muir Woods National Monument, California (© photo by canderson/Getty Images)](https://cn.bing.com/th?id=OHR.MuirWoodsMonument_EN-US9831416144_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Sun Jan 11 2026 04:08:25 GMT+0000 (Coordinated Universal Time) -->
+  ![The Matterhorn reflected in Lake Stellisee at sunrise, Zermatt, Switzerland (© Andy Trowbridge/naturepl.com)](https://cn.bing.com/th?id=OHR.MatterhornSunrise_EN-US9978097106_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2026-01-10
+  2026-01-11
 
-  [Giant redwood trees in Muir Woods National Monument, California (© photo by canderson/Getty Images)](https://cn.bing.com/th?id=OHR.MuirWoodsMonument_EN-US9831416144_UHD.jpg)
+  [The Matterhorn reflected in Lake Stellisee at sunrise, Zermatt, Switzerland (© Andy Trowbridge/naturepl.com)](https://cn.bing.com/th?id=OHR.MatterhornSunrise_EN-US9978097106_UHD.jpg)
 <!-- END -->
 
 
