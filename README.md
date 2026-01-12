@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Sun Jan 11 2026 04:08:25 GMT+0000 (Coordinated Universal Time) -->
-  ![The Matterhorn reflected in Lake Stellisee at sunrise, Zermatt, Switzerland (© Andy Trowbridge/naturepl.com)](https://cn.bing.com/th?id=OHR.MatterhornSunrise_EN-US9978097106_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Mon Jan 12 2026 04:09:08 GMT+0000 (Coordinated Universal Time) -->
+  ![Blue walls of Chefchaouen, Morocco (© AnetteAndersen/Getty Images)](https://cn.bing.com/th?id=OHR.BlueMorocco_EN-US0026059455_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2026-01-11
+  2026-01-12
 
-  [The Matterhorn reflected in Lake Stellisee at sunrise, Zermatt, Switzerland (© Andy Trowbridge/naturepl.com)](https://cn.bing.com/th?id=OHR.MatterhornSunrise_EN-US9978097106_UHD.jpg)
+  [Blue walls of Chefchaouen, Morocco (© AnetteAndersen/Getty Images)](https://cn.bing.com/th?id=OHR.BlueMorocco_EN-US0026059455_UHD.jpg)
 <!-- END -->
 
 
