@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Mon Jan 12 2026 04:09:08 GMT+0000 (Coordinated Universal Time) -->
-  ![Blue walls of Chefchaouen, Morocco (© AnetteAndersen/Getty Images)](https://cn.bing.com/th?id=OHR.BlueMorocco_EN-US0026059455_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Tue Jan 13 2026 04:01:34 GMT+0000 (Coordinated Universal Time) -->
+  ![Eurasian otter and pup, Estonia (© Sven Zacek/naturepl.com)](https://cn.bing.com/th?id=OHR.SnowOtters_EN-US0138589680_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2026-01-12
+  2026-01-13
 
-  [Blue walls of Chefchaouen, Morocco (© AnetteAndersen/Getty Images)](https://cn.bing.com/th?id=OHR.BlueMorocco_EN-US0026059455_UHD.jpg)
+  [Eurasian otter and pup, Estonia (© Sven Zacek/naturepl.com)](https://cn.bing.com/th?id=OHR.SnowOtters_EN-US0138589680_UHD.jpg)
 <!-- END -->
 
 
