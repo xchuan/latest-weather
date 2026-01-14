@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Tue Jan 13 2026 04:58:34 GMT+0000 (Coordinated Universal Time) -->
-  ![Eurasian otter and pup, Estonia (© Sven Zacek/naturepl.com)](https://cn.bing.com/th?id=OHR.SnowOtters_EN-US0138589680_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Wed Jan 14 2026 04:07:37 GMT+0000 (Coordinated Universal Time) -->
+  ![Vale of Clwyd, Wales (© Valerie Blencowe/Getty Images)](https://cn.bing.com/th?id=OHR.WalesWinter_EN-US0191348069_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2026-01-13
+  2026-01-14
 
-  [Eurasian otter and pup, Estonia (© Sven Zacek/naturepl.com)](https://cn.bing.com/th?id=OHR.SnowOtters_EN-US0138589680_UHD.jpg)
+  [Vale of Clwyd, Wales (© Valerie Blencowe/Getty Images)](https://cn.bing.com/th?id=OHR.WalesWinter_EN-US0191348069_UHD.jpg)
 <!-- END -->
 
 
