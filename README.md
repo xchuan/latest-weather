@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Thu Jan 15 2026 04:03:23 GMT+0000 (Coordinated Universal Time) -->
-  ![The staircase of the Fortress of Palamidi, Nafplio, Greece (© George Pachantouris/Getty Images)](https://cn.bing.com/th?id=OHR.PalamidiFortress_EN-US0244863129_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Fri Jan 16 2026 04:01:25 GMT+0000 (Coordinated Universal Time) -->
+  ![The fishing village of Reine, Norway (© Roberto Moiola/Cavan Images/SuperStock)](https://cn.bing.com/th?id=OHR.ReineSunrise_EN-US0323810872_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2026-01-15
+  2026-01-16
 
-  [The staircase of the Fortress of Palamidi, Nafplio, Greece (© George Pachantouris/Getty Images)](https://cn.bing.com/th?id=OHR.PalamidiFortress_EN-US0244863129_UHD.jpg)
+  [The fishing village of Reine, Norway (© Roberto Moiola/Cavan Images/SuperStock)](https://cn.bing.com/th?id=OHR.ReineSunrise_EN-US0323810872_UHD.jpg)
 <!-- END -->
 
 
