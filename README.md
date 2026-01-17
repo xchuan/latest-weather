@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Fri Jan 16 2026 04:01:25 GMT+0000 (Coordinated Universal Time) -->
-  ![The fishing village of Reine, Norway (© Roberto Moiola/Cavan Images/SuperStock)](https://cn.bing.com/th?id=OHR.ReineSunrise_EN-US0323810872_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Sat Jan 17 2026 03:54:19 GMT+0000 (Coordinated Universal Time) -->
+  ![Leopard at Etosha National Park, Namibia (© Norbert Achtelik/Cavan Images)](https://cn.bing.com/th?id=OHR.EtoshaLeopard_EN-US0412326524_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2026-01-16
+  2026-01-17
 
-  [The fishing village of Reine, Norway (© Roberto Moiola/Cavan Images/SuperStock)](https://cn.bing.com/th?id=OHR.ReineSunrise_EN-US0323810872_UHD.jpg)
+  [Leopard at Etosha National Park, Namibia (© Norbert Achtelik/Cavan Images)](https://cn.bing.com/th?id=OHR.EtoshaLeopard_EN-US0412326524_UHD.jpg)
 <!-- END -->
 
 
