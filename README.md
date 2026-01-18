@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Sat Jan 17 2026 03:54:19 GMT+0000 (Coordinated Universal Time) -->
-  ![Leopard at Etosha National Park, Namibia (© Norbert Achtelik/Cavan Images)](https://cn.bing.com/th?id=OHR.EtoshaLeopard_EN-US0412326524_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Sun Jan 18 2026 04:04:19 GMT+0000 (Coordinated Universal Time) -->
+  ![Basilica of San Francesco di Paola, Naples, Italy (© javarman3/Getty Images)](https://cn.bing.com/th?id=OHR.NaplesBasilica_EN-US0483177548_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2026-01-17
+  2026-01-18
 
-  [Leopard at Etosha National Park, Namibia (© Norbert Achtelik/Cavan Images)](https://cn.bing.com/th?id=OHR.EtoshaLeopard_EN-US0412326524_UHD.jpg)
+  [Basilica of San Francesco di Paola, Naples, Italy (© javarman3/Getty Images)](https://cn.bing.com/th?id=OHR.NaplesBasilica_EN-US0483177548_UHD.jpg)
 <!-- END -->
 
 
