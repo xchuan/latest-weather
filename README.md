@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Sun Jan 18 2026 04:04:19 GMT+0000 (Coordinated Universal Time) -->
-  ![Basilica of San Francesco di Paola, Naples, Italy (© javarman3/Getty Images)](https://cn.bing.com/th?id=OHR.NaplesBasilica_EN-US0483177548_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Mon Jan 19 2026 04:10:35 GMT+0000 (Coordinated Universal Time) -->
+  ![White Sands National Park, New Mexico (© Francesco Carucci/Getty Images)](https://cn.bing.com/th?id=OHR.WhiteSandsNM_EN-US0565482616_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2026-01-18
+  2026-01-19
 
-  [Basilica of San Francesco di Paola, Naples, Italy (© javarman3/Getty Images)](https://cn.bing.com/th?id=OHR.NaplesBasilica_EN-US0483177548_UHD.jpg)
+  [White Sands National Park, New Mexico (© Francesco Carucci/Getty Images)](https://cn.bing.com/th?id=OHR.WhiteSandsNM_EN-US0565482616_UHD.jpg)
 <!-- END -->
 
 
