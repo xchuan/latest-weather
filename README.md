@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Mon Jan 19 2026 04:10:35 GMT+0000 (Coordinated Universal Time) -->
-  ![White Sands National Park, New Mexico (© Francesco Carucci/Getty Images)](https://cn.bing.com/th?id=OHR.WhiteSandsNM_EN-US0565482616_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Tue Jan 20 2026 04:05:33 GMT+0000 (Coordinated Universal Time) -->
+  ![Washington Monument seen from Lincoln Memorial, Washington, DC (© RickSause/Getty Images)](https://cn.bing.com/th?id=OHR.MLKSunrise_EN-US0641684404_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2026-01-19
+  2026-01-20
 
-  [White Sands National Park, New Mexico (© Francesco Carucci/Getty Images)](https://cn.bing.com/th?id=OHR.WhiteSandsNM_EN-US0565482616_UHD.jpg)
+  [Washington Monument seen from Lincoln Memorial, Washington, DC (© RickSause/Getty Images)](https://cn.bing.com/th?id=OHR.MLKSunrise_EN-US0641684404_UHD.jpg)
 <!-- END -->
 
 
