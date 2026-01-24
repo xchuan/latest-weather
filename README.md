@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Fri Jan 23 2026 04:03:30 GMT+0000 (Coordinated Universal Time) -->
-  ![Karlovy Vary, Bohemia, Czechia (© Henryk Sadura/Getty Images)](https://cn.bing.com/th?id=OHR.KarlovyVary_EN-US0856094511_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Sat Jan 24 2026 03:57:51 GMT+0000 (Coordinated Universal Time) -->
+  ![Sheep grazing in snow, Iceland (© Christophe Lehenaff/Getty Images)](https://cn.bing.com/th?id=OHR.IcelandSheep_EN-US8273507799_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2026-01-23
+  2026-01-24
 
-  [Karlovy Vary, Bohemia, Czechia (© Henryk Sadura/Getty Images)](https://cn.bing.com/th?id=OHR.KarlovyVary_EN-US0856094511_UHD.jpg)
+  [Sheep grazing in snow, Iceland (© Christophe Lehenaff/Getty Images)](https://cn.bing.com/th?id=OHR.IcelandSheep_EN-US8273507799_UHD.jpg)
 <!-- END -->
 
 
