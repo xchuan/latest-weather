@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Sun Jan 25 2026 04:12:21 GMT+0000 (Coordinated Universal Time) -->
-  ![Andermatt village in the Alps, Switzerland (© Xantana/Getty Images)](https://cn.bing.com/th?id=OHR.AndermattSwiss_EN-US9318337691_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Mon Jan 26 2026 04:14:53 GMT+0000 (Coordinated Universal Time) -->
+  ![Burns National Heritage Park, Ayr, Ayrshire, Scotland (© Alister Firth/Alamy)](https://cn.bing.com/th?id=OHR.BurnsPark_EN-US9363066918_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2026-01-25
+  2026-01-26
 
-  [Andermatt village in the Alps, Switzerland (© Xantana/Getty Images)](https://cn.bing.com/th?id=OHR.AndermattSwiss_EN-US9318337691_UHD.jpg)
+  [Burns National Heritage Park, Ayr, Ayrshire, Scotland (© Alister Firth/Alamy)](https://cn.bing.com/th?id=OHR.BurnsPark_EN-US9363066918_UHD.jpg)
 <!-- END -->
 
 
