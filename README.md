@@ -12,7 +12,7 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Tue Jan 27 2026 04:06:24 GMT+0000 (Coordinated Universal Time) -->
+<!--  Tue Jan 27 2026 05:01:36 GMT+0000 (Coordinated Universal Time) -->
   ![Neuschwanstein Castle, Bavaria, Germany (© www.fredconcha.com @ All Rights Reserved/Getty Images)](https://cn.bing.com/th?id=OHR.NeuschwansteinWinter_EN-US9407713688_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
   2026-01-27
