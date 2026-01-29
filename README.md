@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Wed Jan 28 2026 04:05:24 GMT+0000 (Coordinated Universal Time) -->
-  ![Dalmatian pelicans, Lake Kerkini, Greece (© Guy Edwardes/naturepl.com)](https://cn.bing.com/th?id=OHR.DalmationPelicans_EN-US9458474756_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Thu Jan 29 2026 04:25:37 GMT+0000 (Coordinated Universal Time) -->
+  ![Whanganui National Park, Retaruke, New Zealand (© Matthew Micah Wright/Getty Images)](https://cn.bing.com/th?id=OHR.WhanganuiPark_EN-US9741312204_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2026-01-28
+  2026-01-29
 
-  [Dalmatian pelicans, Lake Kerkini, Greece (© Guy Edwardes/naturepl.com)](https://cn.bing.com/th?id=OHR.DalmationPelicans_EN-US9458474756_UHD.jpg)
+  [Whanganui National Park, Retaruke, New Zealand (© Matthew Micah Wright/Getty Images)](https://cn.bing.com/th?id=OHR.WhanganuiPark_EN-US9741312204_UHD.jpg)
 <!-- END -->
 
 
