@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Thu Jan 29 2026 04:25:37 GMT+0000 (Coordinated Universal Time) -->
-  ![Whanganui National Park, Retaruke, New Zealand (© Matthew Micah Wright/Getty Images)](https://cn.bing.com/th?id=OHR.WhanganuiPark_EN-US9741312204_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Fri Jan 30 2026 04:39:13 GMT+0000 (Coordinated Universal Time) -->
+  ![The eight-story open atrium of Milwaukee City Hall, Wisconsin (© lavin photography/Getty Images)](https://cn.bing.com/th?id=OHR.MilwaukeeHall_EN-US9990591477_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2026-01-29
+  2026-01-30
 
-  [Whanganui National Park, Retaruke, New Zealand (© Matthew Micah Wright/Getty Images)](https://cn.bing.com/th?id=OHR.WhanganuiPark_EN-US9741312204_UHD.jpg)
+  [The eight-story open atrium of Milwaukee City Hall, Wisconsin (© lavin photography/Getty Images)](https://cn.bing.com/th?id=OHR.MilwaukeeHall_EN-US9990591477_UHD.jpg)
 <!-- END -->
 
 
