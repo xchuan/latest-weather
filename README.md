@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Tue Feb 03 2026 05:34:09 GMT+0000 (Coordinated Universal Time) -->
-  ![Alpine marmots, Hohe Tauern National Park, Austria (© Raimund Linke/Getty Images)](https://cn.bing.com/th?id=OHR.AlpineMarmots_EN-US0200342638_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Wed Feb 04 2026 04:26:39 GMT+0000 (Coordinated Universal Time) -->
+  ![Emerald Bay and Fannette Island, Lake Tahoe, California (© Bill Stevenson/Cavan Images)](https://cn.bing.com/th?id=OHR.FanetteIsland_EN-US0236094374_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2026-02-03
+  2026-02-04
 
-  [Alpine marmots, Hohe Tauern National Park, Austria (© Raimund Linke/Getty Images)](https://cn.bing.com/th?id=OHR.AlpineMarmots_EN-US0200342638_UHD.jpg)
+  [Emerald Bay and Fannette Island, Lake Tahoe, California (© Bill Stevenson/Cavan Images)](https://cn.bing.com/th?id=OHR.FanetteIsland_EN-US0236094374_UHD.jpg)
 <!-- END -->
 
 
