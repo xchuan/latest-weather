@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Wed Feb 04 2026 04:26:39 GMT+0000 (Coordinated Universal Time) -->
-  ![Emerald Bay and Fannette Island, Lake Tahoe, California (© Bill Stevenson/Cavan Images)](https://cn.bing.com/th?id=OHR.FanetteIsland_EN-US0236094374_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Thu Feb 05 2026 04:46:08 GMT+0000 (Coordinated Universal Time) -->
+  ![Rosa Parks in stained glass window, Shorter Community African Methodist Episcopal Church, Denver (© Cyrus McCrimmon/The Denver Post via Getty Images)](https://cn.bing.com/th?id=OHR.ParksGlass_EN-US0280057691_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2026-02-04
+  2026-02-05
 
-  [Emerald Bay and Fannette Island, Lake Tahoe, California (© Bill Stevenson/Cavan Images)](https://cn.bing.com/th?id=OHR.FanetteIsland_EN-US0236094374_UHD.jpg)
+  [Rosa Parks in stained glass window, Shorter Community African Methodist Episcopal Church, Denver (© Cyrus McCrimmon/The Denver Post via Getty Images)](https://cn.bing.com/th?id=OHR.ParksGlass_EN-US0280057691_UHD.jpg)
 <!-- END -->
 
 
