@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Sun Feb 08 2026 05:01:25 GMT+0000 (Coordinated Universal Time) -->
-  ![Salar de Uyuni salt flats in Bolivia (© Abstract Aerial Art/Getty Images)](https://cn.bing.com/th?id=OHR.SalarUyuni_EN-US1639129259_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Mon Feb 09 2026 04:58:16 GMT+0000 (Coordinated Universal Time) -->
+  ![Corfu at night, Greece (© whitewizzard/Getty Images)](https://cn.bing.com/th?id=OHR.CorfuGreece_EN-US4606019833_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2026-02-08
+  2026-02-09
 
-  [Salar de Uyuni salt flats in Bolivia (© Abstract Aerial Art/Getty Images)](https://cn.bing.com/th?id=OHR.SalarUyuni_EN-US1639129259_UHD.jpg)
+  [Corfu at night, Greece (© whitewizzard/Getty Images)](https://cn.bing.com/th?id=OHR.CorfuGreece_EN-US4606019833_UHD.jpg)
 <!-- END -->
 
 
