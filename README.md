@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Tue Feb 10 2026 05:55:53 GMT+0000 (Coordinated Universal Time) -->
-  ![Amur leopard cat, Russia (© Valeriy Maleev/naturepl.com)](https://cn.bing.com/th?id=OHR.LeopardCat_EN-US4669057608_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Wed Feb 11 2026 05:01:15 GMT+0000 (Coordinated Universal Time) -->
+  ![Islets of Es Vedrà and Es Vedranell, Ibiza, Spain (© L. Apolli/Getty Images)](https://cn.bing.com/th?id=OHR.IbizaIslets_EN-US4713963434_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2026-02-10
+  2026-02-11
 
-  [Amur leopard cat, Russia (© Valeriy Maleev/naturepl.com)](https://cn.bing.com/th?id=OHR.LeopardCat_EN-US4669057608_UHD.jpg)
+  [Islets of Es Vedrà and Es Vedranell, Ibiza, Spain (© L. Apolli/Getty Images)](https://cn.bing.com/th?id=OHR.IbizaIslets_EN-US4713963434_UHD.jpg)
 <!-- END -->
 
 
