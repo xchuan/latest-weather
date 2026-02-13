@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Thu Feb 12 2026 04:56:18 GMT+0000 (Coordinated Universal Time) -->
-  ![Salt flats in Badwater Basin, Death Valley National Park, California (© Jim Patterson/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.BadwaterFlats_EN-US4770719796_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Fri Feb 13 2026 04:51:09 GMT+0000 (Coordinated Universal Time) -->
+  ![Blue-footed booby, Galápagos Islands, Ecuador (© Karine Aigner/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.DarwinBooby_EN-US4839738451_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2026-02-12
+  2026-02-13
 
-  [Salt flats in Badwater Basin, Death Valley National Park, California (© Jim Patterson/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.BadwaterFlats_EN-US4770719796_UHD.jpg)
+  [Blue-footed booby, Galápagos Islands, Ecuador (© Karine Aigner/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.DarwinBooby_EN-US4839738451_UHD.jpg)
 <!-- END -->
 
 
