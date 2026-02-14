@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Fri Feb 13 2026 04:51:09 GMT+0000 (Coordinated Universal Time) -->
-  ![Blue-footed booby, Galápagos Islands, Ecuador (© Karine Aigner/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.DarwinBooby_EN-US4839738451_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Sat Feb 14 2026 04:40:15 GMT+0000 (Coordinated Universal Time) -->
+  ![Third Thai-Lao Friendship Bridge connecting Laos and Thailand (© chaiyut samsuk/Getty Images)](https://cn.bing.com/th?id=OHR.FriendshipBridge_EN-US6136231298_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2026-02-13
+  2026-02-14
 
-  [Blue-footed booby, Galápagos Islands, Ecuador (© Karine Aigner/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.DarwinBooby_EN-US4839738451_UHD.jpg)
+  [Third Thai-Lao Friendship Bridge connecting Laos and Thailand (© chaiyut samsuk/Getty Images)](https://cn.bing.com/th?id=OHR.FriendshipBridge_EN-US6136231298_UHD.jpg)
 <!-- END -->
 
 
