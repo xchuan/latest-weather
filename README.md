@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Sat Feb 14 2026 04:40:15 GMT+0000 (Coordinated Universal Time) -->
-  ![Third Thai-Lao Friendship Bridge connecting Laos and Thailand (© chaiyut samsuk/Getty Images)](https://cn.bing.com/th?id=OHR.FriendshipBridge_EN-US6136231298_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Sun Feb 15 2026 04:52:30 GMT+0000 (Coordinated Universal Time) -->
+  ![Bleeding hearts (© Dorene Hookey/Cavan Images)](https://cn.bing.com/th?id=OHR.ValentineHearts_EN-US6208359150_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2026-02-14
+  2026-02-15
 
-  [Third Thai-Lao Friendship Bridge connecting Laos and Thailand (© chaiyut samsuk/Getty Images)](https://cn.bing.com/th?id=OHR.FriendshipBridge_EN-US6136231298_UHD.jpg)
+  [Bleeding hearts (© Dorene Hookey/Cavan Images)](https://cn.bing.com/th?id=OHR.ValentineHearts_EN-US6208359150_UHD.jpg)
 <!-- END -->
 
 
