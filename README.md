@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Mon Feb 16 2026 04:57:35 GMT+0000 (Coordinated Universal Time) -->
-  ![Humpback whales in Monterey Bay, California (© Kiliii Fish/Cavan Images)](https://cn.bing.com/th?id=OHR.MontereyHumpbacks_EN-US6328970690_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Tue Feb 17 2026 04:50:20 GMT+0000 (Coordinated Universal Time) -->
+  ![Lincoln Memorial, Washington, DC (© Westend61/Getty Images)](https://cn.bing.com/th?id=OHR.PresidentsDay_EN-US6598155144_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2026-02-16
+  2026-02-17
 
-  [Humpback whales in Monterey Bay, California (© Kiliii Fish/Cavan Images)](https://cn.bing.com/th?id=OHR.MontereyHumpbacks_EN-US6328970690_UHD.jpg)
+  [Lincoln Memorial, Washington, DC (© Westend61/Getty Images)](https://cn.bing.com/th?id=OHR.PresidentsDay_EN-US6598155144_UHD.jpg)
 <!-- END -->
 
 
