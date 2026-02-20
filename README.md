@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Thu Feb 19 2026 04:50:54 GMT+0000 (Coordinated Universal Time) -->
-  ![Przewalski's horses (© Nemyrivskyi Viacheslav/Getty Images)](https://cn.bing.com/th?id=OHR.PrzewalskisHorse_EN-US6767229079_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Fri Feb 20 2026 04:44:50 GMT+0000 (Coordinated Universal Time) -->
+  ![The Dragon's Eye rock formation at Uttakleiv Beach, Norway (© reisegraf/Getty Images)](https://cn.bing.com/th?id=OHR.DragonsEyeRock_EN-US6826796617_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2026-02-19
+  2026-02-20
 
-  [Przewalski's horses (© Nemyrivskyi Viacheslav/Getty Images)](https://cn.bing.com/th?id=OHR.PrzewalskisHorse_EN-US6767229079_UHD.jpg)
+  [The Dragon's Eye rock formation at Uttakleiv Beach, Norway (© reisegraf/Getty Images)](https://cn.bing.com/th?id=OHR.DragonsEyeRock_EN-US6826796617_UHD.jpg)
 <!-- END -->
 
 
