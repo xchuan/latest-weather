@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Fri Feb 20 2026 04:44:50 GMT+0000 (Coordinated Universal Time) -->
-  ![The Dragon's Eye rock formation at Uttakleiv Beach, Norway (© reisegraf/Getty Images)](https://cn.bing.com/th?id=OHR.DragonsEyeRock_EN-US6826796617_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Sat Feb 21 2026 04:25:10 GMT+0000 (Coordinated Universal Time) -->
+  ![Horsetail Fall in Yosemite National Park, California (© Jorge Villalba/Getty Images)](https://cn.bing.com/th?id=OHR.AdamsFirefall_EN-US2580399078_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2026-02-20
+  2026-02-21
 
-  [The Dragon's Eye rock formation at Uttakleiv Beach, Norway (© reisegraf/Getty Images)](https://cn.bing.com/th?id=OHR.DragonsEyeRock_EN-US6826796617_UHD.jpg)
+  [Horsetail Fall in Yosemite National Park, California (© Jorge Villalba/Getty Images)](https://cn.bing.com/th?id=OHR.AdamsFirefall_EN-US2580399078_UHD.jpg)
 <!-- END -->
 
 
