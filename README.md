@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Mon Feb 23 2026 04:56:27 GMT+0000 (Coordinated Universal Time) -->
-  ![The hill of Mam Tor, Derbyshire, England (© john finney photography/Getty Images)](https://cn.bing.com/th?id=OHR.MamTorSunrise_EN-US2655534073_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Tue Feb 24 2026 04:50:20 GMT+0000 (Coordinated Universal Time) -->
+  ![Great white egret, Upper Bavaria, Germany (© Konrad Wothe/naturepl.com)](https://cn.bing.com/th?id=OHR.BavariaEgret_EN-US2697995103_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2026-02-23
+  2026-02-24
 
-  [The hill of Mam Tor, Derbyshire, England (© john finney photography/Getty Images)](https://cn.bing.com/th?id=OHR.MamTorSunrise_EN-US2655534073_UHD.jpg)
+  [Great white egret, Upper Bavaria, Germany (© Konrad Wothe/naturepl.com)](https://cn.bing.com/th?id=OHR.BavariaEgret_EN-US2697995103_UHD.jpg)
 <!-- END -->
 
 
