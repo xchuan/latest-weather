@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Tue Feb 24 2026 05:41:07 GMT+0000 (Coordinated Universal Time) -->
-  ![Great white egret, Upper Bavaria, Germany (© Konrad Wothe/naturepl.com)](https://cn.bing.com/th?id=OHR.BavariaEgret_EN-US2697995103_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Wed Feb 25 2026 04:51:16 GMT+0000 (Coordinated Universal Time) -->
+  ![Water lilies at Grand Cenote, Tulum, Mexico (© Christian Vizl/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.TulumLilies_EN-US2766347819_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2026-02-24
+  2026-02-25
 
-  [Great white egret, Upper Bavaria, Germany (© Konrad Wothe/naturepl.com)](https://cn.bing.com/th?id=OHR.BavariaEgret_EN-US2697995103_UHD.jpg)
+  [Water lilies at Grand Cenote, Tulum, Mexico (© Christian Vizl/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.TulumLilies_EN-US2766347819_UHD.jpg)
 <!-- END -->
 
 
