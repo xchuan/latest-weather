@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Thu Feb 26 2026 04:48:53 GMT+0000 (Coordinated Universal Time) -->
-  ![Ice cave in the Mendenhall Glacier, Alaska (© Designpics/Adobe Stock)](https://cn.bing.com/th?id=OHR.MendenhallCave_EN-US2807496139_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Fri Feb 27 2026 04:44:01 GMT+0000 (Coordinated Universal Time) -->
+  ![Grand Canyon and the Colorado River, Arizona (© Matt Anderson Photography/Getty Images)](https://cn.bing.com/th?id=OHR.GrandSunset_EN-US2473517741_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2026-02-26
+  2026-02-27
 
-  [Ice cave in the Mendenhall Glacier, Alaska (© Designpics/Adobe Stock)](https://cn.bing.com/th?id=OHR.MendenhallCave_EN-US2807496139_UHD.jpg)
+  [Grand Canyon and the Colorado River, Arizona (© Matt Anderson Photography/Getty Images)](https://cn.bing.com/th?id=OHR.GrandSunset_EN-US2473517741_UHD.jpg)
 <!-- END -->
 
 
