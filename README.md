@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Mon Mar 02 2026 04:46:36 GMT+0000 (Coordinated Universal Time) -->
-  ![Suffragette celebrations, August 27, 1920, New York City (© Keystone/Hulton Archive/Getty Images)](https://cn.bing.com/th?id=OHR.SuffragettesNY_EN-US2900175138_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Tue Mar 03 2026 04:44:28 GMT+0000 (Coordinated Universal Time) -->
+  ![Harbor and longtail boats at Ko Samui, Thailand (© Foto2rich/Shutterstock)](https://cn.bing.com/th?id=OHR.SamuiThailand_EN-US3008233136_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2026-03-02
+  2026-03-03
 
-  [Suffragette celebrations, August 27, 1920, New York City (© Keystone/Hulton Archive/Getty Images)](https://cn.bing.com/th?id=OHR.SuffragettesNY_EN-US2900175138_UHD.jpg)
+  [Harbor and longtail boats at Ko Samui, Thailand (© Foto2rich/Shutterstock)](https://cn.bing.com/th?id=OHR.SamuiThailand_EN-US3008233136_UHD.jpg)
 <!-- END -->
 
 
