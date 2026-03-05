@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Wed Mar 04 2026 04:27:55 GMT+0000 (Coordinated Universal Time) -->
-  ![African elephant calf playing with its mother, Masai Mara National Reserve, Kenya (© Denis-Huot/naturepl.com)](https://cn.bing.com/th?id=OHR.BabyElephant_EN-US3103670102_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Thu Mar 05 2026 04:42:53 GMT+0000 (Coordinated Universal Time) -->
+  ![Purple crocus flowers, Seven Rila Lakes, Bulgaria (© Maya Karkalicheva/Getty Images)](https://cn.bing.com/th?id=OHR.RilaCrocuses_EN-US3179110237_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2026-03-04
+  2026-03-05
 
-  [African elephant calf playing with its mother, Masai Mara National Reserve, Kenya (© Denis-Huot/naturepl.com)](https://cn.bing.com/th?id=OHR.BabyElephant_EN-US3103670102_UHD.jpg)
+  [Purple crocus flowers, Seven Rila Lakes, Bulgaria (© Maya Karkalicheva/Getty Images)](https://cn.bing.com/th?id=OHR.RilaCrocuses_EN-US3179110237_UHD.jpg)
 <!-- END -->
 
 
