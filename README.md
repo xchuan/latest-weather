@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Thu Mar 05 2026 04:42:53 GMT+0000 (Coordinated Universal Time) -->
-  ![Purple crocus flowers, Seven Rila Lakes, Bulgaria (© Maya Karkalicheva/Getty Images)](https://cn.bing.com/th?id=OHR.RilaCrocuses_EN-US3179110237_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Fri Mar 06 2026 04:40:25 GMT+0000 (Coordinated Universal Time) -->
+  ![Evening over Göreme, Cappadocia, Türkiye (© ONNAJA/Getty Images)](https://cn.bing.com/th?id=OHR.GoremeTwilight_EN-US3224835148_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2026-03-05
+  2026-03-06
 
-  [Purple crocus flowers, Seven Rila Lakes, Bulgaria (© Maya Karkalicheva/Getty Images)](https://cn.bing.com/th?id=OHR.RilaCrocuses_EN-US3179110237_UHD.jpg)
+  [Evening over Göreme, Cappadocia, Türkiye (© ONNAJA/Getty Images)](https://cn.bing.com/th?id=OHR.GoremeTwilight_EN-US3224835148_UHD.jpg)
 <!-- END -->
 
 
