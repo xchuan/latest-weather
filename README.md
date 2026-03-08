@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Sat Mar 07 2026 04:20:12 GMT+0000 (Coordinated Universal Time) -->
-  ![The Wave residential building, Vejle, Denmark (© Frank Bach/Alamy)](https://cn.bing.com/th?id=OHR.WaveDenmark_EN-US6550970747_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Sun Mar 08 2026 04:41:27 GMT+0000 (Coordinated Universal Time) -->
+  ![Sunrise on the Brocken, Harz National Park, Germany (© imageBROKER/AVTG/Getty Images)](https://cn.bing.com/th?id=OHR.BrockenSunrise_EN-US8849518575_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2026-03-07
+  2026-03-08
 
-  [The Wave residential building, Vejle, Denmark (© Frank Bach/Alamy)](https://cn.bing.com/th?id=OHR.WaveDenmark_EN-US6550970747_UHD.jpg)
+  [Sunrise on the Brocken, Harz National Park, Germany (© imageBROKER/AVTG/Getty Images)](https://cn.bing.com/th?id=OHR.BrockenSunrise_EN-US8849518575_UHD.jpg)
 <!-- END -->
 
 
