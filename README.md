@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Sat Mar 14 2026 04:41:08 GMT+0000 (Coordinated Universal Time) -->
-  ![Vaults of the Church of Notre Dame de Bon-Port, Les Sables-d'Olonne, France (© Helmut Meyer zur Capellen/Alamy)](https://cn.bing.com/th?id=OHR.VendeeVaults_EN-US7120114878_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Sun Mar 15 2026 05:04:13 GMT+0000 (Coordinated Universal Time) -->
+  ![Lanyon Quoit, a Neolithic dolmen in Cornwall, England (© Helen Hotson/Alamy)](https://cn.bing.com/th?id=OHR.CornwallDolmen_EN-US7192709883_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2026-03-14
+  2026-03-15
 
-  [Vaults of the Church of Notre Dame de Bon-Port, Les Sables-d'Olonne, France (© Helmut Meyer zur Capellen/Alamy)](https://cn.bing.com/th?id=OHR.VendeeVaults_EN-US7120114878_UHD.jpg)
+  [Lanyon Quoit, a Neolithic dolmen in Cornwall, England (© Helen Hotson/Alamy)](https://cn.bing.com/th?id=OHR.CornwallDolmen_EN-US7192709883_UHD.jpg)
 <!-- END -->
 
 
