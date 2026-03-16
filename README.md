@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Sun Mar 15 2026 05:04:13 GMT+0000 (Coordinated Universal Time) -->
-  ![Lanyon Quoit, a Neolithic dolmen in Cornwall, England (© Helen Hotson/Alamy)](https://cn.bing.com/th?id=OHR.CornwallDolmen_EN-US7192709883_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Mon Mar 16 2026 05:13:09 GMT+0000 (Coordinated Universal Time) -->
+  ![Pacific Rim National Park Reserve, Vancouver Island, Canada (© EmilyNorton/Getty Images)](https://cn.bing.com/th?id=OHR.PacificRimNP_EN-US7242831009_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2026-03-15
+  2026-03-16
 
-  [Lanyon Quoit, a Neolithic dolmen in Cornwall, England (© Helen Hotson/Alamy)](https://cn.bing.com/th?id=OHR.CornwallDolmen_EN-US7192709883_UHD.jpg)
+  [Pacific Rim National Park Reserve, Vancouver Island, Canada (© EmilyNorton/Getty Images)](https://cn.bing.com/th?id=OHR.PacificRimNP_EN-US7242831009_UHD.jpg)
 <!-- END -->
 
 
