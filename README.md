@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Wed Mar 18 2026 04:54:53 GMT+0000 (Coordinated Universal Time) -->
-  ![Grianan of Aileach ring fort, Donegal, Ireland (© aluxum/Getty Images)](https://cn.bing.com/th?id=OHR.DonegalFort_EN-US7529893132_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Thu Mar 19 2026 04:53:11 GMT+0000 (Coordinated Universal Time) -->
+  ![Cherry blossoms at Tom McCall Waterfront Park, Portland, Oregon (© Eric Vogt/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.PortlandBlossoms_EN-US7604107803_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2026-03-18
+  2026-03-19
 
-  [Grianan of Aileach ring fort, Donegal, Ireland (© aluxum/Getty Images)](https://cn.bing.com/th?id=OHR.DonegalFort_EN-US7529893132_UHD.jpg)
+  [Cherry blossoms at Tom McCall Waterfront Park, Portland, Oregon (© Eric Vogt/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.PortlandBlossoms_EN-US7604107803_UHD.jpg)
 <!-- END -->
 
 
