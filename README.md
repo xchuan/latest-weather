@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Thu Mar 19 2026 04:53:11 GMT+0000 (Coordinated Universal Time) -->
-  ![Cherry blossoms at Tom McCall Waterfront Park, Portland, Oregon (© Eric Vogt/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.PortlandBlossoms_EN-US7604107803_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Fri Mar 20 2026 04:44:41 GMT+0000 (Coordinated Universal Time) -->
+  ![Short-beaked echidna, Adelaide Hills, Australia (© Etienne Littlefair/naturepl.com)](https://cn.bing.com/th?id=OHR.EchidnaAustralia_EN-US7660451296_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2026-03-19
+  2026-03-20
 
-  [Cherry blossoms at Tom McCall Waterfront Park, Portland, Oregon (© Eric Vogt/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.PortlandBlossoms_EN-US7604107803_UHD.jpg)
+  [Short-beaked echidna, Adelaide Hills, Australia (© Etienne Littlefair/naturepl.com)](https://cn.bing.com/th?id=OHR.EchidnaAustralia_EN-US7660451296_UHD.jpg)
 <!-- END -->
 
 
