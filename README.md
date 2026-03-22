@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Sat Mar 21 2026 04:25:04 GMT+0000 (Coordinated Universal Time) -->
-  ![Snowdrops in spring (© klagyivik/Getty Images)](https://cn.bing.com/th?id=OHR.SpringSnowdrops_EN-US5032204696_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Sun Mar 22 2026 04:50:32 GMT+0000 (Coordinated Universal Time) -->
+  ![Letea Forest, Danube Delta, Romania (© Wild Wonders of Europe/Widstrand/Nature Picture Library)](https://cn.bing.com/th?id=OHR.LeteaForest_EN-US5404369914_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2026-03-21
+  2026-03-22
 
-  [Snowdrops in spring (© klagyivik/Getty Images)](https://cn.bing.com/th?id=OHR.SpringSnowdrops_EN-US5032204696_UHD.jpg)
+  [Letea Forest, Danube Delta, Romania (© Wild Wonders of Europe/Widstrand/Nature Picture Library)](https://cn.bing.com/th?id=OHR.LeteaForest_EN-US5404369914_UHD.jpg)
 <!-- END -->
 
 
