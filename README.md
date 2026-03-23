@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Sun Mar 22 2026 04:50:32 GMT+0000 (Coordinated Universal Time) -->
-  ![Letea Forest, Danube Delta, Romania (© Wild Wonders of Europe/Widstrand/Nature Picture Library)](https://cn.bing.com/th?id=OHR.LeteaForest_EN-US5404369914_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Mon Mar 23 2026 05:01:28 GMT+0000 (Coordinated Universal Time) -->
+  ![Lake Tanganyika, Africa (© BEST-BACKGROUNDS/NASA/Shutterstock)](https://cn.bing.com/th?id=OHR.TanganyikaWater_EN-US5685685365_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2026-03-22
+  2026-03-23
 
-  [Letea Forest, Danube Delta, Romania (© Wild Wonders of Europe/Widstrand/Nature Picture Library)](https://cn.bing.com/th?id=OHR.LeteaForest_EN-US5404369914_UHD.jpg)
+  [Lake Tanganyika, Africa (© BEST-BACKGROUNDS/NASA/Shutterstock)](https://cn.bing.com/th?id=OHR.TanganyikaWater_EN-US5685685365_UHD.jpg)
 <!-- END -->
 
 
