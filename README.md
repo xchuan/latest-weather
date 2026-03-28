@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Fri Mar 27 2026 05:05:24 GMT+0000 (Coordinated Universal Time) -->
-  ![Logan Creek Suspension Bridge, West Coast Trail, Canada (© Tandem Stock/Adobe Stock)](https://cn.bing.com/th?id=OHR.LoganCreek_EN-US6075548781_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Sat Mar 28 2026 04:51:09 GMT+0000 (Coordinated Universal Time) -->
+  ![Radio City Music Hall in New York City (© Clarence Holmes Photography/Alamy)](https://cn.bing.com/th?id=OHR.RadioCityHall_EN-US6218301556_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2026-03-27
+  2026-03-28
 
-  [Logan Creek Suspension Bridge, West Coast Trail, Canada (© Tandem Stock/Adobe Stock)](https://cn.bing.com/th?id=OHR.LoganCreek_EN-US6075548781_UHD.jpg)
+  [Radio City Music Hall in New York City (© Clarence Holmes Photography/Alamy)](https://cn.bing.com/th?id=OHR.RadioCityHall_EN-US6218301556_UHD.jpg)
 <!-- END -->
 
 
