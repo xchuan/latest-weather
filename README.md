@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Sat Mar 28 2026 04:51:09 GMT+0000 (Coordinated Universal Time) -->
-  ![Radio City Music Hall in New York City (© Clarence Holmes Photography/Alamy)](https://cn.bing.com/th?id=OHR.RadioCityHall_EN-US6218301556_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Sun Mar 29 2026 05:09:10 GMT+0000 (Coordinated Universal Time) -->
+  ![African buffalo, Ngorongoro Crater, Tanzania (© jesuss8/500px/Getty Images)](https://cn.bing.com/th?id=OHR.CapeBuffalo_EN-US6304011521_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2026-03-28
+  2026-03-29
 
-  [Radio City Music Hall in New York City (© Clarence Holmes Photography/Alamy)](https://cn.bing.com/th?id=OHR.RadioCityHall_EN-US6218301556_UHD.jpg)
+  [African buffalo, Ngorongoro Crater, Tanzania (© jesuss8/500px/Getty Images)](https://cn.bing.com/th?id=OHR.CapeBuffalo_EN-US6304011521_UHD.jpg)
 <!-- END -->
 
 
