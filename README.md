@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Mon Mar 30 2026 05:22:42 GMT+0000 (Coordinated Universal Time) -->
-  ![Peggy's Point Lighthouse, Atlantic Coast, Nova Scotia, Canada (© Prashanth Bala/Shutterstock)](https://cn.bing.com/th?id=OHR.PeggysLighthouse_EN-US6365734559_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Tue Mar 31 2026 05:07:35 GMT+0000 (Coordinated Universal Time) -->
+  ![Demoiselle cranes, India (© Axel Gomille/Nature Picture Library)](https://cn.bing.com/th?id=OHR.IndiaCranes_EN-US6414900321_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2026-03-30
+  2026-03-31
 
-  [Peggy's Point Lighthouse, Atlantic Coast, Nova Scotia, Canada (© Prashanth Bala/Shutterstock)](https://cn.bing.com/th?id=OHR.PeggysLighthouse_EN-US6365734559_UHD.jpg)
+  [Demoiselle cranes, India (© Axel Gomille/Nature Picture Library)](https://cn.bing.com/th?id=OHR.IndiaCranes_EN-US6414900321_UHD.jpg)
 <!-- END -->
 
 
