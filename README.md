@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Thu Apr 02 2026 05:01:12 GMT+0000 (Coordinated Universal Time) -->
-  ![Japanese tree frog in a pink morning glory (© Tetsuya Tanooka/Getty Images)](https://cn.bing.com/th?id=OHR.JapaneseTreeFrog_EN-US6527297660_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Fri Apr 03 2026 05:03:18 GMT+0000 (Coordinated Universal Time) -->
+  ![Wildflower bloom, Central Valley, California (© Jeff Lewis/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.WildflowerValley_EN-US6579657743_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2026-04-02
+  2026-04-03
 
-  [Japanese tree frog in a pink morning glory (© Tetsuya Tanooka/Getty Images)](https://cn.bing.com/th?id=OHR.JapaneseTreeFrog_EN-US6527297660_UHD.jpg)
+  [Wildflower bloom, Central Valley, California (© Jeff Lewis/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.WildflowerValley_EN-US6579657743_UHD.jpg)
 <!-- END -->
 
 
