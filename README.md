@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Sat Apr 04 2026 04:48:25 GMT+0000 (Coordinated Universal Time) -->
-  ![Armbrug bridge, Amsterdam, Netherlands (© Alexander Spatari/Getty Images)](https://cn.bing.com/th?id=OHR.ArmbrugBridge_EN-US3302230248_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Sun Apr 05 2026 05:10:25 GMT+0000 (Coordinated Universal Time) -->
+  ![Black grouse males facing off on a lekking site, Estonia (© Sven Zacek/Nature Picture Library)](https://cn.bing.com/th?id=OHR.GrouseGuff_EN-US4212457538_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2026-04-04
+  2026-04-05
 
-  [Armbrug bridge, Amsterdam, Netherlands (© Alexander Spatari/Getty Images)](https://cn.bing.com/th?id=OHR.ArmbrugBridge_EN-US3302230248_UHD.jpg)
+  [Black grouse males facing off on a lekking site, Estonia (© Sven Zacek/Nature Picture Library)](https://cn.bing.com/th?id=OHR.GrouseGuff_EN-US4212457538_UHD.jpg)
 <!-- END -->
 
 
