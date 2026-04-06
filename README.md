@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Sun Apr 05 2026 05:10:25 GMT+0000 (Coordinated Universal Time) -->
-  ![Black grouse males facing off on a lekking site, Estonia (© Sven Zacek/Nature Picture Library)](https://cn.bing.com/th?id=OHR.GrouseGuff_EN-US4212457538_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Mon Apr 06 2026 05:22:28 GMT+0000 (Coordinated Universal Time) -->
+  ![Colorful handmade wooden Easter eggs, Vilnius, Lithuania (© maximkabb/Getty Images)](https://cn.bing.com/th?id=OHR.LithuaniaEggs_EN-US5074250791_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2026-04-05
+  2026-04-06
 
-  [Black grouse males facing off on a lekking site, Estonia (© Sven Zacek/Nature Picture Library)](https://cn.bing.com/th?id=OHR.GrouseGuff_EN-US4212457538_UHD.jpg)
+  [Colorful handmade wooden Easter eggs, Vilnius, Lithuania (© maximkabb/Getty Images)](https://cn.bing.com/th?id=OHR.LithuaniaEggs_EN-US5074250791_UHD.jpg)
 <!-- END -->
 
 
