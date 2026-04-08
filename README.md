@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Tue Apr 07 2026 06:05:07 GMT+0000 (Coordinated Universal Time) -->
-  ![Hirosaki Castle with cherry blossoms, Hirosaki, Japan (© Glenn Waters/Getty Images)](https://cn.bing.com/th?id=OHR.CastleBlossoms_EN-US6202844131_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Wed Apr 08 2026 05:09:43 GMT+0000 (Coordinated Universal Time) -->
+  ![Beaver, Germany (© Andyworks/Getty Images)](https://cn.bing.com/th?id=OHR.BeaverPortrait_EN-US6459336252_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2026-04-07
+  2026-04-08
 
-  [Hirosaki Castle with cherry blossoms, Hirosaki, Japan (© Glenn Waters/Getty Images)](https://cn.bing.com/th?id=OHR.CastleBlossoms_EN-US6202844131_UHD.jpg)
+  [Beaver, Germany (© Andyworks/Getty Images)](https://cn.bing.com/th?id=OHR.BeaverPortrait_EN-US6459336252_UHD.jpg)
 <!-- END -->
 
 
