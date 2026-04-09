@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Wed Apr 08 2026 05:09:43 GMT+0000 (Coordinated Universal Time) -->
-  ![Beaver, Germany (© Andyworks/Getty Images)](https://cn.bing.com/th?id=OHR.BeaverPortrait_EN-US6459336252_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Thu Apr 09 2026 05:08:01 GMT+0000 (Coordinated Universal Time) -->
+  ![Seattle, Washington (© Jim Patterson/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.SeattleSunrise_EN-US6729754002_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2026-04-08
+  2026-04-09
 
-  [Beaver, Germany (© Andyworks/Getty Images)](https://cn.bing.com/th?id=OHR.BeaverPortrait_EN-US6459336252_UHD.jpg)
+  [Seattle, Washington (© Jim Patterson/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.SeattleSunrise_EN-US6729754002_UHD.jpg)
 <!-- END -->
 
 
