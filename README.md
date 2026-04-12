@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Sat Apr 11 2026 04:53:11 GMT+0000 (Coordinated Universal Time) -->
-  ![Two young red foxes at Karula National Park, Estonia (© Sven Zacek/Nature Picture Library)](https://cn.bing.com/th?id=OHR.FoxSiblings_EN-US7533678992_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Sun Apr 12 2026 05:22:05 GMT+0000 (Coordinated Universal Time) -->
+  ![Papagayo Beach, Lanzarote, Canary Islands, Spain (© Gavin Hellier/Getty Images)](https://cn.bing.com/th?id=OHR.PlayaPapagayo_EN-US7775494888_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2026-04-11
+  2026-04-12
 
-  [Two young red foxes at Karula National Park, Estonia (© Sven Zacek/Nature Picture Library)](https://cn.bing.com/th?id=OHR.FoxSiblings_EN-US7533678992_UHD.jpg)
+  [Papagayo Beach, Lanzarote, Canary Islands, Spain (© Gavin Hellier/Getty Images)](https://cn.bing.com/th?id=OHR.PlayaPapagayo_EN-US7775494888_UHD.jpg)
 <!-- END -->
 
 
