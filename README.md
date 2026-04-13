@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Sun Apr 12 2026 05:22:05 GMT+0000 (Coordinated Universal Time) -->
-  ![Papagayo Beach, Lanzarote, Canary Islands, Spain (© Gavin Hellier/Getty Images)](https://cn.bing.com/th?id=OHR.PlayaPapagayo_EN-US7775494888_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Mon Apr 13 2026 05:40:11 GMT+0000 (Coordinated Universal Time) -->
+  ![City lights streak below, taken from the International Space Station (© NASA)](https://cn.bing.com/th?id=OHR.SpaceTrails_EN-US8009082939_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2026-04-12
+  2026-04-13
 
-  [Papagayo Beach, Lanzarote, Canary Islands, Spain (© Gavin Hellier/Getty Images)](https://cn.bing.com/th?id=OHR.PlayaPapagayo_EN-US7775494888_UHD.jpg)
+  [City lights streak below, taken from the International Space Station (© NASA)](https://cn.bing.com/th?id=OHR.SpaceTrails_EN-US8009082939_UHD.jpg)
 <!-- END -->
 
 
