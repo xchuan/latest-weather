@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Mon Apr 13 2026 05:40:11 GMT+0000 (Coordinated Universal Time) -->
-  ![City lights streak below, taken from the International Space Station (© NASA)](https://cn.bing.com/th?id=OHR.SpaceTrails_EN-US8009082939_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Tue Apr 14 2026 05:21:46 GMT+0000 (Coordinated Universal Time) -->
+  ![Milky Way over Anza-Borrego Desert State Park, California (© Kevin Key/Slworking)/Getty Images)](https://cn.bing.com/th?id=OHR.BorregoStars_EN-US8252825773_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2026-04-13
+  2026-04-14
 
-  [City lights streak below, taken from the International Space Station (© NASA)](https://cn.bing.com/th?id=OHR.SpaceTrails_EN-US8009082939_UHD.jpg)
+  [Milky Way over Anza-Borrego Desert State Park, California (© Kevin Key/Slworking)/Getty Images)](https://cn.bing.com/th?id=OHR.BorregoStars_EN-US8252825773_UHD.jpg)
 <!-- END -->
 
 
