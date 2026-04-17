@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Thu Apr 16 2026 05:29:20 GMT+0000 (Coordinated Universal Time) -->
-  ![The Carrières des Lumières exhibit of Vincent Van Gogh, Les Baux-de-Provence, France (© Patrick Aventurier/Getty Images)](https://cn.bing.com/th?id=OHR.VanGoghFields_EN-US8748933044_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Fri Apr 17 2026 05:26:32 GMT+0000 (Coordinated Universal Time) -->
+  ![Skagit Valley Tulip Fields, Washington (© Alan Majchrowicz/Getty Images)](https://cn.bing.com/th?id=OHR.SkagitTulips_EN-US8944602365_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2026-04-16
+  2026-04-17
 
-  [The Carrières des Lumières exhibit of Vincent Van Gogh, Les Baux-de-Provence, France (© Patrick Aventurier/Getty Images)](https://cn.bing.com/th?id=OHR.VanGoghFields_EN-US8748933044_UHD.jpg)
+  [Skagit Valley Tulip Fields, Washington (© Alan Majchrowicz/Getty Images)](https://cn.bing.com/th?id=OHR.SkagitTulips_EN-US8944602365_UHD.jpg)
 <!-- END -->
 
 
