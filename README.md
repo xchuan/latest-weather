@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Fri Apr 17 2026 05:26:32 GMT+0000 (Coordinated Universal Time) -->
-  ![Skagit Valley Tulip Fields, Washington (© Alan Majchrowicz/Getty Images)](https://cn.bing.com/th?id=OHR.SkagitTulips_EN-US8944602365_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Sat Apr 18 2026 05:05:04 GMT+0000 (Coordinated Universal Time) -->
+  ![Grey-headed flying fox carrying her pup, Yarra Bend Park, Australia (© Doug Gimesy/Nature Picture Library)](https://cn.bing.com/th?id=OHR.FlyingFoxMom_EN-US0502464388_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2026-04-17
+  2026-04-18
 
-  [Skagit Valley Tulip Fields, Washington (© Alan Majchrowicz/Getty Images)](https://cn.bing.com/th?id=OHR.SkagitTulips_EN-US8944602365_UHD.jpg)
+  [Grey-headed flying fox carrying her pup, Yarra Bend Park, Australia (© Doug Gimesy/Nature Picture Library)](https://cn.bing.com/th?id=OHR.FlyingFoxMom_EN-US0502464388_UHD.jpg)
 <!-- END -->
 
 
