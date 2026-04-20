@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Sun Apr 19 2026 05:27:39 GMT+0000 (Coordinated Universal Time) -->
-  ![Moai statue quarry, Rano Raraku, Easter Island, Chile (© Gavin Hellier/Alamy)](https://cn.bing.com/th?id=OHR.MaoiStatues_EN-US0752877903_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Mon Apr 20 2026 05:39:32 GMT+0000 (Coordinated Universal Time) -->
+  ![Books in the children's section of The New York Public Library, New York (© Ken Welsh/Alamy)](https://cn.bing.com/th?id=OHR.LibraryWeek_EN-US0888768835_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2026-04-19
+  2026-04-20
 
-  [Moai statue quarry, Rano Raraku, Easter Island, Chile (© Gavin Hellier/Alamy)](https://cn.bing.com/th?id=OHR.MaoiStatues_EN-US0752877903_UHD.jpg)
+  [Books in the children's section of The New York Public Library, New York (© Ken Welsh/Alamy)](https://cn.bing.com/th?id=OHR.LibraryWeek_EN-US0888768835_UHD.jpg)
 <!-- END -->
 
 
