@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Thu Apr 23 2026 05:28:41 GMT+0000 (Coordinated Universal Time) -->
-  ![Alam-Pedja Nature Reserve in Tartu County, Estonia (© Sven Zacek/Nature Picture Library)](https://cn.bing.com/th?id=OHR.TartuEstonia_EN-US1627168155_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Fri Apr 24 2026 05:33:48 GMT+0000 (Coordinated Universal Time) -->
+  ![Anne Hathaway's cottage and garden, Stratford-upon-Avon, England (© David Steele/Shutterstock)](https://cn.bing.com/th?id=OHR.HathawayCottage_EN-US1795877015_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2026-04-23
+  2026-04-24
 
-  [Alam-Pedja Nature Reserve in Tartu County, Estonia (© Sven Zacek/Nature Picture Library)](https://cn.bing.com/th?id=OHR.TartuEstonia_EN-US1627168155_UHD.jpg)
+  [Anne Hathaway's cottage and garden, Stratford-upon-Avon, England (© David Steele/Shutterstock)](https://cn.bing.com/th?id=OHR.HathawayCottage_EN-US1795877015_UHD.jpg)
 <!-- END -->
 
 
