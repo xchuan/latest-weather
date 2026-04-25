@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Fri Apr 24 2026 05:33:48 GMT+0000 (Coordinated Universal Time) -->
-  ![Anne Hathaway's cottage and garden, Stratford-upon-Avon, England (© David Steele/Shutterstock)](https://cn.bing.com/th?id=OHR.HathawayCottage_EN-US1795877015_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Sat Apr 25 2026 05:10:16 GMT+0000 (Coordinated Universal Time) -->
+  ![Forest hammock of slash pine and saw palmetto, Everglades National Park, Florida (© Mary Liz Austin/Alamy)](https://cn.bing.com/th?id=OHR.SlashPine_EN-US2059787604_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2026-04-24
+  2026-04-25
 
-  [Anne Hathaway's cottage and garden, Stratford-upon-Avon, England (© David Steele/Shutterstock)](https://cn.bing.com/th?id=OHR.HathawayCottage_EN-US1795877015_UHD.jpg)
+  [Forest hammock of slash pine and saw palmetto, Everglades National Park, Florida (© Mary Liz Austin/Alamy)](https://cn.bing.com/th?id=OHR.SlashPine_EN-US2059787604_UHD.jpg)
 <!-- END -->
 
 
