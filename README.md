@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Sat Apr 25 2026 05:10:16 GMT+0000 (Coordinated Universal Time) -->
-  ![Forest hammock of slash pine and saw palmetto, Everglades National Park, Florida (© Mary Liz Austin/Alamy)](https://cn.bing.com/th?id=OHR.SlashPine_EN-US2059787604_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Sun Apr 26 2026 05:38:02 GMT+0000 (Coordinated Universal Time) -->
+  ![Galápagos penguins swimming, Galápagos Islands, Ecuador (© Henley Spiers/Nature Picture Library)](https://cn.bing.com/th?id=OHR.GalapagosPenguins_EN-US2287809863_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2026-04-25
+  2026-04-26
 
-  [Forest hammock of slash pine and saw palmetto, Everglades National Park, Florida (© Mary Liz Austin/Alamy)](https://cn.bing.com/th?id=OHR.SlashPine_EN-US2059787604_UHD.jpg)
+  [Galápagos penguins swimming, Galápagos Islands, Ecuador (© Henley Spiers/Nature Picture Library)](https://cn.bing.com/th?id=OHR.GalapagosPenguins_EN-US2287809863_UHD.jpg)
 <!-- END -->
 
 
