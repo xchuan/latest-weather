@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Mon Apr 27 2026 05:52:22 GMT+0000 (Coordinated Universal Time) -->
-  ![Pink apple blossoms, Avila Beach, California (© Mimi Ditchie Photography/Getty Images)](https://cn.bing.com/th?id=OHR.AppleBlossoms_EN-US2396192691_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Tue Apr 28 2026 05:58:03 GMT+0000 (Coordinated Universal Time) -->
+  ![The glass dome of Galleria Vittorio Emanuele II, Milan, Italy (© PhillipMinnis/Getty Images)](https://cn.bing.com/th?id=OHR.MilanGalleria_EN-US2432086382_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2026-04-27
+  2026-04-28
 
-  [Pink apple blossoms, Avila Beach, California (© Mimi Ditchie Photography/Getty Images)](https://cn.bing.com/th?id=OHR.AppleBlossoms_EN-US2396192691_UHD.jpg)
+  [The glass dome of Galleria Vittorio Emanuele II, Milan, Italy (© PhillipMinnis/Getty Images)](https://cn.bing.com/th?id=OHR.MilanGalleria_EN-US2432086382_UHD.jpg)
 <!-- END -->
 
 
