@@ -12,7 +12,7 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Tue Apr 28 2026 07:12:56 GMT+0000 (Coordinated Universal Time) -->
+<!--  Wed Apr 29 2026 05:53:23 GMT+0000 (Coordinated Universal Time) -->
   ![Spectacled bear resting in tree, Ecuador (© Andy Rouse/Nature Picture Library)](https://cn.bing.com/th?id=OHR.AndeanBear_EN-US2465945308_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
   2026-04-29
