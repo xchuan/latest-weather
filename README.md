@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Wed Apr 29 2026 05:53:23 GMT+0000 (Coordinated Universal Time) -->
-  ![Spectacled bear resting in tree, Ecuador (© Andy Rouse/Nature Picture Library)](https://cn.bing.com/th?id=OHR.AndeanBear_EN-US2465945308_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Thu Apr 30 2026 05:57:13 GMT+0000 (Coordinated Universal Time) -->
+  ![Belém Tower on the bank of the Tagus River, Lisbon, Portugal (© f9photos/Getty Images)](https://cn.bing.com/th?id=OHR.BelemTowerBank_EN-US2528466391_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2026-04-29
+  2026-04-30
 
-  [Spectacled bear resting in tree, Ecuador (© Andy Rouse/Nature Picture Library)](https://cn.bing.com/th?id=OHR.AndeanBear_EN-US2465945308_UHD.jpg)
+  [Belém Tower on the bank of the Tagus River, Lisbon, Portugal (© f9photos/Getty Images)](https://cn.bing.com/th?id=OHR.BelemTowerBank_EN-US2528466391_UHD.jpg)
 <!-- END -->
 
 
