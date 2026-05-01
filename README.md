@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Thu Apr 30 2026 05:57:13 GMT+0000 (Coordinated Universal Time) -->
-  ![Belém Tower on the bank of the Tagus River, Lisbon, Portugal (© f9photos/Getty Images)](https://cn.bing.com/th?id=OHR.BelemTowerBank_EN-US2528466391_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Fri May 01 2026 06:15:26 GMT+0000 (Coordinated Universal Time) -->
+  ![Grape hyacinths and tulips, Keukenhof Gardens, Lisse, Netherlands (© Martin Ruegner/Getty Images)](https://cn.bing.com/th?id=OHR.DutchTulips_EN-US2575617067_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2026-04-30
+  2026-05-01
 
-  [Belém Tower on the bank of the Tagus River, Lisbon, Portugal (© f9photos/Getty Images)](https://cn.bing.com/th?id=OHR.BelemTowerBank_EN-US2528466391_UHD.jpg)
+  [Grape hyacinths and tulips, Keukenhof Gardens, Lisse, Netherlands (© Martin Ruegner/Getty Images)](https://cn.bing.com/th?id=OHR.DutchTulips_EN-US2575617067_UHD.jpg)
 <!-- END -->
 
 
