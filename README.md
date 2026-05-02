@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Fri May 01 2026 06:15:26 GMT+0000 (Coordinated Universal Time) -->
-  ![Grape hyacinths and tulips, Keukenhof Gardens, Lisse, Netherlands (© Martin Ruegner/Getty Images)](https://cn.bing.com/th?id=OHR.DutchTulips_EN-US2575617067_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Sat May 02 2026 05:35:25 GMT+0000 (Coordinated Universal Time) -->
+  ![Koi fish, Lan Su Chinese Garden, Portland, Oregon (© Greg Vaughn/Getty Images)](https://cn.bing.com/th?id=OHR.KoiPond_EN-US0207799352_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2026-05-01
+  2026-05-02
 
-  [Grape hyacinths and tulips, Keukenhof Gardens, Lisse, Netherlands (© Martin Ruegner/Getty Images)](https://cn.bing.com/th?id=OHR.DutchTulips_EN-US2575617067_UHD.jpg)
+  [Koi fish, Lan Su Chinese Garden, Portland, Oregon (© Greg Vaughn/Getty Images)](https://cn.bing.com/th?id=OHR.KoiPond_EN-US0207799352_UHD.jpg)
 <!-- END -->
 
 
