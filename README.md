@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Sat May 02 2026 05:35:25 GMT+0000 (Coordinated Universal Time) -->
-  ![Koi fish, Lan Su Chinese Garden, Portland, Oregon (© Greg Vaughn/Getty Images)](https://cn.bing.com/th?id=OHR.KoiPond_EN-US0207799352_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Sun May 03 2026 05:57:42 GMT+0000 (Coordinated Universal Time) -->
+  ![Small lake and marsh in Jasper National Park in Alberta, Canada (© Don White/Getty Images)](https://cn.bing.com/th?id=OHR.GreenJasper_EN-US0253969334_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2026-05-02
+  2026-05-03
 
-  [Koi fish, Lan Su Chinese Garden, Portland, Oregon (© Greg Vaughn/Getty Images)](https://cn.bing.com/th?id=OHR.KoiPond_EN-US0207799352_UHD.jpg)
+  [Small lake and marsh in Jasper National Park in Alberta, Canada (© Don White/Getty Images)](https://cn.bing.com/th?id=OHR.GreenJasper_EN-US0253969334_UHD.jpg)
 <!-- END -->
 
 
