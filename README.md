@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Sun May 03 2026 05:57:42 GMT+0000 (Coordinated Universal Time) -->
-  ![Small lake and marsh in Jasper National Park in Alberta, Canada (© Don White/Getty Images)](https://cn.bing.com/th?id=OHR.GreenJasper_EN-US0253969334_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Mon May 04 2026 06:11:45 GMT+0000 (Coordinated Universal Time) -->
+  ![Leopard sleeping in a tree in savanna, Masai Mara National Reserve, Kenya (© Klein & Hubert/Nature Picture Library)](https://cn.bing.com/th?id=OHR.MasaiLeopard_EN-US0388943780_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2026-05-03
+  2026-05-04
 
-  [Small lake and marsh in Jasper National Park in Alberta, Canada (© Don White/Getty Images)](https://cn.bing.com/th?id=OHR.GreenJasper_EN-US0253969334_UHD.jpg)
+  [Leopard sleeping in a tree in savanna, Masai Mara National Reserve, Kenya (© Klein & Hubert/Nature Picture Library)](https://cn.bing.com/th?id=OHR.MasaiLeopard_EN-US0388943780_UHD.jpg)
 <!-- END -->
 
 
