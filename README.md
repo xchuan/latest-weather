@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Tue May 05 2026 06:33:50 GMT+0000 (Coordinated Universal Time) -->
-  ![Ksar Ouled Soltane, Tataouine district in southern Tunisia (© Dark_Eni/Getty Images Plus)](https://cn.bing.com/th?id=OHR.KsarOuledSoltane_EN-US0477407273_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Wed May 06 2026 05:56:06 GMT+0000 (Coordinated Universal Time) -->
+  ![Field of blue agave near Tequila, Jalisco, Mexico (© Brian Overcast/Alamy)](https://cn.bing.com/th?id=OHR.MayoAgave_EN-US0521416350_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2026-05-05
+  2026-05-06
 
-  [Ksar Ouled Soltane, Tataouine district in southern Tunisia (© Dark_Eni/Getty Images Plus)](https://cn.bing.com/th?id=OHR.KsarOuledSoltane_EN-US0477407273_UHD.jpg)
+  [Field of blue agave near Tequila, Jalisco, Mexico (© Brian Overcast/Alamy)](https://cn.bing.com/th?id=OHR.MayoAgave_EN-US0521416350_UHD.jpg)
 <!-- END -->
 
 
