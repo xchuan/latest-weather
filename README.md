@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Sat May 09 2026 05:47:25 GMT+0000 (Coordinated Universal Time) -->
-  ![Sardinian donkey mare and foal, France (© Klein & Hubert/Nature Picture Library)](https://cn.bing.com/th?id=OHR.SardinianDonkey_EN-US0705945312_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Sun May 10 2026 06:10:38 GMT+0000 (Coordinated Universal Time) -->
+  ![Skradinski Buk Waterfall in Krka National Park, Croatia (© Amazing Aerial Agency/Adobe Stock)](https://cn.bing.com/th?id=OHR.SkradinskiBuk_EN-US0750882952_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2026-05-09
+  2026-05-10
 
-  [Sardinian donkey mare and foal, France (© Klein & Hubert/Nature Picture Library)](https://cn.bing.com/th?id=OHR.SardinianDonkey_EN-US0705945312_UHD.jpg)
+  [Skradinski Buk Waterfall in Krka National Park, Croatia (© Amazing Aerial Agency/Adobe Stock)](https://cn.bing.com/th?id=OHR.SkradinskiBuk_EN-US0750882952_UHD.jpg)
 <!-- END -->
 
 
