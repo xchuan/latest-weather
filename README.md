@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Sun May 10 2026 06:10:38 GMT+0000 (Coordinated Universal Time) -->
-  ![Skradinski Buk Waterfall in Krka National Park, Croatia (© Amazing Aerial Agency/Adobe Stock)](https://cn.bing.com/th?id=OHR.SkradinskiBuk_EN-US0750882952_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Mon May 11 2026 06:38:19 GMT+0000 (Coordinated Universal Time) -->
+  ![Polar bear mother and cubs playing in Wapusk National Park, Manitoba, Canada (© Hao Jiang/Getty Images)](https://cn.bing.com/th?id=OHR.MotherCub_EN-US0916425414_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2026-05-10
+  2026-05-11
 
-  [Skradinski Buk Waterfall in Krka National Park, Croatia (© Amazing Aerial Agency/Adobe Stock)](https://cn.bing.com/th?id=OHR.SkradinskiBuk_EN-US0750882952_UHD.jpg)
+  [Polar bear mother and cubs playing in Wapusk National Park, Manitoba, Canada (© Hao Jiang/Getty Images)](https://cn.bing.com/th?id=OHR.MotherCub_EN-US0916425414_UHD.jpg)
 <!-- END -->
 
 
