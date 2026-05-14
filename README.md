@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Wed May 13 2026 06:25:16 GMT+0000 (Coordinated Universal Time) -->
-  ![Atlantic puffins, Wales (© FLPA/Alamy)](https://cn.bing.com/th?id=OHR.Fratercula_EN-US1020898539_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Thu May 14 2026 06:23:40 GMT+0000 (Coordinated Universal Time) -->
+  ![Arch and Milky Way, Alabama Hills, Sierra Nevada, California (© Tim Fitzharris/Minden Pictures)](https://cn.bing.com/th?id=OHR.AlabamaHills_EN-US1154221052_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2026-05-13
+  2026-05-14
 
-  [Atlantic puffins, Wales (© FLPA/Alamy)](https://cn.bing.com/th?id=OHR.Fratercula_EN-US1020898539_UHD.jpg)
+  [Arch and Milky Way, Alabama Hills, Sierra Nevada, California (© Tim Fitzharris/Minden Pictures)](https://cn.bing.com/th?id=OHR.AlabamaHills_EN-US1154221052_UHD.jpg)
 <!-- END -->
 
 
