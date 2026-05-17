@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Sat May 16 2026 05:53:26 GMT+0000 (Coordinated Universal Time) -->
-  ![A family of sperm whales, Indian Ocean (© Tony Wu/Nature Picture Library)](https://cn.bing.com/th?id=OHR.EndangeredWhales_EN-US0380100553_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Sun May 17 2026 06:21:52 GMT+0000 (Coordinated Universal Time) -->
+  ![Smith Rock State Park, Oregon (© Alex Ratson/Getty Images)](https://cn.bing.com/th?id=OHR.SmithRockPark_EN-US0425629050_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2026-05-16
+  2026-05-17
 
-  [A family of sperm whales, Indian Ocean (© Tony Wu/Nature Picture Library)](https://cn.bing.com/th?id=OHR.EndangeredWhales_EN-US0380100553_UHD.jpg)
+  [Smith Rock State Park, Oregon (© Alex Ratson/Getty Images)](https://cn.bing.com/th?id=OHR.SmithRockPark_EN-US0425629050_UHD.jpg)
 <!-- END -->
 
 
