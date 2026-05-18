@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Sun May 17 2026 06:21:52 GMT+0000 (Coordinated Universal Time) -->
-  ![Smith Rock State Park, Oregon (© Alex Ratson/Getty Images)](https://cn.bing.com/th?id=OHR.SmithRockPark_EN-US0425629050_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Mon May 18 2026 06:55:26 GMT+0000 (Coordinated Universal Time) -->
+  ![Hawksbill Mountain in Shenandoah National Park, Virginia (© John Baggaley/Getty Images)](https://cn.bing.com/th?id=OHR.ShenandoahSunset_EN-US0482920183_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2026-05-17
+  2026-05-18
 
-  [Smith Rock State Park, Oregon (© Alex Ratson/Getty Images)](https://cn.bing.com/th?id=OHR.SmithRockPark_EN-US0425629050_UHD.jpg)
+  [Hawksbill Mountain in Shenandoah National Park, Virginia (© John Baggaley/Getty Images)](https://cn.bing.com/th?id=OHR.ShenandoahSunset_EN-US0482920183_UHD.jpg)
 <!-- END -->
 
 
