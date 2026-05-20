@@ -12,7 +12,7 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Tue May 19 2026 08:00:56 GMT+0000 (Coordinated Universal Time) -->
+<!--  Wed May 20 2026 06:47:24 GMT+0000 (Coordinated Universal Time) -->
   ![Formentor Lighthouse, Mallorca, Balearic Islands, Spain (© Allard Schager/Getty Images)](https://cn.bing.com/th?id=OHR.SpainLighthouse_EN-US0598364035_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
   2026-05-20
