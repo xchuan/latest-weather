@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Sat May 23 2026 06:11:09 GMT+0000 (Coordinated Universal Time) -->
-  ![Kauehi Atoll, Tuamotu Archipelago, French Polynesia (© WaterFrame_dpr/Alamy)](https://cn.bing.com/th?id=OHR.KauehiAtollLagoon_EN-US6299031230_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Sun May 24 2026 06:36:10 GMT+0000 (Coordinated Universal Time) -->
+  ![Turtles with butterflies (© Patrick Gallet/Getty Images)](https://cn.bing.com/th?id=OHR.ThreeTurtlesButterflies_EN-US0786859772_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2026-05-23
+  2026-05-24
 
-  [Kauehi Atoll, Tuamotu Archipelago, French Polynesia (© WaterFrame_dpr/Alamy)](https://cn.bing.com/th?id=OHR.KauehiAtollLagoon_EN-US6299031230_UHD.jpg)
+  [Turtles with butterflies (© Patrick Gallet/Getty Images)](https://cn.bing.com/th?id=OHR.ThreeTurtlesButterflies_EN-US0786859772_UHD.jpg)
 <!-- END -->
 
 
