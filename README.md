@@ -12,7 +12,7 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Mon May 25 2026 07:13:28 GMT+0000 (Coordinated Universal Time) -->
+<!--  Tue May 26 2026 06:45:18 GMT+0000 (Coordinated Universal Time) -->
   ![Memorial Amphitheater at Arlington National Cemetery, Arlington, Virginia (© idesignimages/Getty Images)](https://cn.bing.com/th?id=OHR.ArlingtonAmphitheater_EN-US0872772906_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
   2026-05-26
