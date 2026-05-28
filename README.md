@@ -12,7 +12,7 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Wed May 27 2026 07:02:33 GMT+0000 (Coordinated Universal Time) -->
+<!--  Thu May 28 2026 06:53:36 GMT+0000 (Coordinated Universal Time) -->
   ![Sea otter, Kachemak Bay, Homer, Alaska (© roclwyr/Getty Images)](https://cn.bing.com/th?id=OHR.OtterDay_EN-US0973120905_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
   2026-05-28
