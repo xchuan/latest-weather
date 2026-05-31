@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Sat May 30 2026 06:22:42 GMT+0000 (Coordinated Universal Time) -->
-  ![Mount Everest summit, Sagarmatha National Park, Nepal (© fotoVoyager/Getty Images)](https://cn.bing.com/th?id=OHR.SummitEverest_EN-US0552794971_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Sun May 31 2026 06:56:57 GMT+0000 (Coordinated Universal Time) -->
+  ![Plains zebra foal in Etosha National Park, Namibia (© Sharon Heald/Nature Picture Library)](https://cn.bing.com/th?id=OHR.EquusQuagga_EN-US8240577582_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2026-05-30
+  2026-05-31
 
-  [Mount Everest summit, Sagarmatha National Park, Nepal (© fotoVoyager/Getty Images)](https://cn.bing.com/th?id=OHR.SummitEverest_EN-US0552794971_UHD.jpg)
+  [Plains zebra foal in Etosha National Park, Namibia (© Sharon Heald/Nature Picture Library)](https://cn.bing.com/th?id=OHR.EquusQuagga_EN-US8240577582_UHD.jpg)
 <!-- END -->
 
 
