@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Sun May 31 2026 06:56:57 GMT+0000 (Coordinated Universal Time) -->
-  ![Plains zebra foal in Etosha National Park, Namibia (© Sharon Heald/Nature Picture Library)](https://cn.bing.com/th?id=OHR.EquusQuagga_EN-US8240577582_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Mon Jun 01 2026 08:33:20 GMT+0000 (Coordinated Universal Time) -->
+  ![Rainbow flags at Rockefeller Center on June 28, 2020, New York City (© Noam Galai/Getty Images)](https://cn.bing.com/th?id=OHR.RockefellerPride_EN-US1087499810_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2026-05-31
+  2026-06-02
 
-  [Plains zebra foal in Etosha National Park, Namibia (© Sharon Heald/Nature Picture Library)](https://cn.bing.com/th?id=OHR.EquusQuagga_EN-US8240577582_UHD.jpg)
+  [Rainbow flags at Rockefeller Center on June 28, 2020, New York City (© Noam Galai/Getty Images)](https://cn.bing.com/th?id=OHR.RockefellerPride_EN-US1087499810_UHD.jpg)
 <!-- END -->
 
 
