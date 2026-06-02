@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Mon Jun 01 2026 08:33:20 GMT+0000 (Coordinated Universal Time) -->
-  ![Rainbow flags at Rockefeller Center on June 28, 2020, New York City (© Noam Galai/Getty Images)](https://cn.bing.com/th?id=OHR.RockefellerPride_EN-US1087499810_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Tue Jun 02 2026 07:22:54 GMT+0000 (Coordinated Universal Time) -->
+  ![Highway through Xitai Jinaier Lake, Qinghai Province, China (© Kaicheng Xu/Getty Images)](https://cn.bing.com/th?id=OHR.Qinghai_EN-US8807254633_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2026-06-02
+  2026-06-03
 
-  [Rainbow flags at Rockefeller Center on June 28, 2020, New York City (© Noam Galai/Getty Images)](https://cn.bing.com/th?id=OHR.RockefellerPride_EN-US1087499810_UHD.jpg)
+  [Highway through Xitai Jinaier Lake, Qinghai Province, China (© Kaicheng Xu/Getty Images)](https://cn.bing.com/th?id=OHR.Qinghai_EN-US8807254633_UHD.jpg)
 <!-- END -->
 
 
