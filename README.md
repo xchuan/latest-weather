@@ -12,7 +12,7 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Tue Jun 02 2026 07:22:54 GMT+0000 (Coordinated Universal Time) -->
+<!--  Tue Jun 02 2026 08:52:00 GMT+0000 (Coordinated Universal Time) -->
   ![Highway through Xitai Jinaier Lake, Qinghai Province, China (© Kaicheng Xu/Getty Images)](https://cn.bing.com/th?id=OHR.Qinghai_EN-US8807254633_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
   2026-06-03
