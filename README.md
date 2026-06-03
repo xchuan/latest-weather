@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Tue Jun 02 2026 08:52:00 GMT+0000 (Coordinated Universal Time) -->
-  ![Highway through Xitai Jinaier Lake, Qinghai Province, China (© Kaicheng Xu/Getty Images)](https://cn.bing.com/th?id=OHR.Qinghai_EN-US8807254633_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Wed Jun 03 2026 08:14:48 GMT+0000 (Coordinated Universal Time) -->
+  ![Cyclist in Bardenas Reales Natural Park and Biosphere Reserve, Navarra, Spain (© Artur Debat/Getty Images)](https://cn.bing.com/th?id=OHR.BardenasReales_EN-US9044910730_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2026-06-03
+  2026-06-04
 
-  [Highway through Xitai Jinaier Lake, Qinghai Province, China (© Kaicheng Xu/Getty Images)](https://cn.bing.com/th?id=OHR.Qinghai_EN-US8807254633_UHD.jpg)
+  [Cyclist in Bardenas Reales Natural Park and Biosphere Reserve, Navarra, Spain (© Artur Debat/Getty Images)](https://cn.bing.com/th?id=OHR.BardenasReales_EN-US9044910730_UHD.jpg)
 <!-- END -->
 
 
