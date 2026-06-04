@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Wed Jun 03 2026 08:14:48 GMT+0000 (Coordinated Universal Time) -->
-  ![Cyclist in Bardenas Reales Natural Park and Biosphere Reserve, Navarra, Spain (© Artur Debat/Getty Images)](https://cn.bing.com/th?id=OHR.BardenasReales_EN-US9044910730_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Thu Jun 04 2026 07:22:53 GMT+0000 (Coordinated Universal Time) -->
+  ![Snowy egret preening, central Florida, USA (© Donald M. Jones/Minden Pictures)](https://cn.bing.com/th?id=OHR.PreeningEgret_EN-US9350488148_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2026-06-04
+  2026-06-05
 
-  [Cyclist in Bardenas Reales Natural Park and Biosphere Reserve, Navarra, Spain (© Artur Debat/Getty Images)](https://cn.bing.com/th?id=OHR.BardenasReales_EN-US9044910730_UHD.jpg)
+  [Snowy egret preening, central Florida, USA (© Donald M. Jones/Minden Pictures)](https://cn.bing.com/th?id=OHR.PreeningEgret_EN-US9350488148_UHD.jpg)
 <!-- END -->
 
 
