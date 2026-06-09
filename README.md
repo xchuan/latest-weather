@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Sun Jun 07 2026 07:04:18 GMT+0000 (Coordinated Universal Time) -->
-  ![Atlanta Botanical Garden, Atlanta, Georgia (© Marcus E Jones/Shutterstock)](https://cn.bing.com/th?id=OHR.GardenAtlanta_EN-US2319128074_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Tue Jun 09 2026 06:48:57 GMT+0000 (Coordinated Universal Time) -->
+  ![Lion's mane jellyfish swimming in the ocean (© Alexander Semenov Images/Shutterstock)](https://cn.bing.com/th?id=OHR.Cyanea_EN-US1146473249_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2026-06-08
+  2026-06-09
 
-  [Atlanta Botanical Garden, Atlanta, Georgia (© Marcus E Jones/Shutterstock)](https://cn.bing.com/th?id=OHR.GardenAtlanta_EN-US2319128074_UHD.jpg)
+  [Lion's mane jellyfish swimming in the ocean (© Alexander Semenov Images/Shutterstock)](https://cn.bing.com/th?id=OHR.Cyanea_EN-US1146473249_UHD.jpg)
 <!-- END -->
 
 
