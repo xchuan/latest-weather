@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Tue Jun 09 2026 06:48:57 GMT+0000 (Coordinated Universal Time) -->
-  ![Lion's mane jellyfish swimming in the ocean (© Alexander Semenov Images/Shutterstock)](https://cn.bing.com/th?id=OHR.Cyanea_EN-US1146473249_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Tue Jun 09 2026 08:06:17 GMT+0000 (Coordinated Universal Time) -->
+  ![Vernazza, Cinque Terre, Liguria, Italy (© Kelly Cheng/Getty Images)](https://cn.bing.com/th?id=OHR.CTNPVernazza_EN-US1571456265_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2026-06-09
+  2026-06-10
 
-  [Lion's mane jellyfish swimming in the ocean (© Alexander Semenov Images/Shutterstock)](https://cn.bing.com/th?id=OHR.Cyanea_EN-US1146473249_UHD.jpg)
+  [Vernazza, Cinque Terre, Liguria, Italy (© Kelly Cheng/Getty Images)](https://cn.bing.com/th?id=OHR.CTNPVernazza_EN-US1571456265_UHD.jpg)
 <!-- END -->
 
 
