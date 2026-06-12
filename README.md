@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Thu Jun 11 2026 08:01:39 GMT+0000 (Coordinated Universal Time) -->
-  ![Limpets exposed at low tide on the coast of Praia da Ursa, Portugal (© Theo Bosboom/Nature Picture Library)](https://cn.bing.com/th?id=OHR.Limpets_EN-US1055673545_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Fri Jun 12 2026 07:21:33 GMT+0000 (Coordinated Universal Time) -->
+  ![European bee-eater, Sierra de Grazalema Natural Park, Cádiz, Spain (© Andres M. Dominguez/Nature Picture Library)](https://cn.bing.com/th?id=OHR.SpainBeeEater_EN-US5920719155_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2026-06-12
+  2026-06-13
 
-  [Limpets exposed at low tide on the coast of Praia da Ursa, Portugal (© Theo Bosboom/Nature Picture Library)](https://cn.bing.com/th?id=OHR.Limpets_EN-US1055673545_UHD.jpg)
+  [European bee-eater, Sierra de Grazalema Natural Park, Cádiz, Spain (© Andres M. Dominguez/Nature Picture Library)](https://cn.bing.com/th?id=OHR.SpainBeeEater_EN-US5920719155_UHD.jpg)
 <!-- END -->
 
 
