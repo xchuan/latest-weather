@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Sat Jun 13 2026 06:57:11 GMT+0000 (Coordinated Universal Time) -->
-  ![European bee-eater, Sierra de Grazalema Natural Park, Cádiz, Spain (© Andres M. Dominguez/Nature Picture Library)](https://cn.bing.com/th?id=OHR.SpainBeeEater_EN-US5920719155_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Sun Jun 14 2026 07:21:39 GMT+0000 (Coordinated Universal Time) -->
+  ![US flags surrounding the Washington Monument, Washington, DC  (© Orhan Cam/Shutterstock)](https://cn.bing.com/th?id=OHR.FlagsMonument_EN-US6034154869_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2026-06-13
+  2026-06-15
 
-  [European bee-eater, Sierra de Grazalema Natural Park, Cádiz, Spain (© Andres M. Dominguez/Nature Picture Library)](https://cn.bing.com/th?id=OHR.SpainBeeEater_EN-US5920719155_UHD.jpg)
+  [US flags surrounding the Washington Monument, Washington, DC  (© Orhan Cam/Shutterstock)](https://cn.bing.com/th?id=OHR.FlagsMonument_EN-US6034154869_UHD.jpg)
 <!-- END -->
 
 
