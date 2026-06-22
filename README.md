@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Sun Jun 21 2026 07:58:49 GMT+0000 (Coordinated Universal Time) -->
-  ![King penguin father checking egg (© McDonald Wildlife Photography Inc./Getty Images)](https://cn.bing.com/th?id=OHR.EggDad_EN-US6390221455_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Mon Jun 22 2026 08:56:24 GMT+0000 (Coordinated Universal Time) -->
+  ![Quinault rainforest, Olympic National Park, Washington state (© Chris Moore/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.QuinaultFerns_EN-US6436576493_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2026-06-22
+  2026-06-23
 
-  [King penguin father checking egg (© McDonald Wildlife Photography Inc./Getty Images)](https://cn.bing.com/th?id=OHR.EggDad_EN-US6390221455_UHD.jpg)
+  [Quinault rainforest, Olympic National Park, Washington state (© Chris Moore/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.QuinaultFerns_EN-US6436576493_UHD.jpg)
 <!-- END -->
 
 
