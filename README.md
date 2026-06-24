@@ -12,7 +12,7 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Tue Jun 23 2026 08:03:00 GMT+0000 (Coordinated Universal Time) -->
+<!--  Wed Jun 24 2026 06:47:43 GMT+0000 (Coordinated Universal Time) -->
   ![Mount Fuji on Honshu Island, Japan (© phutthiseth thongtae/Getty Images)](https://cn.bing.com/th?id=OHR.Fujisan_EN-US6479372200_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
   2026-06-24
