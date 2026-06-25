@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Wed Jun 24 2026 06:47:43 GMT+0000 (Coordinated Universal Time) -->
-  ![Mount Fuji on Honshu Island, Japan (© phutthiseth thongtae/Getty Images)](https://cn.bing.com/th?id=OHR.Fujisan_EN-US6479372200_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Thu Jun 25 2026 06:46:45 GMT+0000 (Coordinated Universal Time) -->
+  ![Butterfly pollinating on yellow flower (© lzh/Getty Images)](https://cn.bing.com/th?id=OHR.BFPollin_EN-US6519187095_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2026-06-24
+  2026-06-25
 
-  [Mount Fuji on Honshu Island, Japan (© phutthiseth thongtae/Getty Images)](https://cn.bing.com/th?id=OHR.Fujisan_EN-US6479372200_UHD.jpg)
+  [Butterfly pollinating on yellow flower (© lzh/Getty Images)](https://cn.bing.com/th?id=OHR.BFPollin_EN-US6519187095_UHD.jpg)
 <!-- END -->
 
 
