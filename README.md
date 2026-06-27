@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Fri Jun 26 2026 06:53:59 GMT+0000 (Coordinated Universal Time) -->
-  ![Buildings on Grand-Place Square in Brussels, Belgium (© Vladislav Zolotov/Getty Images Plus)](https://cn.bing.com/th?id=OHR.GrandPlace_EN-US6561229456_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Sat Jun 27 2026 06:28:22 GMT+0000 (Coordinated Universal Time) -->
+  ![The River Thames, London, England (© Daniel Lange/Getty Images)](https://cn.bing.com/th?id=OHR.ThamesSummer_EN-US6783349970_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2026-06-26
+  2026-06-27
 
-  [Buildings on Grand-Place Square in Brussels, Belgium (© Vladislav Zolotov/Getty Images Plus)](https://cn.bing.com/th?id=OHR.GrandPlace_EN-US6561229456_UHD.jpg)
+  [The River Thames, London, England (© Daniel Lange/Getty Images)](https://cn.bing.com/th?id=OHR.ThamesSummer_EN-US6783349970_UHD.jpg)
 <!-- END -->
 
 
