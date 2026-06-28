@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Sat Jun 27 2026 06:28:22 GMT+0000 (Coordinated Universal Time) -->
-  ![The River Thames, London, England (© Daniel Lange/Getty Images)](https://cn.bing.com/th?id=OHR.ThamesSummer_EN-US6783349970_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Sun Jun 28 2026 07:01:09 GMT+0000 (Coordinated Universal Time) -->
+  ![Saguaro cacti near Windgate Pass, McDowell Range, Arizona, USA (© Eric Mischke/Getty Images)](https://cn.bing.com/th?id=OHR.SaguaroSun_EN-US8982109543_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2026-06-27
+  2026-06-29
 
-  [The River Thames, London, England (© Daniel Lange/Getty Images)](https://cn.bing.com/th?id=OHR.ThamesSummer_EN-US6783349970_UHD.jpg)
+  [Saguaro cacti near Windgate Pass, McDowell Range, Arizona, USA (© Eric Mischke/Getty Images)](https://cn.bing.com/th?id=OHR.SaguaroSun_EN-US8982109543_UHD.jpg)
 <!-- END -->
 
 
