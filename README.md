@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Tue Jun 30 2026 06:54:32 GMT+0000 (Coordinated Universal Time) -->
-  ![Bora Bora and its lagoon, South Pacific, French Polynesia (© Frederick Millett/Shutterstock)](https://cn.bing.com/th?id=OHR.BoraBoraLagoon_EN-US1491116478_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Tue Jun 30 2026 08:05:22 GMT+0000 (Coordinated Universal Time) -->
+  ![Giraffes at sunset in the Masai Mara National Reserve, Kenya (© danm/Getty Images)](https://cn.bing.com/th?id=OHR.MasaiGiraffe_EN-US2240704874_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2026-06-30
+  2026-07-01
 
-  [Bora Bora and its lagoon, South Pacific, French Polynesia (© Frederick Millett/Shutterstock)](https://cn.bing.com/th?id=OHR.BoraBoraLagoon_EN-US1491116478_UHD.jpg)
+  [Giraffes at sunset in the Masai Mara National Reserve, Kenya (© danm/Getty Images)](https://cn.bing.com/th?id=OHR.MasaiGiraffe_EN-US2240704874_UHD.jpg)
 <!-- END -->
 
 
