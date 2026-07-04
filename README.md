@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Fri Jul 03 2026 06:30:45 GMT+0000 (Coordinated Universal Time) -->
-  ![Ceiling of the Temple of Esna, Egypt (© Nick Brundle Photography/Getty Images)](https://cn.bing.com/th?id=OHR.TempleEsna_EN-US1999215513_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Sat Jul 04 2026 06:17:45 GMT+0000 (Coordinated Universal Time) -->
+  ![Fireflies glowing above a stream, Okayama Prefecture, Japan (© tdub303/Getty Images)](https://cn.bing.com/th?id=OHR.FirefliesJapan_EN-US2315956275_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2026-07-03
+  2026-07-04
 
-  [Ceiling of the Temple of Esna, Egypt (© Nick Brundle Photography/Getty Images)](https://cn.bing.com/th?id=OHR.TempleEsna_EN-US1999215513_UHD.jpg)
+  [Fireflies glowing above a stream, Okayama Prefecture, Japan (© tdub303/Getty Images)](https://cn.bing.com/th?id=OHR.FirefliesJapan_EN-US2315956275_UHD.jpg)
 <!-- END -->
 
 
