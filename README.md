@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Sat Jul 04 2026 06:17:45 GMT+0000 (Coordinated Universal Time) -->
-  ![Fireflies glowing above a stream, Okayama Prefecture, Japan (© tdub303/Getty Images)](https://cn.bing.com/th?id=OHR.FirefliesJapan_EN-US2315956275_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Sun Jul 05 2026 06:39:09 GMT+0000 (Coordinated Universal Time) -->
+  ![Liberty Bell and Independence Hall, Independence National Historical Park, Philadelphia, Pennsylvania (© f11photo/Shutterstock)](https://cn.bing.com/th?id=OHR.LibertyHall_EN-US2562041614_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2026-07-04
+  2026-07-05
 
-  [Fireflies glowing above a stream, Okayama Prefecture, Japan (© tdub303/Getty Images)](https://cn.bing.com/th?id=OHR.FirefliesJapan_EN-US2315956275_UHD.jpg)
+  [Liberty Bell and Independence Hall, Independence National Historical Park, Philadelphia, Pennsylvania (© f11photo/Shutterstock)](https://cn.bing.com/th?id=OHR.LibertyHall_EN-US2562041614_UHD.jpg)
 <!-- END -->
 
 
