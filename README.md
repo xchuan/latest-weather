@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Sat Jul 11 2026 05:38:44 GMT+0000 (Coordinated Universal Time) -->
-  ![Aerial view of land and ocean, Victoria, Australia (© Nearmap/Getty Images)](https://cn.bing.com/th?id=OHR.VictoriaBeach_EN-US7607379912_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Sun Jul 12 2026 05:55:59 GMT+0000 (Coordinated Universal Time) -->
+  ![Port de Saint-Goustan, Auray, Brittany, France (© Rolf E. Staerk/Shutterstock)](https://cn.bing.com/th?id=OHR.AurayBrittany_EN-US7890619884_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2026-07-11
+  2026-07-12
 
-  [Aerial view of land and ocean, Victoria, Australia (© Nearmap/Getty Images)](https://cn.bing.com/th?id=OHR.VictoriaBeach_EN-US7607379912_UHD.jpg)
+  [Port de Saint-Goustan, Auray, Brittany, France (© Rolf E. Staerk/Shutterstock)](https://cn.bing.com/th?id=OHR.AurayBrittany_EN-US7890619884_UHD.jpg)
 <!-- END -->
 
 
