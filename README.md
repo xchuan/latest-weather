@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Wed Jul 15 2026 05:28:56 GMT+0000 (Coordinated Universal Time) -->
-  ![Lemon shark pup in mangrove forest, Eleuthera, Bahamas (© Shane Gross/Nature Picture Library)](https://cn.bing.com/th?id=OHR.LemonShark_EN-US9828936448_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Thu Jul 16 2026 05:38:25 GMT+0000 (Coordinated Universal Time) -->
+  ![Marie Lake, John Muir Wilderness near Bishop, California (© Steve Dunleavy/Getty Images)](https://cn.bing.com/th?id=OHR.MarieLake_EN-US0365186943_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2026-07-15
+  2026-07-16
 
-  [Lemon shark pup in mangrove forest, Eleuthera, Bahamas (© Shane Gross/Nature Picture Library)](https://cn.bing.com/th?id=OHR.LemonShark_EN-US9828936448_UHD.jpg)
+  [Marie Lake, John Muir Wilderness near Bishop, California (© Steve Dunleavy/Getty Images)](https://cn.bing.com/th?id=OHR.MarieLake_EN-US0365186943_UHD.jpg)
 <!-- END -->
 
 
