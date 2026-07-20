@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Sun Jul 19 2026 05:50:18 GMT+0000 (Coordinated Universal Time) -->
-  ![Devil's Bridge in Rhododendron Park Kromlau, Saxony, Germany (© Mike Mareen/Getty Images)](https://cn.bing.com/th?id=OHR.DevilsBridge_EN-US3505962815_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Mon Jul 20 2026 06:16:23 GMT+0000 (Coordinated Universal Time) -->
+  ![Barn swallows of different subspecies resting together (© Oscar Dominguez/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.HirundoRustica_EN-US3193611104_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2026-07-19
+  2026-07-20
 
-  [Devil's Bridge in Rhododendron Park Kromlau, Saxony, Germany (© Mike Mareen/Getty Images)](https://cn.bing.com/th?id=OHR.DevilsBridge_EN-US3505962815_UHD.jpg)
+  [Barn swallows of different subspecies resting together (© Oscar Dominguez/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.HirundoRustica_EN-US3193611104_UHD.jpg)
 <!-- END -->
 
 
