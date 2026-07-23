@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Wed Jul 22 2026 05:48:00 GMT+0000 (Coordinated Universal Time) -->
-  ![Santa Catalina Arch, Antigua, Guatemala (© Filippo Maria Bianchi/Getty Images)](https://cn.bing.com/th?id=OHR.SantaCatalina_EN-US1116829215_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Thu Jul 23 2026 05:51:25 GMT+0000 (Coordinated Universal Time) -->
+  ![Coral reef and beach in Raja Ampat, Indonesia (© SergeUWPhoto/Shutterstock)](https://cn.bing.com/th?id=OHR.CoralAwareness_EN-US1824657819_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2026-07-22
+  2026-07-23
 
-  [Santa Catalina Arch, Antigua, Guatemala (© Filippo Maria Bianchi/Getty Images)](https://cn.bing.com/th?id=OHR.SantaCatalina_EN-US1116829215_UHD.jpg)
+  [Coral reef and beach in Raja Ampat, Indonesia (© SergeUWPhoto/Shutterstock)](https://cn.bing.com/th?id=OHR.CoralAwareness_EN-US1824657819_UHD.jpg)
 <!-- END -->
 
 
