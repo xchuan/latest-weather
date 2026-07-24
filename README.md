@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Thu Jul 23 2026 05:51:25 GMT+0000 (Coordinated Universal Time) -->
-  ![Coral reef and beach in Raja Ampat, Indonesia (© SergeUWPhoto/Shutterstock)](https://cn.bing.com/th?id=OHR.CoralAwareness_EN-US1824657819_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Fri Jul 24 2026 05:48:38 GMT+0000 (Coordinated Universal Time) -->
+  ![Pink dahlia flower (© Harald Biebel/Getty Images)](https://cn.bing.com/th?id=OHR.PinkDahlia_EN-US1957205704_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2026-07-23
+  2026-07-24
 
-  [Coral reef and beach in Raja Ampat, Indonesia (© SergeUWPhoto/Shutterstock)](https://cn.bing.com/th?id=OHR.CoralAwareness_EN-US1824657819_UHD.jpg)
+  [Pink dahlia flower (© Harald Biebel/Getty Images)](https://cn.bing.com/th?id=OHR.PinkDahlia_EN-US1957205704_UHD.jpg)
 <!-- END -->
 
 
