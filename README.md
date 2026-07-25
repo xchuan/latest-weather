@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Fri Jul 24 2026 05:48:38 GMT+0000 (Coordinated Universal Time) -->
-  ![Pink dahlia flower (© Harald Biebel/Getty Images)](https://cn.bing.com/th?id=OHR.PinkDahlia_EN-US1957205704_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Sat Jul 25 2026 05:41:02 GMT+0000 (Coordinated Universal Time) -->
+  ![Flock of American flamingos, Isabela Island, Galápagos Islands, Ecuador (© Tui De Roy/Nature Picture Library)](https://cn.bing.com/th?id=OHR.GalapagosFlamingos_EN-US0364264116_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2026-07-24
+  2026-07-25
 
-  [Pink dahlia flower (© Harald Biebel/Getty Images)](https://cn.bing.com/th?id=OHR.PinkDahlia_EN-US1957205704_UHD.jpg)
+  [Flock of American flamingos, Isabela Island, Galápagos Islands, Ecuador (© Tui De Roy/Nature Picture Library)](https://cn.bing.com/th?id=OHR.GalapagosFlamingos_EN-US0364264116_UHD.jpg)
 <!-- END -->
 
 
