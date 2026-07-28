@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Tue Jul 28 2026 05:44:25 GMT+0000 (Coordinated Universal Time) -->
-  ![Tiffany Dome, Chicago Cultural Center, Illinois (© Felix Lipov/Shutterstock)](https://cn.bing.com/th?id=OHR.ChicagoTiffany_EN-US3297949501_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Tue Jul 28 2026 07:14:15 GMT+0000 (Coordinated Universal Time) -->
+  ![A kelp forest off Anacapa Island, Channel Islands National Park, California (© Ian Shive/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.ChannelKelp_EN-US3809417919_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2026-07-28
+  2026-07-29
 
-  [Tiffany Dome, Chicago Cultural Center, Illinois (© Felix Lipov/Shutterstock)](https://cn.bing.com/th?id=OHR.ChicagoTiffany_EN-US3297949501_UHD.jpg)
+  [A kelp forest off Anacapa Island, Channel Islands National Park, California (© Ian Shive/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.ChannelKelp_EN-US3809417919_UHD.jpg)
 <!-- END -->
 
 
