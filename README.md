@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Wed Jul 29 2026 05:50:22 GMT+0000 (Coordinated Universal Time) -->
-  ![A kelp forest off Anacapa Island, Channel Islands National Park, California (© Ian Shive/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.ChannelKelp_EN-US3809417919_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Thu Jul 30 2026 05:38:41 GMT+0000 (Coordinated Universal Time) -->
+  ![A family of Bengal tigers at Ranthambore National Park, Rajasthan, India (© Archna Singh/Shutterstock)](https://cn.bing.com/th?id=OHR.TigerFamily_EN-US4918106900_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2026-07-29
+  2026-07-30
 
-  [A kelp forest off Anacapa Island, Channel Islands National Park, California (© Ian Shive/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.ChannelKelp_EN-US3809417919_UHD.jpg)
+  [A family of Bengal tigers at Ranthambore National Park, Rajasthan, India (© Archna Singh/Shutterstock)](https://cn.bing.com/th?id=OHR.TigerFamily_EN-US4918106900_UHD.jpg)
 <!-- END -->
 
 
