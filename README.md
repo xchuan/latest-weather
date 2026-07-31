@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Thu Jul 30 2026 05:38:41 GMT+0000 (Coordinated Universal Time) -->
-  ![A family of Bengal tigers at Ranthambore National Park, Rajasthan, India (© Archna Singh/Shutterstock)](https://cn.bing.com/th?id=OHR.TigerFamily_EN-US4918106900_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Fri Jul 31 2026 06:11:06 GMT+0000 (Coordinated Universal Time) -->
+  ![Monument Valley, Navajo Nation, Arizona (© Westend61/Adobe Stock)](https://cn.bing.com/th?id=OHR.NavajoNation_EN-US6947714656_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2026-07-30
+  2026-07-31
 
-  [A family of Bengal tigers at Ranthambore National Park, Rajasthan, India (© Archna Singh/Shutterstock)](https://cn.bing.com/th?id=OHR.TigerFamily_EN-US4918106900_UHD.jpg)
+  [Monument Valley, Navajo Nation, Arizona (© Westend61/Adobe Stock)](https://cn.bing.com/th?id=OHR.NavajoNation_EN-US6947714656_UHD.jpg)
 <!-- END -->
 
 
