@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Fri Jul 31 2026 06:11:06 GMT+0000 (Coordinated Universal Time) -->
-  ![Monument Valley, Navajo Nation, Arizona (© Westend61/Adobe Stock)](https://cn.bing.com/th?id=OHR.NavajoNation_EN-US6947714656_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Sat Aug 01 2026 05:52:58 GMT+0000 (Coordinated Universal Time) -->
+  ![Aerial view of the Virginia Creeper Trail, Damascus, Virginia (© Eifel Kreutz/Getty Images)](https://cn.bing.com/th?id=OHR.VirginiaTrail_EN-US9403114082_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2026-07-31
+  2026-08-01
 
-  [Monument Valley, Navajo Nation, Arizona (© Westend61/Adobe Stock)](https://cn.bing.com/th?id=OHR.NavajoNation_EN-US6947714656_UHD.jpg)
+  [Aerial view of the Virginia Creeper Trail, Damascus, Virginia (© Eifel Kreutz/Getty Images)](https://cn.bing.com/th?id=OHR.VirginiaTrail_EN-US9403114082_UHD.jpg)
 <!-- END -->
 
 
