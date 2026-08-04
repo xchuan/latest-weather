@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Mon Aug 03 2026 06:20:48 GMT+0000 (Coordinated Universal Time) -->
-  ![Helsinki's shoreline during blue hour, Uusimaa, Finland (© Miemo Penttinen/Getty Images)](https://cn.bing.com/th?id=OHR.HelsinkiBlue_EN-US4898215906_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Tue Aug 04 2026 05:44:36 GMT+0000 (Coordinated Universal Time) -->
+  ![Colorful boats in Marsaxlokk Harbor, Malta (© Klubovy/Getty Images)](https://cn.bing.com/th?id=OHR.BoatsMalta_EN-US5373607495_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2026-08-03
+  2026-08-04
 
-  [Helsinki's shoreline during blue hour, Uusimaa, Finland (© Miemo Penttinen/Getty Images)](https://cn.bing.com/th?id=OHR.HelsinkiBlue_EN-US4898215906_UHD.jpg)
+  [Colorful boats in Marsaxlokk Harbor, Malta (© Klubovy/Getty Images)](https://cn.bing.com/th?id=OHR.BoatsMalta_EN-US5373607495_UHD.jpg)
 <!-- END -->
 
 
