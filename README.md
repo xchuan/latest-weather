@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Mon Aug 10 2026 04:27:17 GMT+0000 (Coordinated Universal Time) -->
-  ![Jean-Marie Tjibaou Cultural Centre, New Caledonia (© Fabien Astre/Alamy)](https://cn.bing.com/th?id=OHR.JMTjibaou_EN-US3454380257_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Tue Aug 11 2026 04:17:22 GMT+0000 (Coordinated Universal Time) -->
+  ![Joshua Tree National Park, California (© JJ Landscapes/Getty Images)](https://cn.bing.com/th?id=OHR.SandPath_EN-US3759872156_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2026-08-10
+  2026-08-11
 
-  [Jean-Marie Tjibaou Cultural Centre, New Caledonia (© Fabien Astre/Alamy)](https://cn.bing.com/th?id=OHR.JMTjibaou_EN-US3454380257_UHD.jpg)
+  [Joshua Tree National Park, California (© JJ Landscapes/Getty Images)](https://cn.bing.com/th?id=OHR.SandPath_EN-US3759872156_UHD.jpg)
 <!-- END -->
 
 
