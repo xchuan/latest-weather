@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Tue Aug 11 2026 05:34:41 GMT+0000 (Coordinated Universal Time) -->
-  ![Joshua Tree National Park, California (© JJ Landscapes/Getty Images)](https://cn.bing.com/th?id=OHR.SandPath_EN-US3759872156_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Wed Aug 12 2026 04:45:05 GMT+0000 (Coordinated Universal Time) -->
+  ![Colorful homes line Nyhavn Canal, Copenhagen, Denmark (© emicristea/Getty Images)](https://cn.bing.com/th?id=OHR.ColorfulCop_EN-US3993977654_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2026-08-11
+  2026-08-12
 
-  [Joshua Tree National Park, California (© JJ Landscapes/Getty Images)](https://cn.bing.com/th?id=OHR.SandPath_EN-US3759872156_UHD.jpg)
+  [Colorful homes line Nyhavn Canal, Copenhagen, Denmark (© emicristea/Getty Images)](https://cn.bing.com/th?id=OHR.ColorfulCop_EN-US3993977654_UHD.jpg)
 <!-- END -->
 
 
