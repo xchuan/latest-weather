@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Sun Aug 16 2026 03:45:36 GMT+0000 (Coordinated Universal Time) -->
-  ![Hoodoos in Ah Shi Sle Pah Wilderness in San Juan County, New Mexico (© Westend61/Getty Images)](https://cn.bing.com/th?id=OHR.ValleyDreams_EN-US5250331985_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Mon Aug 17 2026 03:47:42 GMT+0000 (Coordinated Universal Time) -->
+  ![Ruins of Ross Errilly Friary, County Galway, Ireland (© Maria Janus/Shutterstock)](https://cn.bing.com/th?id=OHR.RossErrillyRuins_EN-US5729358123_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2026-08-16
+  2026-08-17
 
-  [Hoodoos in Ah Shi Sle Pah Wilderness in San Juan County, New Mexico (© Westend61/Getty Images)](https://cn.bing.com/th?id=OHR.ValleyDreams_EN-US5250331985_UHD.jpg)
+  [Ruins of Ross Errilly Friary, County Galway, Ireland (© Maria Janus/Shutterstock)](https://cn.bing.com/th?id=OHR.RossErrillyRuins_EN-US5729358123_UHD.jpg)
 <!-- END -->
 
 
