@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Tue Aug 18 2026 05:01:50 GMT+0000 (Coordinated Universal Time) -->
-  ![Three false clownfish in a sea anemone, Cabilao Island, Bohol, Philippines (© Franco Banfi/Nature Picture Library)](https://cn.bing.com/th?id=OHR.CabilaoClowns_EN-US6302440247_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Wed Aug 19 2026 03:43:50 GMT+0000 (Coordinated Universal Time) -->
+  ![Aerial view of Palmanova, a fortress city in Friuli, Italy (© Riccardo Saponi/Getty Images)](https://cn.bing.com/th?id=OHR.Palmanova_EN-US0340289339_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2026-08-18
+  2026-08-19
 
-  [Three false clownfish in a sea anemone, Cabilao Island, Bohol, Philippines (© Franco Banfi/Nature Picture Library)](https://cn.bing.com/th?id=OHR.CabilaoClowns_EN-US6302440247_UHD.jpg)
+  [Aerial view of Palmanova, a fortress city in Friuli, Italy (© Riccardo Saponi/Getty Images)](https://cn.bing.com/th?id=OHR.Palmanova_EN-US0340289339_UHD.jpg)
 <!-- END -->
 
 
