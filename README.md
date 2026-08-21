@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Thu Aug 20 2026 03:43:49 GMT+0000 (Coordinated Universal Time) -->
-  ![NASA's Langley Research Center mounted the Navy's Brewster XF2A-1 Buffalo in the Full-Scale Tunnel, 1938, Hampton, Virginia (© NASA)](https://cn.bing.com/th?id=OHR.BrewsterXF2A_EN-US0417477370_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Fri Aug 21 2026 03:48:26 GMT+0000 (Coordinated Universal Time) -->
+  ![An orca surfaces in Lynn Canal near the Chilkat Mountains, Alaska (© John Hyde/Alamy)](https://cn.bing.com/th?id=OHR.LynnCanalOrca_EN-US0537229184_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2026-08-20
+  2026-08-21
 
-  [NASA's Langley Research Center mounted the Navy's Brewster XF2A-1 Buffalo in the Full-Scale Tunnel, 1938, Hampton, Virginia (© NASA)](https://cn.bing.com/th?id=OHR.BrewsterXF2A_EN-US0417477370_UHD.jpg)
+  [An orca surfaces in Lynn Canal near the Chilkat Mountains, Alaska (© John Hyde/Alamy)](https://cn.bing.com/th?id=OHR.LynnCanalOrca_EN-US0537229184_UHD.jpg)
 <!-- END -->
 
 
