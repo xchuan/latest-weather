@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Fri Aug 21 2026 03:48:26 GMT+0000 (Coordinated Universal Time) -->
-  ![An orca surfaces in Lynn Canal near the Chilkat Mountains, Alaska (© John Hyde/Alamy)](https://cn.bing.com/th?id=OHR.LynnCanalOrca_EN-US0537229184_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Sat Aug 22 2026 03:39:14 GMT+0000 (Coordinated Universal Time) -->
+  ![Winding road of Julier Pass, Switzerland (© Westend61/Getty Images)](https://cn.bing.com/th?id=OHR.JulierPass_EN-US2643379571_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2026-08-21
+  2026-08-22
 
-  [An orca surfaces in Lynn Canal near the Chilkat Mountains, Alaska (© John Hyde/Alamy)](https://cn.bing.com/th?id=OHR.LynnCanalOrca_EN-US0537229184_UHD.jpg)
+  [Winding road of Julier Pass, Switzerland (© Westend61/Getty Images)](https://cn.bing.com/th?id=OHR.JulierPass_EN-US2643379571_UHD.jpg)
 <!-- END -->
 
 
