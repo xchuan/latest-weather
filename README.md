@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Sat Aug 22 2026 03:39:14 GMT+0000 (Coordinated Universal Time) -->
-  ![Winding road of Julier Pass, Switzerland (© Westend61/Getty Images)](https://cn.bing.com/th?id=OHR.JulierPass_EN-US2643379571_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Sun Aug 23 2026 03:48:14 GMT+0000 (Coordinated Universal Time) -->
+  ![Common blue butterfly, Devon, England (© Ross Hoddinott/Nature Picture Library)](https://cn.bing.com/th?id=OHR.CommonBlue_EN-US2760688799_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2026-08-22
+  2026-08-23
 
-  [Winding road of Julier Pass, Switzerland (© Westend61/Getty Images)](https://cn.bing.com/th?id=OHR.JulierPass_EN-US2643379571_UHD.jpg)
+  [Common blue butterfly, Devon, England (© Ross Hoddinott/Nature Picture Library)](https://cn.bing.com/th?id=OHR.CommonBlue_EN-US2760688799_UHD.jpg)
 <!-- END -->
 
 
