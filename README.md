@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Thu Aug 27 2026 13:47:31 GMT+0000 (Coordinated Universal Time) -->
-  ![Lesser flamingo flock at sunrise, Lake Magadi, Kenya (© Denis-Huot/Nature Picture Library)](https://cn.bing.com/th?id=OHR.LakeMagadi_EN-US3401664434_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Fri Aug 28 2026 14:53:56 GMT+0000 (Coordinated Universal Time) -->
+  ![Mont-Saint-Michel during high tide, Manche, Normandy, France (© Clement LEONARD/Getty Images)](https://cn.bing.com/th?id=OHR.MichelSunset_EN-US3527235033_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2026-08-28
+  2026-08-29
 
-  [Lesser flamingo flock at sunrise, Lake Magadi, Kenya (© Denis-Huot/Nature Picture Library)](https://cn.bing.com/th?id=OHR.LakeMagadi_EN-US3401664434_UHD.jpg)
+  [Mont-Saint-Michel during high tide, Manche, Normandy, France (© Clement LEONARD/Getty Images)](https://cn.bing.com/th?id=OHR.MichelSunset_EN-US3527235033_UHD.jpg)
 <!-- END -->
 
 
