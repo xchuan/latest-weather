@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Fri Aug 28 2026 14:53:56 GMT+0000 (Coordinated Universal Time) -->
-  ![Mont-Saint-Michel during high tide, Manche, Normandy, France (© Clement LEONARD/Getty Images)](https://cn.bing.com/th?id=OHR.MichelSunset_EN-US3527235033_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Sat Aug 29 2026 09:43:43 GMT+0000 (Coordinated Universal Time) -->
+  ![Aerial view of surfers, Santa Catarina, Brazil (© Wonderful Nature/Shutterstock)](https://cn.bing.com/th?id=OHR.SantaCatarina_EN-US3600536393_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2026-08-29
+  2026-08-30
 
-  [Mont-Saint-Michel during high tide, Manche, Normandy, France (© Clement LEONARD/Getty Images)](https://cn.bing.com/th?id=OHR.MichelSunset_EN-US3527235033_UHD.jpg)
+  [Aerial view of surfers, Santa Catarina, Brazil (© Wonderful Nature/Shutterstock)](https://cn.bing.com/th?id=OHR.SantaCatarina_EN-US3600536393_UHD.jpg)
 <!-- END -->
 
 
