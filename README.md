@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Wed Sep 02 2026 07:38:19 GMT+0000 (Coordinated Universal Time) -->
-  ![Traditional beach huts, Southwold, Suffolk Heritage Coast, England (© stevendocwra/Getty Images)](https://cn.bing.com/th?id=OHR.SuffolkHuts_EN-US3987062531_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Thu Sep 03 2026 07:47:32 GMT+0000 (Coordinated Universal Time) -->
+  ![Coyote Buttes, Vermilion Cliffs National Monument, Arizona (© James Hager/Getty Images)](https://cn.bing.com/th?id=OHR.AZWilderness_EN-US4070936347_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2026-09-03
+  2026-09-04
 
-  [Traditional beach huts, Southwold, Suffolk Heritage Coast, England (© stevendocwra/Getty Images)](https://cn.bing.com/th?id=OHR.SuffolkHuts_EN-US3987062531_UHD.jpg)
+  [Coyote Buttes, Vermilion Cliffs National Monument, Arizona (© James Hager/Getty Images)](https://cn.bing.com/th?id=OHR.AZWilderness_EN-US4070936347_UHD.jpg)
 <!-- END -->
 
 
