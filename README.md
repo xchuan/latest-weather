@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Fri Sep 04 2026 07:43:06 GMT+0000 (Coordinated Universal Time) -->
-  ![Westerheversand Lighthouse in Westerhever, Schleswig-Holstein, Germany (© bluejayphoto/Getty Images)](https://cn.bing.com/th?id=OHR.Westerheversand_EN-US3028839945_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Sat Sep 05 2026 07:24:54 GMT+0000 (Coordinated Universal Time) -->
+  ![Green-crowned brilliant hummingbirds feeding on lobster-claw flowers, Costa Rica (© Paul Hobson/Nature Picture Library)](https://cn.bing.com/th?id=OHR.GreenCrowned_EN-US3119017947_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2026-09-05
+  2026-09-06
 
-  [Westerheversand Lighthouse in Westerhever, Schleswig-Holstein, Germany (© bluejayphoto/Getty Images)](https://cn.bing.com/th?id=OHR.Westerheversand_EN-US3028839945_UHD.jpg)
+  [Green-crowned brilliant hummingbirds feeding on lobster-claw flowers, Costa Rica (© Paul Hobson/Nature Picture Library)](https://cn.bing.com/th?id=OHR.GreenCrowned_EN-US3119017947_UHD.jpg)
 <!-- END -->
 
 
