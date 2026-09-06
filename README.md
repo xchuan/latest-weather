@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Sat Sep 05 2026 07:24:54 GMT+0000 (Coordinated Universal Time) -->
-  ![Green-crowned brilliant hummingbirds feeding on lobster-claw flowers, Costa Rica (© Paul Hobson/Nature Picture Library)](https://cn.bing.com/th?id=OHR.GreenCrowned_EN-US3119017947_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Sun Sep 06 2026 07:38:36 GMT+0000 (Coordinated Universal Time) -->
+  ![Lake Fyans, Grampians National Park, Victoria, Australia (© tracielouise/Getty Images)](https://cn.bing.com/th?id=OHR.LakeFyans_EN-US4295341714_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2026-09-06
+  2026-09-07
 
-  [Green-crowned brilliant hummingbirds feeding on lobster-claw flowers, Costa Rica (© Paul Hobson/Nature Picture Library)](https://cn.bing.com/th?id=OHR.GreenCrowned_EN-US3119017947_UHD.jpg)
+  [Lake Fyans, Grampians National Park, Victoria, Australia (© tracielouise/Getty Images)](https://cn.bing.com/th?id=OHR.LakeFyans_EN-US4295341714_UHD.jpg)
 <!-- END -->
 
 
