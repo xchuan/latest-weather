@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Wed Sep 09 2026 07:52:42 GMT+0000 (Coordinated Universal Time) -->
-  ![Gabit Keni Beach near Ankola, Karnataka, India (© Amith Nag Photography/Getty Images)](https://cn.bing.com/th?id=OHR.GabitKeni_EN-US4620523183_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Thu Sep 10 2026 07:52:08 GMT+0000 (Coordinated Universal Time) -->
+  ![Aerial view of Olvera, Andalusia, Spain (© Marco Bottigelli/Getty Images)](https://cn.bing.com/th?id=OHR.Olvera_EN-US4712443253_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2026-09-10
+  2026-09-11
 
-  [Gabit Keni Beach near Ankola, Karnataka, India (© Amith Nag Photography/Getty Images)](https://cn.bing.com/th?id=OHR.GabitKeni_EN-US4620523183_UHD.jpg)
+  [Aerial view of Olvera, Andalusia, Spain (© Marco Bottigelli/Getty Images)](https://cn.bing.com/th?id=OHR.Olvera_EN-US4712443253_UHD.jpg)
 <!-- END -->
 
 
