@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Fri Sep 11 2026 07:48:08 GMT+0000 (Coordinated Universal Time) -->
-  ![The Flight 93 National Memorial Visitor Center near Shanksville, Pennsylvania (© Maurice Savage/Alamy)](https://cn.bing.com/th?id=OHR.Flight93_EN-US5966783443_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Sat Sep 12 2026 07:41:23 GMT+0000 (Coordinated Universal Time) -->
+  ![California sea lions hunting a sardine bait ball, offshore Mexico, Pacific Ocean (© Henley Spiers/Nature Picture Library)](https://cn.bing.com/th?id=OHR.SardineBait_EN-US4802395270_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2026-09-12
+  2026-09-13
 
-  [The Flight 93 National Memorial Visitor Center near Shanksville, Pennsylvania (© Maurice Savage/Alamy)](https://cn.bing.com/th?id=OHR.Flight93_EN-US5966783443_UHD.jpg)
+  [California sea lions hunting a sardine bait ball, offshore Mexico, Pacific Ocean (© Henley Spiers/Nature Picture Library)](https://cn.bing.com/th?id=OHR.SardineBait_EN-US4802395270_UHD.jpg)
 <!-- END -->
 
 
