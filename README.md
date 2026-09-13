@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Sat Sep 12 2026 07:41:23 GMT+0000 (Coordinated Universal Time) -->
-  ![California sea lions hunting a sardine bait ball, offshore Mexico, Pacific Ocean (© Henley Spiers/Nature Picture Library)](https://cn.bing.com/th?id=OHR.SardineBait_EN-US4802395270_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Sun Sep 13 2026 07:59:59 GMT+0000 (Coordinated Universal Time) -->
+  ![Cadini di Misurina, Dolomites, Veneto, Italy (© Vithun Khamsong/Getty Images)](https://cn.bing.com/th?id=OHR.MisurinaPeak_EN-US4897144498_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2026-09-13
+  2026-09-14
 
-  [California sea lions hunting a sardine bait ball, offshore Mexico, Pacific Ocean (© Henley Spiers/Nature Picture Library)](https://cn.bing.com/th?id=OHR.SardineBait_EN-US4802395270_UHD.jpg)
+  [Cadini di Misurina, Dolomites, Veneto, Italy (© Vithun Khamsong/Getty Images)](https://cn.bing.com/th?id=OHR.MisurinaPeak_EN-US4897144498_UHD.jpg)
 <!-- END -->
 
 
