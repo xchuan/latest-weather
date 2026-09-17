@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Wed Sep 16 2026 08:16:45 GMT+0000 (Coordinated Universal Time) -->
-  ![Polar bear cubs playing in Svalbard, Norway (© Danny Green/Nature Picture Library)](https://cn.bing.com/th?id=OHR.IcyCubs_EN-US5222104616_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Thu Sep 17 2026 08:23:16 GMT+0000 (Coordinated Universal Time) -->
+  ![Sorine windmill and vineyards, Santenay wine region, Côte de Beaune, Burgundy, France (© Marco Bottigelli/Getty Images)](https://cn.bing.com/th?id=OHR.Santenay_EN-US5299702509_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2026-09-17
+  2026-09-18
 
-  [Polar bear cubs playing in Svalbard, Norway (© Danny Green/Nature Picture Library)](https://cn.bing.com/th?id=OHR.IcyCubs_EN-US5222104616_UHD.jpg)
+  [Sorine windmill and vineyards, Santenay wine region, Côte de Beaune, Burgundy, France (© Marco Bottigelli/Getty Images)](https://cn.bing.com/th?id=OHR.Santenay_EN-US5299702509_UHD.jpg)
 <!-- END -->
 
 
