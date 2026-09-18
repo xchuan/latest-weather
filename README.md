@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Thu Sep 17 2026 08:23:16 GMT+0000 (Coordinated Universal Time) -->
-  ![Sorine windmill and vineyards, Santenay wine region, Côte de Beaune, Burgundy, France (© Marco Bottigelli/Getty Images)](https://cn.bing.com/th?id=OHR.Santenay_EN-US5299702509_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Fri Sep 18 2026 07:58:08 GMT+0000 (Coordinated Universal Time) -->
+  ![Winnats Pass, Peak District National Park, England (© Daniel_Kay/Getty Images)](https://cn.bing.com/th?id=OHR.WinnatsPassPeak_EN-US6112068451_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2026-09-18
+  2026-09-19
 
-  [Sorine windmill and vineyards, Santenay wine region, Côte de Beaune, Burgundy, France (© Marco Bottigelli/Getty Images)](https://cn.bing.com/th?id=OHR.Santenay_EN-US5299702509_UHD.jpg)
+  [Winnats Pass, Peak District National Park, England (© Daniel_Kay/Getty Images)](https://cn.bing.com/th?id=OHR.WinnatsPassPeak_EN-US6112068451_UHD.jpg)
 <!-- END -->
 
 
