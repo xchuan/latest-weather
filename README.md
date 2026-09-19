@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Fri Sep 18 2026 07:58:08 GMT+0000 (Coordinated Universal Time) -->
-  ![Winnats Pass, Peak District National Park, England (© Daniel_Kay/Getty Images)](https://cn.bing.com/th?id=OHR.WinnatsPassPeak_EN-US6112068451_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Sat Sep 19 2026 07:48:37 GMT+0000 (Coordinated Universal Time) -->
+  ![Alphorn players, Bavaria, Germany (© U. J. Alexander/Shutterstock)](https://cn.bing.com/th?id=OHR.AlphornBavaria_EN-US6200857270_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2026-09-19
+  2026-09-20
 
-  [Winnats Pass, Peak District National Park, England (© Daniel_Kay/Getty Images)](https://cn.bing.com/th?id=OHR.WinnatsPassPeak_EN-US6112068451_UHD.jpg)
+  [Alphorn players, Bavaria, Germany (© U. J. Alexander/Shutterstock)](https://cn.bing.com/th?id=OHR.AlphornBavaria_EN-US6200857270_UHD.jpg)
 <!-- END -->
 
 
