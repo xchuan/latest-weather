@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Mon Sep 21 2026 08:35:39 GMT+0000 (Coordinated Universal Time) -->
-  ![Sea otter grooming fur, Monterey Bay, California (© Suzi Eszterhas/Minden Pictures)](https://cn.bing.com/th?id=OHR.GroomingOtter_EN-US6710084372_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Tue Sep 22 2026 08:14:52 GMT+0000 (Coordinated Universal Time) -->
+  ![Fall aspen trees near Guardsman Pass, Utah, USA (© Danita Delimont/Shutterstock)](https://cn.bing.com/th?id=OHR.FallAspens_EN-US7211031109_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2026-09-22
+  2026-09-23
 
-  [Sea otter grooming fur, Monterey Bay, California (© Suzi Eszterhas/Minden Pictures)](https://cn.bing.com/th?id=OHR.GroomingOtter_EN-US6710084372_UHD.jpg)
+  [Fall aspen trees near Guardsman Pass, Utah, USA (© Danita Delimont/Shutterstock)](https://cn.bing.com/th?id=OHR.FallAspens_EN-US7211031109_UHD.jpg)
 <!-- END -->
 
 
