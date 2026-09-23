@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Tue Sep 22 2026 09:25:30 GMT+0000 (Coordinated Universal Time) -->
-  ![Fall aspen trees near Guardsman Pass, Utah, USA (© Danita Delimont/Shutterstock)](https://cn.bing.com/th?id=OHR.FallAspens_EN-US7211031109_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Wed Sep 23 2026 08:17:01 GMT+0000 (Coordinated Universal Time) -->
+  ![Hobbit house at Hobbiton Movie Set, Matamata, New Zealand (© djr-photography/Shutterstock)](https://cn.bing.com/th?id=OHR.TolkienWeek_EN-US7313336185_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2026-09-23
+  2026-09-24
 
-  [Fall aspen trees near Guardsman Pass, Utah, USA (© Danita Delimont/Shutterstock)](https://cn.bing.com/th?id=OHR.FallAspens_EN-US7211031109_UHD.jpg)
+  [Hobbit house at Hobbiton Movie Set, Matamata, New Zealand (© djr-photography/Shutterstock)](https://cn.bing.com/th?id=OHR.TolkienWeek_EN-US7313336185_UHD.jpg)
 <!-- END -->
 
 
