@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Fri Sep 25 2026 08:31:54 GMT+0000 (Coordinated Universal Time) -->
-  ![Chinese lanterns for Mid-Autumn Festival celebration (© LeeYiuTung/Getty Images)](https://cn.bing.com/th?id=OHR.MidAutumn2026_EN-US9341405351_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Sat Sep 26 2026 08:18:51 GMT+0000 (Coordinated Universal Time) -->
+  ![Cedar Mesa and Muley Point near Bears Ears National Monument, Utah, USA (© Jeff Clay/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.BearsEars_EN-US9429791451_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2026-09-26
+  2026-09-27
 
-  [Chinese lanterns for Mid-Autumn Festival celebration (© LeeYiuTung/Getty Images)](https://cn.bing.com/th?id=OHR.MidAutumn2026_EN-US9341405351_UHD.jpg)
+  [Cedar Mesa and Muley Point near Bears Ears National Monument, Utah, USA (© Jeff Clay/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.BearsEars_EN-US9429791451_UHD.jpg)
 <!-- END -->
 
 
