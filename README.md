@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Sat Sep 26 2026 08:18:51 GMT+0000 (Coordinated Universal Time) -->
-  ![Cedar Mesa and Muley Point near Bears Ears National Monument, Utah, USA (© Jeff Clay/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.BearsEars_EN-US9429791451_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Sun Sep 27 2026 08:57:06 GMT+0000 (Coordinated Universal Time) -->
+  ![Decorator crab on a sea pen, Komodo National Park, Indonesia (© Alex Mustard/Nature Picture Library)](https://cn.bing.com/th?id=OHR.DecoCrab_EN-US9587426678_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2026-09-27
+  2026-09-28
 
-  [Cedar Mesa and Muley Point near Bears Ears National Monument, Utah, USA (© Jeff Clay/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.BearsEars_EN-US9429791451_UHD.jpg)
+  [Decorator crab on a sea pen, Komodo National Park, Indonesia (© Alex Mustard/Nature Picture Library)](https://cn.bing.com/th?id=OHR.DecoCrab_EN-US9587426678_UHD.jpg)
 <!-- END -->
 
 
