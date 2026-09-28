@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Sun Sep 27 2026 08:57:06 GMT+0000 (Coordinated Universal Time) -->
-  ![Decorator crab on a sea pen, Komodo National Park, Indonesia (© Alex Mustard/Nature Picture Library)](https://cn.bing.com/th?id=OHR.DecoCrab_EN-US9587426678_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Mon Sep 28 2026 09:22:52 GMT+0000 (Coordinated Universal Time) -->
+  ![Sattais Katcheri Hall in Amber Fort near Jaipur, Rajasthan, India (© R.M. Nunes/Getty Images)](https://cn.bing.com/th?id=OHR.AmberHall_EN-US9930812541_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2026-09-28
+  2026-09-29
 
-  [Decorator crab on a sea pen, Komodo National Park, Indonesia (© Alex Mustard/Nature Picture Library)](https://cn.bing.com/th?id=OHR.DecoCrab_EN-US9587426678_UHD.jpg)
+  [Sattais Katcheri Hall in Amber Fort near Jaipur, Rajasthan, India (© R.M. Nunes/Getty Images)](https://cn.bing.com/th?id=OHR.AmberHall_EN-US9930812541_UHD.jpg)
 <!-- END -->
 
 
