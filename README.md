@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Fri Oct 02 2026 09:22:23 GMT+0000 (Coordinated Universal Time) -->
-  ![Chattooga River in the Appalachian Mountains, North Carolina (© mtilghma/Getty Images)](https://cn.bing.com/th?id=OHR.ChattoogaRiver_EN-US5042787453_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Sat Oct 03 2026 08:52:00 GMT+0000 (Coordinated Universal Time) -->
+  ![Brown bear in Silver Salmon Creek, Lake Clark National Park and Preserve, Alaska (© Danny Green/Nature Picture Library)](https://cn.bing.com/th?id=OHR.GrizzlySwim_EN-US5133524829_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2026-10-03
+  2026-10-04
 
-  [Chattooga River in the Appalachian Mountains, North Carolina (© mtilghma/Getty Images)](https://cn.bing.com/th?id=OHR.ChattoogaRiver_EN-US5042787453_UHD.jpg)
+  [Brown bear in Silver Salmon Creek, Lake Clark National Park and Preserve, Alaska (© Danny Green/Nature Picture Library)](https://cn.bing.com/th?id=OHR.GrizzlySwim_EN-US5133524829_UHD.jpg)
 <!-- END -->
 
 
