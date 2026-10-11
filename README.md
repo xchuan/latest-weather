@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Sat Oct 10 2026 09:25:13 GMT+0000 (Coordinated Universal Time) -->
-  ![Double-crested cormorants over Monterey Bay, California (© Hiroya Minakuchi/Minden Pictures)](https://cn.bing.com/th?id=OHR.CormorantsFlight_EN-US5972403355_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Sun Oct 11 2026 09:40:29 GMT+0000 (Coordinated Universal Time) -->
+  ![Glade Creek Grist Mill, Babcock State Park, West Virginia (© dszc/Getty Images)](https://cn.bing.com/th?id=OHR.BabcockSP_EN-US6068931791_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2026-10-11
+  2026-10-12
 
-  [Double-crested cormorants over Monterey Bay, California (© Hiroya Minakuchi/Minden Pictures)](https://cn.bing.com/th?id=OHR.CormorantsFlight_EN-US5972403355_UHD.jpg)
+  [Glade Creek Grist Mill, Babcock State Park, West Virginia (© dszc/Getty Images)](https://cn.bing.com/th?id=OHR.BabcockSP_EN-US6068931791_UHD.jpg)
 <!-- END -->
 
 
