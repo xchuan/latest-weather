@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Sun Oct 11 2026 09:40:29 GMT+0000 (Coordinated Universal Time) -->
-  ![Glade Creek Grist Mill, Babcock State Park, West Virginia (© dszc/Getty Images)](https://cn.bing.com/th?id=OHR.BabcockSP_EN-US6068931791_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Mon Oct 12 2026 10:14:32 GMT+0000 (Coordinated Universal Time) -->
+  ![White House Ruin at Canyon de Chelly National Monument in Arizona (© Ingo Arndt/Minden Pictures)](https://cn.bing.com/th?id=OHR.WhiteHouse_EN-US6161912809_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2026-10-12
+  2026-10-13
 
-  [Glade Creek Grist Mill, Babcock State Park, West Virginia (© dszc/Getty Images)](https://cn.bing.com/th?id=OHR.BabcockSP_EN-US6068931791_UHD.jpg)
+  [White House Ruin at Canyon de Chelly National Monument in Arizona (© Ingo Arndt/Minden Pictures)](https://cn.bing.com/th?id=OHR.WhiteHouse_EN-US6161912809_UHD.jpg)
 <!-- END -->
 
 
