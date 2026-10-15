@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Wed Oct 14 2026 08:23:23 GMT+0000 (Coordinated Universal Time) -->
-  ![Ammonite fossils from the Jurassic Period (© J Nemchinova/Getty Images)](https://cn.bing.com/th?id=OHR.AmmoniteFossils_EN-US6354038755_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Thu Oct 15 2026 07:59:25 GMT+0000 (Coordinated Universal Time) -->
+  ![View of the Wroclaw Market Square from the Witches' Bridge in Wroclaw, Poland (© Piotr Mitelski/Shutterstock)](https://cn.bing.com/th?id=OHR.WroclawPoland_EN-US7757698922_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2026-10-15
+  2026-10-16
 
-  [Ammonite fossils from the Jurassic Period (© J Nemchinova/Getty Images)](https://cn.bing.com/th?id=OHR.AmmoniteFossils_EN-US6354038755_UHD.jpg)
+  [View of the Wroclaw Market Square from the Witches' Bridge in Wroclaw, Poland (© Piotr Mitelski/Shutterstock)](https://cn.bing.com/th?id=OHR.WroclawPoland_EN-US7757698922_UHD.jpg)
 <!-- END -->
 
 
