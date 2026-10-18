@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Sat Oct 17 2026 07:31:37 GMT+0000 (Coordinated Universal Time) -->
-  ![Life-size replica of Chauvet  cave art in Vallon-Pont-d'Arc, France (© Audrey Poree/Alamy)](https://cn.bing.com/th?id=OHR.ChauvetPaintingsFrance_EN-US6137200151_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Sun Oct 18 2026 07:46:28 GMT+0000 (Coordinated Universal Time) -->
+  ![Dolbadarn Castle, Llanberis, Eryri National Park (Snowdonia), Wales (© joe daniel price/Getty Images)](https://cn.bing.com/th?id=OHR.DolbadarnWales_EN-US6620614213_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2026-10-18
+  2026-10-19
 
-  [Life-size replica of Chauvet  cave art in Vallon-Pont-d'Arc, France (© Audrey Poree/Alamy)](https://cn.bing.com/th?id=OHR.ChauvetPaintingsFrance_EN-US6137200151_UHD.jpg)
+  [Dolbadarn Castle, Llanberis, Eryri National Park (Snowdonia), Wales (© joe daniel price/Getty Images)](https://cn.bing.com/th?id=OHR.DolbadarnWales_EN-US6620614213_UHD.jpg)
 <!-- END -->
 
 
