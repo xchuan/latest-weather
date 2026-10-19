@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Sun Oct 18 2026 07:46:28 GMT+0000 (Coordinated Universal Time) -->
-  ![Dolbadarn Castle, Llanberis, Eryri National Park (Snowdonia), Wales (© joe daniel price/Getty Images)](https://cn.bing.com/th?id=OHR.DolbadarnWales_EN-US6620614213_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Mon Oct 19 2026 08:29:18 GMT+0000 (Coordinated Universal Time) -->
+  ![Grand Canal in Venice, Italy (© Juan Romero/Cavan Images)](https://cn.bing.com/th?id=OHR.VeniceSunrise_EN-US6714393168_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2026-10-19
+  2026-10-20
 
-  [Dolbadarn Castle, Llanberis, Eryri National Park (Snowdonia), Wales (© joe daniel price/Getty Images)](https://cn.bing.com/th?id=OHR.DolbadarnWales_EN-US6620614213_UHD.jpg)
+  [Grand Canal in Venice, Italy (© Juan Romero/Cavan Images)](https://cn.bing.com/th?id=OHR.VeniceSunrise_EN-US6714393168_UHD.jpg)
 <!-- END -->
 
 
