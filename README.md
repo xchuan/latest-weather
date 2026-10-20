@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Mon Oct 19 2026 08:29:18 GMT+0000 (Coordinated Universal Time) -->
-  ![Grand Canal in Venice, Italy (© Juan Romero/Cavan Images)](https://cn.bing.com/th?id=OHR.VeniceSunrise_EN-US6714393168_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Tue Oct 20 2026 09:33:43 GMT+0000 (Coordinated Universal Time) -->
+  ![Brown-throated sloth, Puerto Viejo de Talamanca, Costa Rica (© Suzi Eszterhas/Minden Pictures)](https://cn.bing.com/th?id=OHR.BrownSloth_EN-US6816754257_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2026-10-20
+  2026-10-21
 
-  [Grand Canal in Venice, Italy (© Juan Romero/Cavan Images)](https://cn.bing.com/th?id=OHR.VeniceSunrise_EN-US6714393168_UHD.jpg)
+  [Brown-throated sloth, Puerto Viejo de Talamanca, Costa Rica (© Suzi Eszterhas/Minden Pictures)](https://cn.bing.com/th?id=OHR.BrownSloth_EN-US6816754257_UHD.jpg)
 <!-- END -->
 
 
