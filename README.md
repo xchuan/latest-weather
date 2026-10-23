@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Thu Oct 22 2026 08:18:03 GMT+0000 (Coordinated Universal Time) -->
-  ![Autumn in Naejangsan National Park, South Korea (© Twenty47studio/Getty Images)](https://cn.bing.com/th?id=OHR.NaejangsanNP_EN-US7010419904_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Fri Oct 23 2026 08:14:37 GMT+0000 (Coordinated Universal Time) -->
+  ![Two gray wolves, Yellowstone National Park, Wyoming (© John Morrison/Getty Images)](https://cn.bing.com/th?id=OHR.YellowstoneWolves_EN-US7105521535_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2026-10-23
+  2026-10-24
 
-  [Autumn in Naejangsan National Park, South Korea (© Twenty47studio/Getty Images)](https://cn.bing.com/th?id=OHR.NaejangsanNP_EN-US7010419904_UHD.jpg)
+  [Two gray wolves, Yellowstone National Park, Wyoming (© John Morrison/Getty Images)](https://cn.bing.com/th?id=OHR.YellowstoneWolves_EN-US7105521535_UHD.jpg)
 <!-- END -->
 
 
