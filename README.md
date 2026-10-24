@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Fri Oct 23 2026 08:14:37 GMT+0000 (Coordinated Universal Time) -->
-  ![Two gray wolves, Yellowstone National Park, Wyoming (© John Morrison/Getty Images)](https://cn.bing.com/th?id=OHR.YellowstoneWolves_EN-US7105521535_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Sat Oct 24 2026 07:53:06 GMT+0000 (Coordinated Universal Time) -->
+  ![Royal Portuguese Cabinet of Reading, Rio de Janeiro, Brazil (© Antonio Salaverry/Shutterstock)](https://cn.bing.com/th?id=OHR.PortugueseLibrary_EN-US7519268149_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2026-10-24
+  2026-10-25
 
-  [Two gray wolves, Yellowstone National Park, Wyoming (© John Morrison/Getty Images)](https://cn.bing.com/th?id=OHR.YellowstoneWolves_EN-US7105521535_UHD.jpg)
+  [Royal Portuguese Cabinet of Reading, Rio de Janeiro, Brazil (© Antonio Salaverry/Shutterstock)](https://cn.bing.com/th?id=OHR.PortugueseLibrary_EN-US7519268149_UHD.jpg)
 <!-- END -->
 
 
