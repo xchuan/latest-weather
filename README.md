@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Sun Oct 25 2026 08:06:26 GMT+0000 (Coordinated Universal Time) -->
-  ![Autumn waterfalls near Sitovo, Plovdiv Province, Bulgaria (© Nadya85/Getty Images)](https://cn.bing.com/th?id=OHR.SitovoWaterfall_EN-US7626867890_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Mon Oct 26 2026 08:31:21 GMT+0000 (Coordinated Universal Time) -->
+  ![Gray-headed flying fox, Victoria, Australia (© Doug Gimesy/Nature Picture Library)](https://cn.bing.com/th?id=OHR.HangingBat_EN-US7714746725_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2026-10-26
+  2026-10-27
 
-  [Autumn waterfalls near Sitovo, Plovdiv Province, Bulgaria (© Nadya85/Getty Images)](https://cn.bing.com/th?id=OHR.SitovoWaterfall_EN-US7626867890_UHD.jpg)
+  [Gray-headed flying fox, Victoria, Australia (© Doug Gimesy/Nature Picture Library)](https://cn.bing.com/th?id=OHR.HangingBat_EN-US7714746725_UHD.jpg)
 <!-- END -->
 
 
