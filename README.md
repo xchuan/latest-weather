@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Wed Oct 28 2026 09:18:36 GMT+0000 (Coordinated Universal Time) -->
-  ![Kunětická hora Castle, Bohemia, Czechia (© Marek Saroch/Alamy)](https://cn.bing.com/th?id=OHR.KuneticeCastle_EN-US9492527404_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Thu Oct 29 2026 09:21:25 GMT+0000 (Coordinated Universal Time) -->
+  ![Standing stones at Avebury in Wiltshire, England (© George W Johnson/Getty Images)](https://cn.bing.com/th?id=OHR.AveburyStones_EN-US9568662876_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2026-10-29
+  2026-10-30
 
-  [Kunětická hora Castle, Bohemia, Czechia (© Marek Saroch/Alamy)](https://cn.bing.com/th?id=OHR.KuneticeCastle_EN-US9492527404_UHD.jpg)
+  [Standing stones at Avebury in Wiltshire, England (© George W Johnson/Getty Images)](https://cn.bing.com/th?id=OHR.AveburyStones_EN-US9568662876_UHD.jpg)
 <!-- END -->
 
 
