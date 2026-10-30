@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Thu Oct 29 2026 09:21:25 GMT+0000 (Coordinated Universal Time) -->
-  ![Standing stones at Avebury in Wiltshire, England (© George W Johnson/Getty Images)](https://cn.bing.com/th?id=OHR.AveburyStones_EN-US9568662876_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Fri Oct 30 2026 09:36:33 GMT+0000 (Coordinated Universal Time) -->
+  ![Sandhill cranes, Bosque del Apache National Wildlife Refuge, New Mexico, USA (© Terry St.Louis/Getty Images)](https://cn.bing.com/th?id=OHR.AutumnCranes_EN-US9795571462_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2026-10-30
+  2026-10-31
 
-  [Standing stones at Avebury in Wiltshire, England (© George W Johnson/Getty Images)](https://cn.bing.com/th?id=OHR.AveburyStones_EN-US9568662876_UHD.jpg)
+  [Sandhill cranes, Bosque del Apache National Wildlife Refuge, New Mexico, USA (© Terry St.Louis/Getty Images)](https://cn.bing.com/th?id=OHR.AutumnCranes_EN-US9795571462_UHD.jpg)
 <!-- END -->
 
 
