@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Fri Oct 30 2026 09:36:33 GMT+0000 (Coordinated Universal Time) -->
-  ![Sandhill cranes, Bosque del Apache National Wildlife Refuge, New Mexico, USA (© Terry St.Louis/Getty Images)](https://cn.bing.com/th?id=OHR.AutumnCranes_EN-US9795571462_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Sat Oct 31 2026 09:17:08 GMT+0000 (Coordinated Universal Time) -->
+  ![St. Bartholomew's Cathedral in Frankfurt, Germany (© AlxeyPnferov/Getty Images)](https://cn.bing.com/th?id=OHR.FrankfurtHalloween_EN-US0115213682_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2026-10-31
+  2026-11-01
 
-  [Sandhill cranes, Bosque del Apache National Wildlife Refuge, New Mexico, USA (© Terry St.Louis/Getty Images)](https://cn.bing.com/th?id=OHR.AutumnCranes_EN-US9795571462_UHD.jpg)
+  [St. Bartholomew's Cathedral in Frankfurt, Germany (© AlxeyPnferov/Getty Images)](https://cn.bing.com/th?id=OHR.FrankfurtHalloween_EN-US0115213682_UHD.jpg)
 <!-- END -->
 
 
