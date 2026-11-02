@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Sun Nov 01 2026 10:04:35 GMT+0000 (Coordinated Universal Time) -->
-  ![Handmade baskets, Santa Fe, New Mexico (© Patrick Lane/Getty Images)](https://cn.bing.com/th?id=OHR.NativeBaskets_EN-US0205712064_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Mon Nov 02 2026 10:32:42 GMT+0000 (Coordinated Universal Time) -->
+  ![Polar bear and cubs by Hudson Bay, Manitoba, Canada (© Danita Delimont/Adobe Stock)](https://cn.bing.com/th?id=OHR.HudsonBear_EN-US0297833232_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2026-11-02
+  2026-11-03
 
-  [Handmade baskets, Santa Fe, New Mexico (© Patrick Lane/Getty Images)](https://cn.bing.com/th?id=OHR.NativeBaskets_EN-US0205712064_UHD.jpg)
+  [Polar bear and cubs by Hudson Bay, Manitoba, Canada (© Danita Delimont/Adobe Stock)](https://cn.bing.com/th?id=OHR.HudsonBear_EN-US0297833232_UHD.jpg)
 <!-- END -->
 
 
