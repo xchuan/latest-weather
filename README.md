@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Mon Nov 02 2026 10:32:42 GMT+0000 (Coordinated Universal Time) -->
-  ![Polar bear and cubs by Hudson Bay, Manitoba, Canada (© Danita Delimont/Adobe Stock)](https://cn.bing.com/th?id=OHR.HudsonBear_EN-US0297833232_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Tue Nov 03 2026 10:27:37 GMT+0000 (Coordinated Universal Time) -->
+  ![Lake Braies, Fanes‑Sennes‑Braies Nature Park, Dolomites, Italy (© leonid_tit/Getty Images)](https://cn.bing.com/th?id=OHR.AlpineBraies_EN-US6636326357_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2026-11-03
+  2026-11-04
 
-  [Polar bear and cubs by Hudson Bay, Manitoba, Canada (© Danita Delimont/Adobe Stock)](https://cn.bing.com/th?id=OHR.HudsonBear_EN-US0297833232_UHD.jpg)
+  [Lake Braies, Fanes‑Sennes‑Braies Nature Park, Dolomites, Italy (© leonid_tit/Getty Images)](https://cn.bing.com/th?id=OHR.AlpineBraies_EN-US6636326357_UHD.jpg)
 <!-- END -->
 
 
