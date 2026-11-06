@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Thu Nov 05 2026 10:21:22 GMT+0000 (Coordinated Universal Time) -->
-  ![Wooden stile at a stone wall, Black Crag, Lake District, England (© Alex Treadway/Getty Images)](https://cn.bing.com/th?id=OHR.StileCrossing_EN-US9052435517_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Fri Nov 06 2026 10:23:52 GMT+0000 (Coordinated Universal Time) -->
+  ![Bamboo forest, Pīpīwai Trail, Haleakalā National Park, Maui, Hawaii, USA (© MNStudio/Getty Images)](https://cn.bing.com/th?id=OHR.PipiwaiTrail_EN-CA6167003961_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2026-11-06
+  2026-11-07
 
-  [Wooden stile at a stone wall, Black Crag, Lake District, England (© Alex Treadway/Getty Images)](https://cn.bing.com/th?id=OHR.StileCrossing_EN-US9052435517_UHD.jpg)
+  [Bamboo forest, Pīpīwai Trail, Haleakalā National Park, Maui, Hawaii, USA (© MNStudio/Getty Images)](https://cn.bing.com/th?id=OHR.PipiwaiTrail_EN-CA6167003961_UHD.jpg)
 <!-- END -->
 
 
