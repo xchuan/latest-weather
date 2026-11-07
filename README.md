@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Fri Nov 06 2026 10:23:52 GMT+0000 (Coordinated Universal Time) -->
-  ![Bamboo forest, Pīpīwai Trail, Haleakalā National Park, Maui, Hawaii, USA (© MNStudio/Getty Images)](https://cn.bing.com/th?id=OHR.PipiwaiTrail_EN-CA6167003961_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Sat Nov 07 2026 09:37:46 GMT+0000 (Coordinated Universal Time) -->
+  ![A bison in the grasslands of Theodore Roosevelt National Park, North Dakota (© Tandem Stock/Adobe Stock)](https://cn.bing.com/th?id=OHR.DakotaBison_EN-US0710175615_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2026-11-07
+  2026-11-08
 
-  [Bamboo forest, Pīpīwai Trail, Haleakalā National Park, Maui, Hawaii, USA (© MNStudio/Getty Images)](https://cn.bing.com/th?id=OHR.PipiwaiTrail_EN-CA6167003961_UHD.jpg)
+  [A bison in the grasslands of Theodore Roosevelt National Park, North Dakota (© Tandem Stock/Adobe Stock)](https://cn.bing.com/th?id=OHR.DakotaBison_EN-US0710175615_UHD.jpg)
 <!-- END -->
 
 
