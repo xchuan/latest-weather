@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Sat Nov 07 2026 09:37:46 GMT+0000 (Coordinated Universal Time) -->
-  ![A bison in the grasslands of Theodore Roosevelt National Park, North Dakota (© Tandem Stock/Adobe Stock)](https://cn.bing.com/th?id=OHR.DakotaBison_EN-US0710175615_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Mon Nov 09 2026 10:54:38 GMT+0000 (Coordinated Universal Time) -->
+  ![Historic district of Triana, Seville, Spain (© Andrzej Rostek/Getty Images)](https://cn.bing.com/th?id=OHR.TrianaSpain_EN-US0872031458_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2026-11-08
+  2026-11-10
 
-  [A bison in the grasslands of Theodore Roosevelt National Park, North Dakota (© Tandem Stock/Adobe Stock)](https://cn.bing.com/th?id=OHR.DakotaBison_EN-US0710175615_UHD.jpg)
+  [Historic district of Triana, Seville, Spain (© Andrzej Rostek/Getty Images)](https://cn.bing.com/th?id=OHR.TrianaSpain_EN-US0872031458_UHD.jpg)
 <!-- END -->
 
 
