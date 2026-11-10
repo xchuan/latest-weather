@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Mon Nov 09 2026 10:54:38 GMT+0000 (Coordinated Universal Time) -->
-  ![Historic district of Triana, Seville, Spain (© Andrzej Rostek/Getty Images)](https://cn.bing.com/th?id=OHR.TrianaSpain_EN-US0872031458_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Tue Nov 10 2026 10:46:05 GMT+0000 (Coordinated Universal Time) -->
+  ![Aerial view of Rose Island, The Bahamas (© Abstract Aerial Art/Getty Images)](https://cn.bing.com/th?id=OHR.RoseIsland_EN-US0952497192_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2026-11-10
+  2026-11-11
 
-  [Historic district of Triana, Seville, Spain (© Andrzej Rostek/Getty Images)](https://cn.bing.com/th?id=OHR.TrianaSpain_EN-US0872031458_UHD.jpg)
+  [Aerial view of Rose Island, The Bahamas (© Abstract Aerial Art/Getty Images)](https://cn.bing.com/th?id=OHR.RoseIsland_EN-US0952497192_UHD.jpg)
 <!-- END -->
 
 
