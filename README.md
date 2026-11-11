@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Tue Nov 10 2026 12:52:49 GMT+0000 (Coordinated Universal Time) -->
-  ![Aerial view of Rose Island, The Bahamas (© Abstract Aerial Art/Getty Images)](https://cn.bing.com/th?id=OHR.RoseIsland_EN-US0952497192_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Wed Nov 11 2026 10:20:46 GMT+0000 (Coordinated Universal Time) -->
+  ![American flags in a public park in upstate New York (© Matt Champlin/Getty Images)](https://cn.bing.com/th?id=OHR.SunsetFlags_EN-US1046151448_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2026-11-11
+  2026-11-12
 
-  [Aerial view of Rose Island, The Bahamas (© Abstract Aerial Art/Getty Images)](https://cn.bing.com/th?id=OHR.RoseIsland_EN-US0952497192_UHD.jpg)
+  [American flags in a public park in upstate New York (© Matt Champlin/Getty Images)](https://cn.bing.com/th?id=OHR.SunsetFlags_EN-US1046151448_UHD.jpg)
 <!-- END -->
 
 
