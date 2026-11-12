@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Wed Nov 11 2026 10:20:46 GMT+0000 (Coordinated Universal Time) -->
-  ![American flags in a public park in upstate New York (© Matt Champlin/Getty Images)](https://cn.bing.com/th?id=OHR.SunsetFlags_EN-US1046151448_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Thu Nov 12 2026 10:39:05 GMT+0000 (Coordinated Universal Time) -->
+  ![North Window, Arches National Park, Moab, Utah (© lightphoto/Getty Images)](https://cn.bing.com/th?id=OHR.NorthWindow_EN-US1170338293_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2026-11-12
+  2026-11-13
 
-  [American flags in a public park in upstate New York (© Matt Champlin/Getty Images)](https://cn.bing.com/th?id=OHR.SunsetFlags_EN-US1046151448_UHD.jpg)
+  [North Window, Arches National Park, Moab, Utah (© lightphoto/Getty Images)](https://cn.bing.com/th?id=OHR.NorthWindow_EN-US1170338293_UHD.jpg)
 <!-- END -->
 
 
