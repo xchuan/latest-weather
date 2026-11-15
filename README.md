@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Sat Nov 14 2026 09:49:03 GMT+0000 (Coordinated Universal Time) -->
-  ![Victoria Harbour, Hong Kong, China (© Juan Romero/Cavan Images)](https://cn.bing.com/th?id=OHR.BlueHK_EN-US7870996687_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Sun Nov 15 2026 10:24:10 GMT+0000 (Coordinated Universal Time) -->
+  ![Frozen azalea with red leaves (© avoferten/Shutterstock)](https://cn.bing.com/th?id=OHR.FirstFrost_EN-US8881008245_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2026-11-15
+  2026-11-16
 
-  [Victoria Harbour, Hong Kong, China (© Juan Romero/Cavan Images)](https://cn.bing.com/th?id=OHR.BlueHK_EN-US7870996687_UHD.jpg)
+  [Frozen azalea with red leaves (© avoferten/Shutterstock)](https://cn.bing.com/th?id=OHR.FirstFrost_EN-US8881008245_UHD.jpg)
 <!-- END -->
 
 
