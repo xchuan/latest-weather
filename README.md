@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Thu Nov 19 2026 11:07:30 GMT+0000 (Coordinated Universal Time) -->
-  ![The "Body of Knowledge" sculpture by Jaume Plensa at Goethe University in Frankfurt, Germany (© Todamo/Shutterstock)](https://cn.bing.com/th?id=OHR.KnowledgeSculpture_EN-US9746703110_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Fri Nov 20 2026 10:54:55 GMT+0000 (Coordinated Universal Time) -->
+  ![Diving humpback whale, Kvaloya, Troms, Northern Norway (© Espen Bergersen/Minden Pictures)](https://cn.bing.com/th?id=OHR.Megaptera_EN-US1728719939_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2026-11-20
+  2026-11-21
 
-  [The "Body of Knowledge" sculpture by Jaume Plensa at Goethe University in Frankfurt, Germany (© Todamo/Shutterstock)](https://cn.bing.com/th?id=OHR.KnowledgeSculpture_EN-US9746703110_UHD.jpg)
+  [Diving humpback whale, Kvaloya, Troms, Northern Norway (© Espen Bergersen/Minden Pictures)](https://cn.bing.com/th?id=OHR.Megaptera_EN-US1728719939_UHD.jpg)
 <!-- END -->
 
 
