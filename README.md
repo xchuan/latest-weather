@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Sun Nov 22 2026 10:43:27 GMT+0000 (Coordinated Universal Time) -->
-  ![The chapel and hermitage of Santa Justa in Cantabria, Spain (© Tramont_ana/Getty Images)](https://cn.bing.com/th?id=OHR.JustaHermitage_EN-US0130271816_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Mon Nov 23 2026 11:48:39 GMT+0000 (Coordinated Universal Time) -->
+  ![Fiddlehead fern (© Reza Saputra/Getty Images)](https://cn.bing.com/th?id=OHR.FibonacciFern_EN-US6307771770_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2026-11-23
+  2026-11-24
 
-  [The chapel and hermitage of Santa Justa in Cantabria, Spain (© Tramont_ana/Getty Images)](https://cn.bing.com/th?id=OHR.JustaHermitage_EN-US0130271816_UHD.jpg)
+  [Fiddlehead fern (© Reza Saputra/Getty Images)](https://cn.bing.com/th?id=OHR.FibonacciFern_EN-US6307771770_UHD.jpg)
 <!-- END -->
 
 
