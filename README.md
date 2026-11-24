@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Mon Nov 23 2026 11:48:39 GMT+0000 (Coordinated Universal Time) -->
-  ![Fiddlehead fern (© Reza Saputra/Getty Images)](https://cn.bing.com/th?id=OHR.FibonacciFern_EN-US6307771770_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Tue Nov 24 2026 13:16:40 GMT+0000 (Coordinated Universal Time) -->
+  ![Red squirrel in Cairngorms National Park, Highlands, Scotland (© Scotland: The Big Picture/Minden Pictures)](https://cn.bing.com/th?id=OHR.CairngormsSquirrel_EN-US7053432564_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2026-11-24
+  2026-11-25
 
-  [Fiddlehead fern (© Reza Saputra/Getty Images)](https://cn.bing.com/th?id=OHR.FibonacciFern_EN-US6307771770_UHD.jpg)
+  [Red squirrel in Cairngorms National Park, Highlands, Scotland (© Scotland: The Big Picture/Minden Pictures)](https://cn.bing.com/th?id=OHR.CairngormsSquirrel_EN-US7053432564_UHD.jpg)
 <!-- END -->
 
 
