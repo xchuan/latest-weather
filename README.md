@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Wed Nov 25 2026 12:07:23 GMT+0000 (Coordinated Universal Time) -->
-  ![Sunset Point, Bryce Canyon National Park, Utah (© Colin D. Young/Alamy)](https://cn.bing.com/th?id=OHR.SunsetPoint_EN-US0827880440_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Thu Nov 26 2026 11:54:07 GMT+0000 (Coordinated Universal Time) -->
+  ![Two wild tom turkeys (© davidsdodd/Getty Images)](https://cn.bing.com/th?id=OHR.WildTom_EN-US1069249609_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2026-11-26
+  2026-11-27
 
-  [Sunset Point, Bryce Canyon National Park, Utah (© Colin D. Young/Alamy)](https://cn.bing.com/th?id=OHR.SunsetPoint_EN-US0827880440_UHD.jpg)
+  [Two wild tom turkeys (© davidsdodd/Getty Images)](https://cn.bing.com/th?id=OHR.WildTom_EN-US1069249609_UHD.jpg)
 <!-- END -->
 
 
