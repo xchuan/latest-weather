@@ -12,12 +12,12 @@ git push -u origin main
 使用 `deno`、`Github Actions` 自动抓取 `Bing` 搜索每天的首页背景图。
 
 <!-- BEGIN -->
-<!--  Thu Nov 26 2026 11:54:07 GMT+0000 (Coordinated Universal Time) -->
-  ![Two wild tom turkeys (© davidsdodd/Getty Images)](https://cn.bing.com/th?id=OHR.WildTom_EN-US1069249609_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
+<!--  Fri Nov 27 2026 11:45:57 GMT+0000 (Coordinated Universal Time) -->
+  ![Butte at sunset, Face Canyon, Lake Powell, Utah (© Jeff Foott/Minden)](https://cn.bing.com/th?id=OHR.FaceCanyon_EN-US6254374163_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)
 
-  2026-11-27
+  2026-11-28
 
-  [Two wild tom turkeys (© davidsdodd/Getty Images)](https://cn.bing.com/th?id=OHR.WildTom_EN-US1069249609_UHD.jpg)
+  [Butte at sunset, Face Canyon, Lake Powell, Utah (© Jeff Foott/Minden)](https://cn.bing.com/th?id=OHR.FaceCanyon_EN-US6254374163_UHD.jpg)
 <!-- END -->
 
 
